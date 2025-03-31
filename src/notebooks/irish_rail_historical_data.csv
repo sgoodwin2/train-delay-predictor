@@ -1,0 +1,1409 @@
+TrainCode,TrainDate,LocationCode,LocationFullName,ScheduledArrival,ActualArrival,ScheduledDeparture,ActualDeparture,LocationType,TrainOrigin,TrainDestination
+P540,31 Mar 2025,CORK,Cork,00:00:00,,23:00:00,,O,Cork,Mallow
+P540,31 Mar 2025,CK789,,23:02:30,,23:02:30,,T,Cork,Mallow
+P540,31 Mar 2025,RP805,RP805,23:11:30,,23:11:30,,T,Cork,Mallow
+P540,31 Mar 2025,MW807,MW807,23:17:00,,23:17:00,,T,Cork,Mallow
+P540,31 Mar 2025,KRLYJ,Killarney Junction,23:22:00,,23:22:00,,T,Cork,Mallow
+P540,31 Mar 2025,MLLOW,Mallow,23:24:00,,00:00:00,,D,Cork,Mallow
+E134,31 Mar 2025,MHIDE,Malahide,00:00:00,22:54:24,23:05:00,,O,Malahide,Bray
+E134,31 Mar 2025,PMNCK,Portmarnock,23:09:00,,23:09:30,,S,Malahide,Bray
+E134,31 Mar 2025,GRGRD,Clongriffin,23:11:30,,23:12:00,,S,Malahide,Bray
+E134,31 Mar 2025,HWTHJ,Howth Junction,23:14:00,,23:14:30,,S,Malahide,Bray
+E134,31 Mar 2025,KBRCK,Kilbarrack,23:16:00,,23:16:30,,S,Malahide,Bray
+E134,31 Mar 2025,RAHNY,Raheny,23:18:30,,23:19:00,,S,Malahide,Bray
+E134,31 Mar 2025,HTOWN,Harmonstown,23:20:30,,23:21:00,,S,Malahide,Bray
+E134,31 Mar 2025,KLSTR,Killester,23:22:30,,23:23:00,,S,Malahide,Bray
+E134,31 Mar 2025,CTARF,Clontarf Road,23:26:00,,23:26:30,,S,Malahide,Bray
+E134,31 Mar 2025,EWALL,,23:28:00,,23:28:00,,T,Malahide,Bray
+E134,31 Mar 2025,SUBJN,,23:28:30,,23:28:30,,T,Malahide,Bray
+E134,31 Mar 2025,DC336,,23:28:30,,23:28:30,,T,Malahide,Bray
+E134,31 Mar 2025,DC343,,23:29:00,,23:29:00,,T,Malahide,Bray
+E134,31 Mar 2025,CNLLY,Dublin Connolly,23:31:00,,23:32:00,,S,Malahide,Bray
+E134,31 Mar 2025,TARA,Tara Street,23:34:00,,23:35:00,,S,Malahide,Bray
+E134,31 Mar 2025,PERSE,Dublin Pearse,23:36:00,,23:37:00,,S,Malahide,Bray
+E134,31 Mar 2025,PERSE,Dublin Pearse,23:37:30,,23:37:30,,T,Malahide,Bray
+E134,31 Mar 2025,GCDK,Grand Canal Dock,23:38:30,,23:39:30,,S,Malahide,Bray
+E134,31 Mar 2025,LDWNE,Lansdowne Road,23:42:00,,23:42:30,,S,Malahide,Bray
+E134,31 Mar 2025,SMONT,Sandymount,23:44:00,,23:44:30,,S,Malahide,Bray
+E134,31 Mar 2025,SIDNY,Sydney Parade,23:46:30,,23:47:00,,S,Malahide,Bray
+E134,31 Mar 2025,BTSTN,Booterstown,23:49:00,,23:49:30,,S,Malahide,Bray
+E134,31 Mar 2025,BROCK,Blackrock,23:51:30,,23:52:00,,S,Malahide,Bray
+E134,31 Mar 2025,SEAPT,Seapoint,23:53:30,,23:54:00,,S,Malahide,Bray
+E134,31 Mar 2025,SHILL,Salthill and Monkstown,23:55:30,,23:56:00,,S,Malahide,Bray
+E134,31 Mar 2025,DLERY,Dun Laoghaire,23:58:00,,23:58:30,,S,Malahide,Bray
+E134,31 Mar 2025,SCOVE,Sandycove,00:01:30,,00:02:00,,S,Malahide,Bray
+E134,31 Mar 2025,GLGRY,Glenageary,00:04:00,,00:04:30,,S,Malahide,Bray
+E134,31 Mar 2025,DLKEY,Dalkey,00:06:30,,00:07:00,,S,Malahide,Bray
+E134,31 Mar 2025,KILNY,Killiney,00:11:00,,00:11:30,,S,Malahide,Bray
+E134,31 Mar 2025,SKILL,Shankill,00:14:00,,00:14:30,,S,Malahide,Bray
+E134,31 Mar 2025,BRAY,Bray,00:20:00,,00:00:00,,D,Malahide,Bray
+A730,31 Mar 2025,HSTON,Dublin Heuston,00:00:00,,20:30:00,,O,Dublin Heuston,Galway
+A730,31 Mar 2025,IBJCT,Islandbridge Junction,20:32:00,,20:32:00,,T,Dublin Heuston,Galway
+A730,31 Mar 2025,ICADV,Inchicore Advance Starter,20:34:30,20:35:24,20:34:30,20:44:42,T,Dublin Heuston,Galway
+A730,31 Mar 2025,HK101,HK101,20:35:00,,20:35:00,,T,Dublin Heuston,Galway
+A730,31 Mar 2025,PWESF,Park West and Cherry Orchard,20:36:00,20:46:42,20:36:00,20:47:12,T,Dublin Heuston,Galway
+A730,31 Mar 2025,CLONF,Clondalkin,20:37:00,20:47:30,20:37:00,20:48:12,T,Dublin Heuston,Galway
+A730,31 Mar 2025,KISHF,Kishoge,20:37:30,20:48:42,20:37:30,20:48:54,T,Dublin Heuston,Galway
+A730,31 Mar 2025,ADAMF,Adamstown,20:39:00,20:50:00,20:39:00,20:50:12,T,Dublin Heuston,Galway
+A730,31 Mar 2025,HAZEF,Hazelhatch,20:40:30,20:51:54,20:40:30,20:52:00,T,Dublin Heuston,Galway
+A730,31 Mar 2025,HK151,HK151,20:41:00,,20:41:00,,T,Dublin Heuston,Galway
+A730,31 Mar 2025,HK157,HK157,20:43:30,,20:43:30,,T,Dublin Heuston,Galway
+A730,31 Mar 2025,SALNS,Sallins,20:45:30,20:56:48,20:45:30,20:57:18,T,Dublin Heuston,Galway
+A730,31 Mar 2025,HK177,HK177,20:48:00,,20:48:00,,T,Dublin Heuston,Galway
+A730,31 Mar 2025,NBRGE,Newbridge,20:50:30,21:05:18,20:50:30,21:05:48,T,Dublin Heuston,Galway
+A730,31 Mar 2025,CURAH,Curragh,20:52:30,,20:52:30,,T,Dublin Heuston,Galway
+A730,31 Mar 2025,KDARE,Kildare,20:54:00,21:11:30,20:54:00,21:11:54,T,Dublin Heuston,Galway
+A730,31 Mar 2025,CHVLJ,Cherryville Junction,20:55:30,21:16:18,20:55:30,21:16:30,T,Dublin Heuston,Galway
+A730,31 Mar 2025,MONVN,Monasterevin,20:58:30,21:17:18,20:58:30,21:19:48,T,Dublin Heuston,Galway
+A730,31 Mar 2025,PTRTN,Portarlington,21:04:00,21:23:18,21:12:00,21:26:00,S,Dublin Heuston,Galway
+A730,31 Mar 2025,GSHIL,Geashill,21:26:30,21:34:24,21:26:30,21:34:30,T,Dublin Heuston,Galway
+A730,31 Mar 2025,TMORE,Tullamore,21:34:00,21:41:12,21:36:00,21:42:54,S,Dublin Heuston,Galway
+A730,31 Mar 2025,CLARA,Clara,21:43:30,21:49:24,21:45:30,21:51:24,S,Dublin Heuston,Galway
+A730,31 Mar 2025,CYDNN,Clonydonnin,21:54:00,21:58:54,21:54:00,21:59:00,T,Dublin Heuston,Galway
+A730,31 Mar 2025,ATLNE,Athlone,22:02:00,22:05:42,22:07:00,22:09:36,S,Dublin Heuston,Galway
+A730,31 Mar 2025,ATHMD,Athlone Midland Yard,22:09:00,22:11:00,22:09:00,22:11:18,T,Dublin Heuston,Galway
+A730,31 Mar 2025,BSLOE,Ballinasloe,22:21:30,22:23:12,22:23:30,22:25:30,S,Dublin Heuston,Galway
+A730,31 Mar 2025,WLAWN,Woodlawn,22:32:00,22:34:12,22:33:00,22:36:24,S,Dublin Heuston,Galway
+A730,31 Mar 2025,ATMON,Attymon,22:39:00,22:37:18,22:39:00,22:45:48,T,Dublin Heuston,Galway
+A730,31 Mar 2025,ATHRY,Athenry,22:45:00,22:47:36,22:47:00,22:49:42,S,Dublin Heuston,Galway
+A730,31 Mar 2025,ENNJC,Ennis Junction,22:47:30,,22:47:30,,T,Dublin Heuston,Galway
+A730,31 Mar 2025,GL368,GL368,22:53:30,22:56:18,22:53:30,22:56:30,T,Dublin Heuston,Galway
+A730,31 Mar 2025,ORNMR,Oranmore,22:56:00,,22:57:00,,S,Dublin Heuston,Galway
+A730,31 Mar 2025,GL374,GL374,23:04:00,,23:04:00,,T,Dublin Heuston,Galway
+A730,31 Mar 2025,GALWY,Galway,23:07:00,,00:00:00,,D,Dublin Heuston,Galway
+A810,31 Mar 2025,ATLNE,Athlone,00:00:00,19:30:54,21:08:00,21:10:00,O,Athlone,Westport
+A810,31 Mar 2025,ATHMD,Athlone Midland Yard,21:09:30,21:11:12,21:09:30,21:11:36,T,Athlone,Westport
+A810,31 Mar 2025,KGHRY,Knockcroghery,21:22:30,,21:22:30,,T,Athlone,Westport
+A810,31 Mar 2025,RSCMN,Roscommon,21:29:30,,21:30:30,,S,Athlone,Westport
+A810,31 Mar 2025,CSREA,Castlerea,21:47:30,,21:48:30,,S,Athlone,Westport
+A810,31 Mar 2025,BYHNS,Ballyhaunis,22:01:00,,22:02:00,,S,Athlone,Westport
+A810,31 Mar 2025,CLMRS,Claremorris,22:15:30,,22:17:00,,S,Athlone,Westport
+A810,31 Mar 2025,MNLAJ,Manulla Junction,22:29:30,,22:31:00,,S,Athlone,Westport
+A810,31 Mar 2025,CLBAR,Castlebar,22:36:00,,22:37:30,,S,Athlone,Westport
+A810,31 Mar 2025,WPORT,Westport,22:53:00,,00:00:00,,D,Athlone,Westport
+D425,31 Mar 2025,GCDK,Grand Canal Dock,00:00:00,22:24:48,22:30:00,22:30:24,O,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,DC427,,22:31:00,,22:31:00,,T,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,PERSE,Dublin Pearse,22:32:30,22:31:42,22:33:30,22:33:42,S,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,TARA,Tara Street,22:35:00,22:34:18,22:36:00,22:36:06,S,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,CNLLY,Dublin Connolly,22:39:00,22:38:12,22:40:00,22:40:06,S,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,OSSRY,,22:41:00,22:40:24,22:41:00,22:40:48,T,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,NSJCT,North Strand Junction,22:42:00,22:41:36,22:42:00,22:41:48,T,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,DCDRA,Drumcondra,22:44:30,22:43:36,22:45:30,22:45:42,S,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,GLASJ,Glasnevin Junction,22:48:30,,22:48:30,,T,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,HN338,,22:52:00,,22:52:00,,T,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,HSTNW,,22:56:00,,22:56:00,,T,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,IBJCT,Islandbridge Junction,22:56:30,,22:56:30,,T,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,ICADV,Inchicore Advance Starter,23:00:00,22:53:18,23:00:00,,T,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,HK101,HK101,23:00:30,,23:00:30,,T,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,CHORC,Park West and Cherry Orchard,23:02:30,,23:03:30,,S,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,CLDKN,Clondalkin,23:05:30,,23:06:30,,S,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,KISHO,Kishoge,23:09:00,,23:10:00,,S,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,ADMTN,Adamstown,23:13:00,,23:14:00,,S,Grand Canal Dock,Hazelhatch
+D425,31 Mar 2025,HZLCH,Hazelhatch,23:20:00,,00:00:00,,D,Grand Canal Dock,Hazelhatch
+D540,31 Mar 2025,MLLOW,Mallow,00:00:00,22:27:18,22:30:00,22:31:00,O,Mallow,Cork
+D540,31 Mar 2025,KRLYJ,Killarney Junction,22:31:30,22:31:24,22:31:30,22:32:06,T,Mallow,Cork
+D540,31 Mar 2025,MW808,MW808,22:37:00,,22:37:00,,T,Mallow,Cork
+D540,31 Mar 2025,RP806,RP806,22:43:00,,22:43:00,,T,Mallow,Cork
+D540,31 Mar 2025,CK790,,22:51:00,,22:51:00,,T,Mallow,Cork
+D540,31 Mar 2025,CORK,Cork,22:55:00,,00:00:00,,D,Mallow,Cork
+P670,31 Mar 2025,MYNTH,Maynooth,00:00:00,22:02:48,22:17:00,22:17:42,O,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,LXLSA,Leixlip (Louisa Bridge),22:23:30,22:20:54,22:24:00,22:24:30,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,LXCON,Leixlip (Confey),22:26:00,22:25:06,22:26:30,22:28:12,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,CLSLJ,Clonsilla Junction,22:31:00,,22:31:00,,T,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,CLSLA,Clonsilla,22:32:00,22:31:12,22:32:30,22:32:48,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,CMINE,Coolmine,22:36:00,22:35:12,22:36:30,22:37:12,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,CNOCK,Castleknock,22:38:00,22:37:42,22:38:30,22:39:48,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,PHNPK,Navan Road Parkway,22:40:30,22:40:12,22:41:00,22:42:42,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,ASHTN,Ashtown,22:43:00,22:43:24,22:43:30,22:45:54,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,PELTN,Pelletstown,22:45:30,22:45:54,22:46:00,22:47:30,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,BBRDG,Broombridge,22:48:00,22:47:30,22:48:30,22:50:18,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,GLASJ,Glasnevin Junction,22:51:30,,22:51:30,,T,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,DCDRA,Drumcondra,22:54:00,22:53:06,22:54:30,22:55:00,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,NSJCT,North Strand Junction,22:58:30,22:56:54,22:58:30,,T,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,OSSRY,,22:59:30,,22:59:30,,T,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,CNLLY,Dublin Connolly,23:01:30,,23:02:30,,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,TARA,Tara Street,23:05:00,,23:06:00,,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,PERSE,Dublin Pearse,23:07:00,,23:08:00,,S,Maynooth,Grand Canal Dock
+P670,31 Mar 2025,GCDK,Grand Canal Dock,23:10:00,,00:00:00,,D,Maynooth,Grand Canal Dock
+A314,31 Mar 2025,CORK,Cork,00:00:00,,20:55:00,21:00:00,O,Cork,Tralee
+A314,31 Mar 2025,CK789,,20:57:30,,20:57:30,,T,Cork,Tralee
+A314,31 Mar 2025,RP805,RP805,21:04:30,,21:04:30,,T,Cork,Tralee
+A314,31 Mar 2025,MW807,MW807,21:09:30,,21:09:30,,T,Cork,Tralee
+A314,31 Mar 2025,KRLYJ,Killarney Junction,21:13:30,,21:13:30,,T,Cork,Tralee
+A314,31 Mar 2025,MLLOW,Mallow,21:15:30,21:17:30,21:25:30,21:39:42,S,Cork,Tralee
+A314,31 Mar 2025,KRLYJ,Killarney Junction,21:27:30,,21:27:30,,T,Cork,Tralee
+A314,31 Mar 2025,BTEER,Banteer,21:38:30,,21:39:30,,S,Cork,Tralee
+A314,31 Mar 2025,MLSRT,Millstreet,21:48:30,,21:49:30,,S,Cork,Tralee
+A314,31 Mar 2025,RMORE,Rathmore,21:57:30,,21:58:30,,S,Cork,Tralee
+A314,31 Mar 2025,KLRNY,Killarney,22:16:30,,22:19:30,,S,Cork,Tralee
+A314,31 Mar 2025,KILCK,Killarney Check,22:24:30,,22:24:30,,T,Cork,Tralee
+A314,31 Mar 2025,FFORE,Farranfore,22:38:00,,22:39:00,,S,Cork,Tralee
+A314,31 Mar 2025,TRLEE,Tralee,22:58:00,,00:00:00,,D,Cork,Tralee
+A230,31 Mar 2025,HSTON,Dublin Heuston,00:00:00,,21:00:00,,O,Dublin Heuston,Cork
+A230,31 Mar 2025,IBJCT,Islandbridge Junction,21:02:30,,21:02:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,ICADV,Inchicore Advance Starter,21:05:00,21:02:24,21:05:00,21:06:18,T,Dublin Heuston,Cork
+A230,31 Mar 2025,HK101,HK101,21:05:30,,21:05:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,PWESF,Park West and Cherry Orchard,21:07:00,21:08:00,21:07:00,21:08:24,T,Dublin Heuston,Cork
+A230,31 Mar 2025,CLONF,Clondalkin,21:08:00,21:08:42,21:08:00,21:09:18,T,Dublin Heuston,Cork
+A230,31 Mar 2025,KISHF,Kishoge,21:09:00,21:09:48,21:09:00,21:09:54,T,Dublin Heuston,Cork
+A230,31 Mar 2025,ADAMF,Adamstown,21:10:00,21:10:48,21:10:00,21:11:00,T,Dublin Heuston,Cork
+A230,31 Mar 2025,HAZEF,Hazelhatch,21:12:00,21:12:24,21:12:00,21:12:30,T,Dublin Heuston,Cork
+A230,31 Mar 2025,HK151,HK151,21:12:30,,21:12:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,HK157,HK157,21:15:00,,21:15:00,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,SALNS,Sallins,21:17:00,21:17:06,21:17:00,21:17:24,T,Dublin Heuston,Cork
+A230,31 Mar 2025,HK177,HK177,21:19:30,,21:19:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,NBRGE,Newbridge,21:22:00,21:21:54,21:22:00,21:22:00,T,Dublin Heuston,Cork
+A230,31 Mar 2025,CURAH,Curragh,21:23:30,,21:23:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,KDARE,Kildare,21:25:00,21:25:06,21:25:00,21:25:18,T,Dublin Heuston,Cork
+A230,31 Mar 2025,CHVLJ,Cherryville Junction,21:26:30,21:26:36,21:26:30,21:26:42,T,Dublin Heuston,Cork
+A230,31 Mar 2025,MONVN,Monasterevin,21:29:00,21:27:24,21:29:00,21:29:54,T,Dublin Heuston,Cork
+A230,31 Mar 2025,PTRTN,Portarlington,21:32:30,21:32:24,21:32:30,21:32:36,T,Dublin Heuston,Cork
+A230,31 Mar 2025,CY112,CY112,21:36:30,,21:36:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,PTLSE,Portlaoise,21:40:00,21:39:12,21:42:00,21:42:18,S,Dublin Heuston,Cork
+A230,31 Mar 2025,PL277,,21:44:30,,21:44:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,PL104,PL104,21:48:00,21:42:30,21:48:00,21:42:54,T,Dublin Heuston,Cork
+A230,31 Mar 2025,PL102,PL102,21:51:30,21:45:06,21:51:30,21:45:18,T,Dublin Heuston,Cork
+A230,31 Mar 2025,BBRHY,Ballybrophy,21:55:00,21:54:12,21:56:00,21:56:06,S,Dublin Heuston,Cork
+A230,31 Mar 2025,LDUFF,Lisduff,22:02:00,,22:02:00,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,TPMOR,Templemore,22:06:00,22:06:12,22:06:00,22:08:54,T,Dublin Heuston,Cork
+A230,31 Mar 2025,THRLS,Thurles,22:16:00,22:14:24,22:18:00,22:17:36,S,Dublin Heuston,Cork
+A230,31 Mar 2025,TS462,TS462,22:23:00,,22:23:00,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,TS460,TS460,22:26:30,,22:26:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,LJ458,LJ458,22:30:00,22:24:54,22:30:00,22:28:30,T,Dublin Heuston,Cork
+A230,31 Mar 2025,LJ340,,22:33:00,22:31:36,22:33:00,22:32:00,T,Dublin Heuston,Cork
+A230,31 Mar 2025,LMRKJ,Limerick Junction,22:35:30,22:33:54,22:37:30,22:36:48,S,Dublin Heuston,Cork
+A230,31 Mar 2025,LJ352,,22:40:30,,22:40:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,LJ896,LJ896,22:47:00,22:40:12,22:47:00,22:45:48,T,Dublin Heuston,Cork
+A230,31 Mar 2025,RC894,RC894,22:51:00,,22:51:00,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,CVILL,Charleville,22:55:30,22:53:36,22:55:30,22:53:48,T,Dublin Heuston,Cork
+A230,31 Mar 2025,MW858,MW858,23:01:30,,23:01:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,MLLOW,Mallow,23:11:30,,23:13:30,,S,Dublin Heuston,Cork
+A230,31 Mar 2025,KRLYJ,Killarney Junction,23:15:00,,23:15:00,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,MW808,MW808,23:19:30,,23:19:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,RP806,RP806,23:25:00,,23:25:00,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,CK790,,23:33:30,,23:33:30,,T,Dublin Heuston,Cork
+A230,31 Mar 2025,CORK,Cork,23:39:00,,00:00:00,,D,Dublin Heuston,Cork
+A528,31 Mar 2025,HSTON,Dublin Heuston,00:00:00,,20:20:00,,O,Dublin Heuston,Waterford
+A528,31 Mar 2025,IBJCT,Islandbridge Junction,20:22:00,,20:22:00,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,ICADV,Inchicore Advance Starter,20:24:30,20:09:00,20:24:30,20:24:24,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,HK101,HK101,20:25:00,,20:25:00,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,CHORC,Park West and Cherry Orchard,20:27:00,20:26:42,20:28:00,20:29:00,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,CLDKN,Clondalkin,20:30:30,20:29:30,20:31:30,20:31:42,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,KISHO,Kishoge,20:34:00,20:33:12,20:35:00,20:35:18,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,ADMTN,Adamstown,20:38:00,20:37:30,20:39:00,20:39:18,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,HZLCH,Hazelhatch,20:43:00,20:42:42,20:44:00,20:44:24,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,HK151,HK151,20:45:30,,20:45:30,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,HK157,HK157,20:49:00,,20:49:00,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,SALNS,Sallins,20:52:00,20:50:54,20:53:00,20:53:18,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,HK177,HK177,20:57:00,,20:57:00,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,NBRGE,Newbridge,21:00:00,21:00:30,21:01:00,21:02:06,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,CURAH,Curragh,21:04:30,,21:04:30,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,KDARE,Kildare,21:07:30,21:07:30,21:08:30,21:09:30,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,CHVLJ,Cherryville Junction,21:12:30,21:13:30,21:12:30,21:13:54,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,ATHY,Athy,21:23:30,21:24:54,21:24:30,21:25:24,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,CRLOW,Carlow,21:37:00,,21:41:00,,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,MNEBG,Muine Bheag,21:52:00,,21:53:00,,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,LVTNN,Lavistown North,22:03:30,,22:03:30,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,KKNNY,Kilkenny,22:09:30,,22:14:30,,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,LVTNS,Lavistown South,22:18:00,,22:18:00,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,THTWN,Thomastown,22:25:00,,22:26:00,,S,Dublin Heuston,Waterford
+A528,31 Mar 2025,BAHLE,Ballyhale,22:32:00,,22:32:00,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,WFRDW,,22:44:30,,22:44:30,,T,Dublin Heuston,Waterford
+A528,31 Mar 2025,WFORD,Waterford,22:50:00,,00:00:00,,D,Dublin Heuston,Waterford
+E951,31 Mar 2025,GSTNS,Greystones,00:00:00,22:45:48,22:52:00,22:52:48,O,Greystones,Howth
+E951,31 Mar 2025,BR49,,22:56:30,,22:56:30,,T,Greystones,Howth
+E951,31 Mar 2025,BYARD,Bray Yard,23:01:00,,23:01:00,,T,Greystones,Howth
+E951,31 Mar 2025,BRAY,Bray,23:02:00,,23:05:00,,S,Greystones,Howth
+E951,31 Mar 2025,SKILL,Shankill,23:09:00,,23:09:30,,S,Greystones,Howth
+E951,31 Mar 2025,KILNY,Killiney,23:12:00,,23:12:30,,S,Greystones,Howth
+E951,31 Mar 2025,DLKEY,Dalkey,23:16:30,,23:17:00,,S,Greystones,Howth
+E951,31 Mar 2025,GLGRY,Glenageary,23:19:00,,23:19:30,,S,Greystones,Howth
+E951,31 Mar 2025,SCOVE,Sandycove,23:21:00,,23:21:30,,S,Greystones,Howth
+E951,31 Mar 2025,DLERY,Dun Laoghaire,23:24:30,,23:25:00,,S,Greystones,Howth
+E951,31 Mar 2025,SHILL,Salthill and Monkstown,23:27:00,,23:27:30,,S,Greystones,Howth
+E951,31 Mar 2025,SEAPT,Seapoint,23:28:30,,23:29:00,,S,Greystones,Howth
+E951,31 Mar 2025,BROCK,Blackrock,23:31:00,,23:31:30,,S,Greystones,Howth
+E951,31 Mar 2025,BTSTN,Booterstown,23:33:00,,23:33:30,,S,Greystones,Howth
+E951,31 Mar 2025,SIDNY,Sydney Parade,23:35:30,,23:36:00,,S,Greystones,Howth
+E951,31 Mar 2025,SMONT,Sandymount,23:38:00,,23:38:30,,S,Greystones,Howth
+E951,31 Mar 2025,LDWNE,Lansdowne Road,23:40:00,,23:40:30,,S,Greystones,Howth
+E951,31 Mar 2025,GCDK,Grand Canal Dock,23:43:00,,23:44:00,,S,Greystones,Howth
+E951,31 Mar 2025,DC427,,23:44:30,,23:44:30,,T,Greystones,Howth
+E951,31 Mar 2025,PERSE,Dublin Pearse,23:46:00,,23:47:00,,S,Greystones,Howth
+E951,31 Mar 2025,TARA,Tara Street,23:48:30,,23:49:30,,S,Greystones,Howth
+E951,31 Mar 2025,CNLLY,Dublin Connolly,23:52:30,,23:53:30,,S,Greystones,Howth
+E951,31 Mar 2025,OSSRY,,23:54:00,,23:54:00,,T,Greystones,Howth
+E951,31 Mar 2025,SUBJN,,23:54:30,,23:54:30,,T,Greystones,Howth
+E951,31 Mar 2025,EWALL,,23:55:00,,23:55:00,,T,Greystones,Howth
+E951,31 Mar 2025,CTARF,Clontarf Road,23:56:30,,23:57:00,,S,Greystones,Howth
+E951,31 Mar 2025,KLSTR,Killester,23:59:00,,23:59:30,,S,Greystones,Howth
+E951,31 Mar 2025,HTOWN,Harmonstown,00:01:00,,00:01:30,,S,Greystones,Howth
+E951,31 Mar 2025,RAHNY,Raheny,00:03:00,,00:03:30,,S,Greystones,Howth
+E951,31 Mar 2025,KBRCK,Kilbarrack,00:05:00,,00:05:30,,S,Greystones,Howth
+E951,31 Mar 2025,HWTHJ,Howth Junction,00:07:00,,00:07:30,,S,Greystones,Howth
+E951,31 Mar 2025,BYSDE,Bayside,00:09:30,,00:10:00,,S,Greystones,Howth
+E951,31 Mar 2025,SUTTN,Sutton,00:12:00,,00:12:30,,S,Greystones,Howth
+E951,31 Mar 2025,HOWTH,Howth,00:18:00,,00:00:00,,D,Greystones,Howth
+A731,31 Mar 2025,GALWY,Galway,00:00:00,,20:50:00,20:51:00,O,Galway,Dublin Heuston
+A731,31 Mar 2025,GL374,GL374,20:57:00,,20:57:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,ORNMR,Oranmore,21:01:30,,21:02:30,,S,Galway,Dublin Heuston
+A731,31 Mar 2025,GL369,GL369,21:06:00,,21:06:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,ENNJC,Ennis Junction,21:12:30,,21:12:30,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,ATHRY,Athenry,21:13:30,,21:15:30,,S,Galway,Dublin Heuston
+A731,31 Mar 2025,ATMON,Attymon,21:22:30,,21:23:30,,S,Galway,Dublin Heuston
+A731,31 Mar 2025,WLAWN,Woodlawn,21:30:00,,21:30:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,BSLOE,Ballinasloe,21:40:00,21:38:24,21:42:30,21:47:24,S,Galway,Dublin Heuston
+A731,31 Mar 2025,ATHMD,Athlone Midland Yard,22:00:30,22:00:00,22:00:30,22:00:12,T,Galway,Dublin Heuston
+A731,31 Mar 2025,ATLNE,Athlone,22:03:30,22:01:30,22:08:30,22:10:42,S,Galway,Dublin Heuston
+A731,31 Mar 2025,CYDNN,Clonydonnin,22:17:00,22:17:24,22:17:00,22:17:30,T,Galway,Dublin Heuston
+A731,31 Mar 2025,CLARA,Clara,22:25:00,22:24:54,22:26:00,22:26:36,S,Galway,Dublin Heuston
+A731,31 Mar 2025,TMORE,Tullamore,22:33:30,22:33:30,22:35:00,22:35:12,S,Galway,Dublin Heuston
+A731,31 Mar 2025,GSHIL,Geashill,22:42:00,22:41:30,22:42:00,22:41:36,T,Galway,Dublin Heuston
+A731,31 Mar 2025,PN252,,22:50:00,,22:50:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,PTRTN,Portarlington,22:52:00,22:49:18,22:53:00,22:53:06,S,Galway,Dublin Heuston
+A731,31 Mar 2025,MONVN,Monasterevin,22:57:30,22:54:00,22:57:30,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,CHVLJ,Cherryville Junction,23:00:00,,23:00:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,KDARE,Kildare,23:04:00,,23:05:00,,S,Galway,Dublin Heuston
+A731,31 Mar 2025,CURAH,Curragh,23:09:00,,23:09:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,NBRGE,Newbridge,23:11:00,,23:12:00,,S,Galway,Dublin Heuston
+A731,31 Mar 2025,HK176,HK176,23:15:30,,23:15:30,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,SALNS,Sallins,23:17:30,,23:17:30,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,HK156,HK156,23:20:00,,23:20:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,HK152,HK152,23:21:30,,23:21:30,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,HAZEF,Hazelhatch,23:22:30,,23:22:30,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,ADAMF,Adamstown,23:24:00,,23:24:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,KISHF,Kishoge,23:25:00,,23:25:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,CLONF,Clondalkin,23:25:30,,23:25:30,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,PWESF,Park West and Cherry Orchard,23:26:30,,23:26:30,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,HK108,HK108,23:26:30,,23:26:30,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,ICORE,Inchicore,23:28:00,,23:28:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,IBJCT,Islandbridge Junction,23:31:00,,23:31:00,,T,Galway,Dublin Heuston
+A731,31 Mar 2025,HSTON,Dublin Heuston,23:36:00,,00:00:00,,D,Galway,Dublin Heuston
+P229,31 Mar 2025,PTLSE,Portlaoise,00:00:00,22:13:42,22:30:00,22:30:48,O,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,CY111,CY111,22:35:00,,22:35:00,,T,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,PTRTN,Portarlington,22:38:30,22:38:12,22:39:30,22:41:48,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,MONVN,Monasterevin,22:44:30,22:42:36,22:45:30,22:49:30,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,CHVLJ,Cherryville Junction,22:49:30,22:52:36,22:49:30,22:52:42,T,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,KDARE,Kildare,22:53:30,22:55:24,22:54:30,22:57:00,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,CURAH,Curragh,22:57:30,,22:57:30,,T,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,NBRGE,Newbridge,23:00:00,,23:01:00,,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,HK176,HK176,23:05:00,,23:05:00,,T,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,SALNS,Sallins,23:07:30,,23:08:30,,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,HK156,HK156,23:12:30,,23:12:30,,T,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,HK152,HK152,23:14:30,,23:14:30,,T,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,HZLCH,Hazelhatch,23:16:00,,23:17:00,,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,ADMTN,Adamstown,23:20:30,,23:21:30,,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,KISHO,Kishoge,23:24:00,,23:25:00,,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,CLDKN,Clondalkin,23:27:00,,23:28:00,,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,CHORC,Park West and Cherry Orchard,23:30:00,,23:31:00,,S,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,HK106,HK106,23:31:30,,23:31:30,,T,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,ICORE,Inchicore,23:33:00,,23:33:00,,T,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,IBJCT,Islandbridge Junction,23:35:30,,23:35:30,,T,Portlaoise,Dublin Heuston
+P229,31 Mar 2025,HSTON,Dublin Heuston,23:40:00,,00:00:00,,D,Portlaoise,Dublin Heuston
+D225,31 Mar 2025,HSTON,Dublin Heuston,00:00:00,,22:10:00,,O,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,IBJCT,Islandbridge Junction,22:12:00,,22:12:00,,T,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,ICADV,Inchicore Advance Starter,22:14:30,22:09:42,22:14:30,22:14:30,T,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,HK101,HK101,22:15:00,,22:15:00,,T,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,CHORC,Park West and Cherry Orchard,22:17:00,22:16:30,22:18:00,22:18:54,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,CLDKN,Clondalkin,22:20:30,22:19:24,22:21:30,22:21:48,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,KISHO,Kishoge,22:24:00,22:23:12,22:25:00,22:25:24,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,ADMTN,Adamstown,22:28:00,22:27:12,22:29:00,22:29:18,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,HZLCH,Hazelhatch,22:33:00,22:32:18,22:34:00,22:34:24,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,HK151,HK151,22:35:30,,22:35:30,,T,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,HK157,HK157,22:39:00,,22:39:00,,T,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,SALNS,Sallins,22:42:00,22:40:24,22:43:00,22:43:18,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,HK177,HK177,22:47:00,,22:47:00,,T,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,NBRGE,Newbridge,22:50:00,22:49:24,22:51:00,22:55:54,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,CURAH,Curragh,22:54:30,,22:54:30,,T,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,KDARE,Kildare,22:56:30,,22:57:30,,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,CHVLJ,Cherryville Junction,23:00:00,,23:00:00,,T,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,MONVN,Monasterevin,23:03:30,,23:04:30,,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,PTRTN,Portarlington,23:09:30,,23:10:30,,S,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,CY112,CY112,23:15:30,,23:15:30,,T,Dublin Heuston,Portlaoise
+D225,31 Mar 2025,PTLSE,Portlaoise,23:21:00,,00:00:00,,D,Dublin Heuston,Portlaoise
+E132,31 Mar 2025,HOWTH,Howth,00:00:00,21:42:54,21:47:00,21:48:42,O,Howth,Greystones
+E132,31 Mar 2025,SUTTN,Sutton,21:49:30,21:51:12,21:50:00,21:52:24,S,Howth,Greystones
+E132,31 Mar 2025,BYSDE,Bayside,21:52:00,21:53:48,21:52:30,21:55:06,S,Howth,Greystones
+E132,31 Mar 2025,HWTHJ,Howth Junction,21:55:00,21:56:24,21:55:30,21:57:36,S,Howth,Greystones
+E132,31 Mar 2025,KBRCK,Kilbarrack,21:57:00,21:58:30,21:57:30,21:59:30,S,Howth,Greystones
+E132,31 Mar 2025,RAHNY,Raheny,21:59:30,22:00:36,22:00:00,22:01:42,S,Howth,Greystones
+E132,31 Mar 2025,HTOWN,Harmonstown,22:01:30,22:02:42,22:02:00,22:03:42,S,Howth,Greystones
+E132,31 Mar 2025,KLSTR,Killester,22:03:30,22:04:48,22:04:00,22:05:54,S,Howth,Greystones
+E132,31 Mar 2025,CTARF,Clontarf Road,22:07:00,22:07:36,22:07:30,22:08:36,S,Howth,Greystones
+E132,31 Mar 2025,EWALL,,22:08:30,,22:08:30,,T,Howth,Greystones
+E132,31 Mar 2025,SUBJN,,22:09:00,,22:09:00,,T,Howth,Greystones
+E132,31 Mar 2025,DC336,,22:09:00,,22:09:00,,T,Howth,Greystones
+E132,31 Mar 2025,CNLLY,Dublin Connolly,22:12:00,22:11:36,22:13:00,22:13:12,S,Howth,Greystones
+E132,31 Mar 2025,TARA,Tara Street,22:15:00,22:15:24,22:16:00,22:16:42,S,Howth,Greystones
+E132,31 Mar 2025,PERSE,Dublin Pearse,22:17:00,22:17:18,22:18:00,22:18:36,S,Howth,Greystones
+E132,31 Mar 2025,PERSE,Dublin Pearse,22:18:30,22:17:18,22:18:30,22:18:36,T,Howth,Greystones
+E132,31 Mar 2025,GCDK,Grand Canal Dock,22:19:30,22:19:48,22:20:30,22:21:06,S,Howth,Greystones
+E132,31 Mar 2025,LDWNE,Lansdowne Road,22:23:00,22:22:36,22:23:30,22:23:48,S,Howth,Greystones
+E132,31 Mar 2025,SMONT,Sandymount,22:25:00,22:24:36,22:25:30,22:25:36,S,Howth,Greystones
+E132,31 Mar 2025,SIDNY,Sydney Parade,22:27:30,22:27:18,22:28:00,22:28:42,S,Howth,Greystones
+E132,31 Mar 2025,BTSTN,Booterstown,22:30:00,22:30:00,22:30:30,22:31:24,S,Howth,Greystones
+E132,31 Mar 2025,BROCK,Blackrock,22:32:30,22:32:18,22:33:00,22:34:06,S,Howth,Greystones
+E132,31 Mar 2025,SEAPT,Seapoint,22:34:30,22:34:30,22:35:00,22:36:06,S,Howth,Greystones
+E132,31 Mar 2025,SHILL,Salthill and Monkstown,22:36:30,22:36:24,22:37:00,22:37:42,S,Howth,Greystones
+E132,31 Mar 2025,DLERY,Dun Laoghaire,22:39:00,22:38:48,22:39:30,22:39:54,S,Howth,Greystones
+E132,31 Mar 2025,SCOVE,Sandycove,22:42:30,22:41:48,22:43:00,22:44:00,S,Howth,Greystones
+E132,31 Mar 2025,GLGRY,Glenageary,22:45:00,22:44:24,22:45:30,22:46:06,S,Howth,Greystones
+E132,31 Mar 2025,DLKEY,Dalkey,22:47:30,22:47:30,22:48:00,22:48:48,S,Howth,Greystones
+E132,31 Mar 2025,KILNY,Killiney,22:52:00,22:51:48,22:52:30,22:53:24,S,Howth,Greystones
+E132,31 Mar 2025,SKILL,Shankill,22:55:00,22:55:00,22:55:30,22:56:30,S,Howth,Greystones
+E132,31 Mar 2025,BRAY,Bray,22:59:30,,23:00:30,,S,Howth,Greystones
+E132,31 Mar 2025,BYARD,Bray Yard,23:01:30,,23:01:30,,T,Howth,Greystones
+E132,31 Mar 2025,BR49,,23:06:00,,23:06:00,,T,Howth,Greystones
+E132,31 Mar 2025,GSTNS,Greystones,23:10:00,,00:00:00,,D,Howth,Greystones
+E848,31 Mar 2025,BRAY,Bray,00:00:00,22:40:06,22:42:00,22:42:42,O,Bray,Malahide
+E848,31 Mar 2025,SKILL,Shankill,22:46:00,22:45:42,22:46:30,22:47:54,S,Bray,Malahide
+E848,31 Mar 2025,KILNY,Killiney,22:49:00,22:49:12,22:49:30,22:50:48,S,Bray,Malahide
+E848,31 Mar 2025,DLKEY,Dalkey,22:53:30,22:53:30,22:54:00,22:54:54,S,Bray,Malahide
+E848,31 Mar 2025,GLGRY,Glenageary,22:56:00,22:56:54,22:56:30,,S,Bray,Malahide
+E848,31 Mar 2025,SCOVE,Sandycove,22:58:00,,22:58:30,,S,Bray,Malahide
+E848,31 Mar 2025,DLERY,Dun Laoghaire,23:01:30,,23:02:00,,S,Bray,Malahide
+E848,31 Mar 2025,SHILL,Salthill and Monkstown,23:04:00,,23:04:30,,S,Bray,Malahide
+E848,31 Mar 2025,SEAPT,Seapoint,23:05:30,,23:06:00,,S,Bray,Malahide
+E848,31 Mar 2025,BROCK,Blackrock,23:08:00,,23:08:30,,S,Bray,Malahide
+E848,31 Mar 2025,BTSTN,Booterstown,23:10:00,,23:10:30,,S,Bray,Malahide
+E848,31 Mar 2025,SIDNY,Sydney Parade,23:12:30,,23:13:00,,S,Bray,Malahide
+E848,31 Mar 2025,SMONT,Sandymount,23:15:00,,23:15:30,,S,Bray,Malahide
+E848,31 Mar 2025,LDWNE,Lansdowne Road,23:17:00,,23:17:30,,S,Bray,Malahide
+E848,31 Mar 2025,GCDK,Grand Canal Dock,23:20:00,,23:21:00,,S,Bray,Malahide
+E848,31 Mar 2025,DC427,,23:22:00,,23:22:00,,T,Bray,Malahide
+E848,31 Mar 2025,PERSE,Dublin Pearse,23:23:00,,23:24:00,,S,Bray,Malahide
+E848,31 Mar 2025,TARA,Tara Street,23:25:30,,23:26:30,,S,Bray,Malahide
+E848,31 Mar 2025,CNLLY,Dublin Connolly,23:29:30,,23:30:30,,S,Bray,Malahide
+E848,31 Mar 2025,OSSRY,,23:31:00,,23:31:00,,T,Bray,Malahide
+E848,31 Mar 2025,SUBJN,,23:31:30,,23:31:30,,T,Bray,Malahide
+E848,31 Mar 2025,EWALL,,23:32:00,,23:32:00,,T,Bray,Malahide
+E848,31 Mar 2025,CTARF,Clontarf Road,23:33:30,,23:34:00,,S,Bray,Malahide
+E848,31 Mar 2025,KLSTR,Killester,23:36:00,,23:36:30,,S,Bray,Malahide
+E848,31 Mar 2025,HTOWN,Harmonstown,23:38:00,,23:38:30,,S,Bray,Malahide
+E848,31 Mar 2025,RAHNY,Raheny,23:40:00,,23:40:30,,S,Bray,Malahide
+E848,31 Mar 2025,KBRCK,Kilbarrack,23:42:00,,23:42:30,,S,Bray,Malahide
+E848,31 Mar 2025,HWTHJ,Howth Junction,23:44:00,,23:44:30,,S,Bray,Malahide
+E848,31 Mar 2025,GRGRD,Clongriffin,23:46:30,,23:47:00,,S,Bray,Malahide
+E848,31 Mar 2025,PMNCK,Portmarnock,23:49:00,,23:49:30,,S,Bray,Malahide
+E848,31 Mar 2025,MHIDE,Malahide,23:56:00,,00:00:00,,D,Bray,Malahide
+E261,31 Mar 2025,MHIDE,Malahide,00:00:00,21:54:18,22:03:00,22:03:24,O,Malahide,Bray
+E261,31 Mar 2025,PMNCK,Portmarnock,22:07:00,22:06:36,22:07:30,22:07:48,S,Malahide,Bray
+E261,31 Mar 2025,GRGRD,Clongriffin,22:09:30,22:09:00,22:10:00,22:10:24,S,Malahide,Bray
+E261,31 Mar 2025,HWTHJ,Howth Junction,22:12:00,22:11:42,22:12:30,22:12:42,S,Malahide,Bray
+E261,31 Mar 2025,KBRCK,Kilbarrack,22:14:00,22:13:18,22:14:30,22:14:48,S,Malahide,Bray
+E261,31 Mar 2025,RAHNY,Raheny,22:16:30,22:15:54,22:17:00,22:17:06,S,Malahide,Bray
+E261,31 Mar 2025,HTOWN,Harmonstown,22:18:30,22:18:12,22:19:00,22:19:12,S,Malahide,Bray
+E261,31 Mar 2025,KLSTR,Killester,22:20:30,22:20:12,22:21:00,22:21:24,S,Malahide,Bray
+E261,31 Mar 2025,CTARF,Clontarf Road,22:24:00,22:23:06,22:24:30,22:24:42,S,Malahide,Bray
+E261,31 Mar 2025,EWALL,,22:26:00,,22:26:00,,T,Malahide,Bray
+E261,31 Mar 2025,SUBJN,,22:26:30,,22:26:30,,T,Malahide,Bray
+E261,31 Mar 2025,DC336,,22:26:30,,22:26:30,,T,Malahide,Bray
+E261,31 Mar 2025,CNLLY,Dublin Connolly,22:29:00,22:27:42,22:30:00,22:30:06,S,Malahide,Bray
+E261,31 Mar 2025,TARA,Tara Street,22:32:00,22:32:12,22:33:00,22:33:30,S,Malahide,Bray
+E261,31 Mar 2025,PERSE,Dublin Pearse,22:34:00,22:34:06,22:35:00,22:35:30,S,Malahide,Bray
+E261,31 Mar 2025,GCDK,Grand Canal Dock,22:36:30,22:36:30,22:37:30,22:37:42,S,Malahide,Bray
+E261,31 Mar 2025,LDWNE,Lansdowne Road,22:40:00,22:39:00,22:40:30,22:40:36,S,Malahide,Bray
+E261,31 Mar 2025,SMONT,Sandymount,22:42:00,22:41:18,22:42:30,22:42:12,S,Malahide,Bray
+E261,31 Mar 2025,SIDNY,Sydney Parade,22:44:30,22:43:42,22:45:00,22:45:12,S,Malahide,Bray
+E261,31 Mar 2025,BTSTN,Booterstown,22:47:00,22:46:24,22:47:30,22:47:48,S,Malahide,Bray
+E261,31 Mar 2025,BROCK,Blackrock,22:49:30,22:48:42,22:50:00,22:50:42,S,Malahide,Bray
+E261,31 Mar 2025,SEAPT,Seapoint,22:51:30,22:51:06,22:52:00,22:52:42,S,Malahide,Bray
+E261,31 Mar 2025,SHILL,Salthill and Monkstown,22:53:30,22:53:00,22:54:00,22:54:24,S,Malahide,Bray
+E261,31 Mar 2025,DLERY,Dun Laoghaire,22:56:00,22:55:24,22:56:30,22:56:36,S,Malahide,Bray
+E261,31 Mar 2025,SCOVE,Sandycove,22:59:30,,23:00:00,,S,Malahide,Bray
+E261,31 Mar 2025,GLGRY,Glenageary,23:02:00,,23:02:30,,S,Malahide,Bray
+E261,31 Mar 2025,DLKEY,Dalkey,23:05:00,,23:05:30,,S,Malahide,Bray
+E261,31 Mar 2025,KILNY,Killiney,23:09:00,,23:09:30,,S,Malahide,Bray
+E261,31 Mar 2025,SKILL,Shankill,23:12:00,,23:12:30,,S,Malahide,Bray
+E261,31 Mar 2025,BRAY,Bray,23:17:00,,00:00:00,,D,Malahide,Bray
+E950,31 Mar 2025,GSTNS,Greystones,00:00:00,22:14:54,22:20:00,22:20:30,O,Greystones,Howth
+E950,31 Mar 2025,BR49,,22:24:30,22:25:30,22:24:30,22:25:48,T,Greystones,Howth
+E950,31 Mar 2025,BYARD,Bray Yard,22:29:00,,22:29:00,,T,Greystones,Howth
+E950,31 Mar 2025,BRAY,Bray,22:30:00,22:30:24,22:32:00,22:32:00,S,Greystones,Howth
+E950,31 Mar 2025,SKILL,Shankill,22:36:00,22:35:18,22:36:30,22:36:48,S,Greystones,Howth
+E950,31 Mar 2025,KILNY,Killiney,22:39:00,22:38:18,22:39:30,22:39:42,S,Greystones,Howth
+E950,31 Mar 2025,DLKEY,Dalkey,22:43:30,22:42:36,22:44:00,22:44:06,S,Greystones,Howth
+E950,31 Mar 2025,GLGRY,Glenageary,22:46:00,22:46:06,22:46:30,22:47:36,S,Greystones,Howth
+E950,31 Mar 2025,SCOVE,Sandycove,22:48:00,22:48:30,22:48:30,22:49:36,S,Greystones,Howth
+E950,31 Mar 2025,DLERY,Dun Laoghaire,22:51:30,22:51:18,22:52:00,22:52:36,S,Greystones,Howth
+E950,31 Mar 2025,SHILL,Salthill and Monkstown,22:54:00,22:53:42,22:54:30,22:55:18,S,Greystones,Howth
+E950,31 Mar 2025,SEAPT,Seapoint,22:55:30,22:55:36,22:56:00,,S,Greystones,Howth
+E950,31 Mar 2025,BROCK,Blackrock,22:58:00,,22:58:30,,S,Greystones,Howth
+E950,31 Mar 2025,BTSTN,Booterstown,23:00:00,,23:00:30,,S,Greystones,Howth
+E950,31 Mar 2025,SIDNY,Sydney Parade,23:02:30,,23:03:00,,S,Greystones,Howth
+E950,31 Mar 2025,SMONT,Sandymount,23:05:00,,23:05:30,,S,Greystones,Howth
+E950,31 Mar 2025,LDWNE,Lansdowne Road,23:07:00,,23:07:30,,S,Greystones,Howth
+E950,31 Mar 2025,GCDK,Grand Canal Dock,23:10:00,,23:11:00,,S,Greystones,Howth
+E950,31 Mar 2025,DC427,,23:11:30,,23:11:30,,T,Greystones,Howth
+E950,31 Mar 2025,PERSE,Dublin Pearse,23:13:00,,23:14:00,,S,Greystones,Howth
+E950,31 Mar 2025,TARA,Tara Street,23:15:30,,23:16:30,,S,Greystones,Howth
+E950,31 Mar 2025,CNLLY,Dublin Connolly,23:19:30,,23:20:30,,S,Greystones,Howth
+E950,31 Mar 2025,OSSRY,,23:21:30,,23:21:30,,T,Greystones,Howth
+E950,31 Mar 2025,SUBJN,,23:21:30,,23:21:30,,T,Greystones,Howth
+E950,31 Mar 2025,EWALL,,23:22:00,,23:22:00,,T,Greystones,Howth
+E950,31 Mar 2025,CTARF,Clontarf Road,23:23:30,,23:24:00,,S,Greystones,Howth
+E950,31 Mar 2025,KLSTR,Killester,23:26:00,,23:26:30,,S,Greystones,Howth
+E950,31 Mar 2025,HTOWN,Harmonstown,23:28:00,,23:28:30,,S,Greystones,Howth
+E950,31 Mar 2025,RAHNY,Raheny,23:30:00,,23:30:30,,S,Greystones,Howth
+E950,31 Mar 2025,KBRCK,Kilbarrack,23:32:00,,23:32:30,,S,Greystones,Howth
+E950,31 Mar 2025,HWTHJ,Howth Junction,23:34:00,,23:34:30,,S,Greystones,Howth
+E950,31 Mar 2025,BYSDE,Bayside,23:36:30,,23:37:00,,S,Greystones,Howth
+E950,31 Mar 2025,SUTTN,Sutton,23:39:00,,23:39:30,,S,Greystones,Howth
+E950,31 Mar 2025,HOWTH,Howth,23:45:00,,00:00:00,,D,Greystones,Howth
+A231,31 Mar 2025,CORK,Cork,00:00:00,,20:25:00,20:25:00,O,Cork,Dublin Heuston
+A231,31 Mar 2025,CK789,,20:27:30,,20:27:30,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,RP805,RP805,20:36:00,,20:36:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,MW807,MW807,20:41:30,,20:41:30,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,KRLYJ,Killarney Junction,20:45:00,,20:45:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,MLLOW,Mallow,20:47:00,20:47:18,20:49:00,20:50:00,S,Cork,Dublin Heuston
+A231,31 Mar 2025,MW859,MW859,20:57:00,,20:57:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,CVILL,Charleville,21:03:00,21:03:30,21:05:00,21:06:36,S,Cork,Dublin Heuston
+A231,31 Mar 2025,RC893,RC893,21:11:30,,21:11:30,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,LJ895,LJ895,21:17:00,21:14:06,21:17:00,21:19:54,T,Cork,Dublin Heuston
+A231,31 Mar 2025,LJ353,,21:22:00,21:26:30,21:22:00,21:26:48,T,Cork,Dublin Heuston
+A231,31 Mar 2025,LMRKJ,Limerick Junction,21:27:30,21:28:12,21:30:30,21:33:42,S,Cork,Dublin Heuston
+A231,31 Mar 2025,LJ339,,21:34:30,,21:34:30,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,LJ461,LJ461,21:36:30,21:37:42,21:36:30,21:39:30,T,Cork,Dublin Heuston
+A231,31 Mar 2025,TS463,TS463,21:40:00,,21:40:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,TS465,TS465,21:43:00,21:49:06,21:43:00,21:49:18,T,Cork,Dublin Heuston
+A231,31 Mar 2025,THRLS,Thurles,21:47:30,21:50:30,21:49:30,21:53:12,S,Cork,Dublin Heuston
+A231,31 Mar 2025,TPMOR,Templemore,21:56:30,21:58:18,21:56:30,22:00:18,T,Cork,Dublin Heuston
+A231,31 Mar 2025,LDUFF,Lisduff,22:00:30,22:03:42,22:00:30,22:04:00,T,Cork,Dublin Heuston
+A231,31 Mar 2025,BBRHY,Ballybrophy,22:04:30,22:07:48,22:04:30,22:08:00,T,Cork,Dublin Heuston
+A231,31 Mar 2025,PL101,PL101,22:08:30,22:08:06,22:08:30,22:08:12,T,Cork,Dublin Heuston
+A231,31 Mar 2025,PL103,PL103,22:11:30,22:17:00,22:11:30,22:17:12,T,Cork,Dublin Heuston
+A231,31 Mar 2025,PL280,,22:13:00,,22:13:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,PTLSE,Portlaoise,22:20:00,22:18:18,22:22:00,22:21:00,S,Cork,Dublin Heuston
+A231,31 Mar 2025,CY111,CY111,22:27:00,,22:27:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,PTRTN,Portarlington,22:29:30,22:28:30,22:29:30,22:28:36,T,Cork,Dublin Heuston
+A231,31 Mar 2025,MONVN,Monasterevin,22:33:00,22:29:00,22:33:00,22:34:42,T,Cork,Dublin Heuston
+A231,31 Mar 2025,CHVLJ,Cherryville Junction,22:35:30,22:37:36,22:35:30,22:37:42,T,Cork,Dublin Heuston
+A231,31 Mar 2025,KDARE,Kildare,22:37:00,22:39:06,22:37:00,22:39:18,T,Cork,Dublin Heuston
+A231,31 Mar 2025,CURAH,Curragh,22:39:00,,22:39:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,NBRGE,Newbridge,22:40:30,22:42:36,22:40:30,22:42:42,T,Cork,Dublin Heuston
+A231,31 Mar 2025,HK176,HK176,22:43:00,,22:43:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,SALNS,Sallins,22:45:00,22:47:12,22:45:00,22:47:18,T,Cork,Dublin Heuston
+A231,31 Mar 2025,HK156,HK156,22:47:30,,22:47:30,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,HK152,HK152,22:49:00,,22:49:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,HAZEF,Hazelhatch,22:50:00,22:52:06,22:50:00,22:52:18,T,Cork,Dublin Heuston
+A231,31 Mar 2025,ADAMF,Adamstown,22:51:30,22:53:42,22:51:30,22:53:48,T,Cork,Dublin Heuston
+A231,31 Mar 2025,KISHF,Kishoge,22:52:30,22:54:42,22:52:30,22:54:48,T,Cork,Dublin Heuston
+A231,31 Mar 2025,CLONF,Clondalkin,22:53:30,22:55:18,22:53:30,22:55:36,T,Cork,Dublin Heuston
+A231,31 Mar 2025,PWESF,Park West and Cherry Orchard,22:55:00,22:55:48,22:55:00,22:56:30,T,Cork,Dublin Heuston
+A231,31 Mar 2025,HK108,HK108,22:55:00,,22:55:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,ICORE,Inchicore,22:56:30,,22:56:30,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,IBJCT,Islandbridge Junction,22:58:00,,22:58:00,,T,Cork,Dublin Heuston
+A231,31 Mar 2025,HSTON,Dublin Heuston,23:01:00,,00:00:00,,D,Cork,Dublin Heuston
+A531,31 Mar 2025,WFORD,Waterford,00:00:00,,20:20:00,20:20:00,O,Waterford,Dublin Heuston
+A531,31 Mar 2025,WFRDW,,20:22:30,,20:22:30,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,BAHLE,Ballyhale,20:42:30,,20:42:30,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,THTWN,Thomastown,20:48:00,,20:49:00,,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,LVTNS,Lavistown South,20:57:00,,20:57:00,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,KKNNY,Kilkenny,21:03:30,,21:08:30,,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,LVTNN,Lavistown North,21:12:30,,21:12:30,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,MNEBG,Muine Bheag,21:23:30,,21:24:30,,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,CRLOW,Carlow,21:34:30,21:34:30,21:41:30,21:43:48,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,ATHY,Athy,21:52:30,21:56:36,21:53:30,21:56:54,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,CHVLJ,Cherryville Junction,22:06:30,22:11:42,22:06:30,22:11:48,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,KDARE,Kildare,22:11:30,22:16:18,22:12:30,22:18:12,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,CURAH,Curragh,22:15:30,,22:15:30,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,NBRGE,Newbridge,22:18:00,22:23:42,22:19:00,22:25:30,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,HK176,HK176,22:23:00,,22:23:00,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,SALNS,Sallins,22:25:30,22:32:54,22:26:30,22:34:36,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,HK156,HK156,22:30:30,,22:30:30,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,HK152,HK152,22:32:30,,22:32:30,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,HZLCH,Hazelhatch,22:34:00,22:41:54,22:35:00,22:43:42,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,ADMTN,Adamstown,22:38:30,22:46:48,22:39:30,22:48:24,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,KISHO,Kishoge,22:42:00,22:50:48,22:43:00,22:52:30,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,CLDKN,Clondalkin,22:45:00,22:54:18,22:46:00,22:56:18,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,CHORC,Park West and Cherry Orchard,22:48:00,22:56:48,22:49:00,,S,Waterford,Dublin Heuston
+A531,31 Mar 2025,HK106,HK106,22:49:30,,22:49:30,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,ICORE,Inchicore,22:51:00,,22:51:00,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,IBJCT,Islandbridge Junction,22:53:30,,22:53:30,,T,Waterford,Dublin Heuston
+A531,31 Mar 2025,HSTON,Dublin Heuston,22:57:00,,00:00:00,,D,Waterford,Dublin Heuston
+P227,31 Mar 2025,PTLSE,Portlaoise,00:00:00,21:19:36,21:30:00,21:30:54,O,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,CY111,CY111,21:34:30,,21:34:30,,T,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,PTRTN,Portarlington,21:38:00,21:47:48,21:39:00,21:49:42,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,MONVN,Monasterevin,21:44:00,21:54:06,21:45:00,22:03:06,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,CHVLJ,Cherryville Junction,21:49:00,22:07:06,21:49:00,22:07:12,T,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,KDARE,Kildare,21:53:00,22:10:54,21:54:00,22:12:48,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,CURAH,Curragh,21:57:00,,21:57:00,,T,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,NBRGE,Newbridge,21:59:30,22:18:30,22:00:30,22:19:54,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,HK176,HK176,22:04:30,,22:04:30,,T,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,SALNS,Sallins,22:07:00,22:27:06,22:08:00,22:28:54,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,HK156,HK156,22:12:00,,22:12:00,,T,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,HK152,HK152,22:14:00,,22:14:00,,T,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,HZLCH,Hazelhatch,22:15:30,22:36:42,22:16:30,22:38:06,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,ADMTN,Adamstown,22:20:00,22:41:06,22:21:00,22:42:36,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,KISHO,Kishoge,22:23:30,22:44:36,22:24:30,22:45:54,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,CLDKN,Clondalkin,22:26:30,22:47:30,22:27:30,22:49:00,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,CHORC,Park West and Cherry Orchard,22:29:30,22:49:24,22:30:30,22:51:06,S,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,HK106,HK106,22:31:00,,22:31:00,,T,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,ICORE,Inchicore,22:32:30,,22:32:30,,T,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,IBJCT,Islandbridge Junction,22:35:00,,22:35:00,,T,Portlaoise,Dublin Heuston
+P227,31 Mar 2025,HSTON,Dublin Heuston,22:39:00,,00:00:00,,D,Portlaoise,Dublin Heuston
+P423,31 Mar 2025,HZLCH,Hazelhatch,00:00:00,22:18:42,22:42:00,22:46:00,O,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,ADMTN,Adamstown,22:46:00,22:50:18,22:47:00,22:52:12,S,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,KISHO,Kishoge,22:49:30,22:54:36,22:50:30,22:56:30,S,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,CLDKN,Clondalkin,22:52:30,,22:53:30,,S,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,CHORC,Park West and Cherry Orchard,22:56:30,,22:57:30,,S,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,HK106,HK106,22:58:00,,22:58:00,,T,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,ICORE,Inchicore,23:00:00,,23:00:00,,T,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,IBJCT,Islandbridge Junction,23:01:30,,23:01:30,,T,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,HSTNW,,23:02:30,,23:02:30,,T,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,CW22,,23:05:30,,23:05:30,,T,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,GLASJ,Glasnevin Junction,23:08:30,,23:08:30,,T,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,DCDRA,Drumcondra,23:10:30,,23:11:30,,S,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,NSJCT,North Strand Junction,23:14:00,,23:14:00,,T,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,OSSRY,,23:15:00,,23:15:00,,T,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,CNLLY,Dublin Connolly,23:16:00,,23:17:00,,S,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,TARA,Tara Street,23:19:30,,23:20:30,,S,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,PERSE,Dublin Pearse,23:22:00,,23:23:00,,S,Hazelhatch,Grand Canal Dock
+P423,31 Mar 2025,GCDK,Grand Canal Dock,23:25:00,,00:00:00,,D,Hazelhatch,Grand Canal Dock
+E262,31 Mar 2025,HOWTH,Howth,00:00:00,22:11:48,22:19:00,22:19:54,O,Howth,Bray
+E262,31 Mar 2025,SUTTN,Sutton,22:21:30,22:22:18,22:22:00,22:23:30,S,Howth,Bray
+E262,31 Mar 2025,BYSDE,Bayside,22:24:00,22:24:48,22:24:30,22:27:12,S,Howth,Bray
+E262,31 Mar 2025,HWTHJ,Howth Junction,22:27:00,22:28:36,22:27:30,22:29:48,S,Howth,Bray
+E262,31 Mar 2025,KBRCK,Kilbarrack,22:29:00,22:30:48,22:29:30,22:31:48,S,Howth,Bray
+E262,31 Mar 2025,RAHNY,Raheny,22:31:30,22:33:12,22:32:00,22:34:48,S,Howth,Bray
+E262,31 Mar 2025,HTOWN,Harmonstown,22:33:30,22:36:12,22:34:00,22:37:12,S,Howth,Bray
+E262,31 Mar 2025,KLSTR,Killester,22:35:30,22:38:30,22:36:00,22:39:48,S,Howth,Bray
+E262,31 Mar 2025,CTARF,Clontarf Road,22:39:00,22:41:42,22:39:30,22:42:42,S,Howth,Bray
+E262,31 Mar 2025,EWALL,,22:40:30,,22:40:30,,T,Howth,Bray
+E262,31 Mar 2025,SUBJN,,22:41:00,,22:41:00,,T,Howth,Bray
+E262,31 Mar 2025,DC336,,22:41:00,,22:41:00,,T,Howth,Bray
+E262,31 Mar 2025,CNLLY,Dublin Connolly,22:44:00,22:45:48,22:45:00,22:47:00,S,Howth,Bray
+E262,31 Mar 2025,TARA,Tara Street,22:47:00,22:49:12,22:48:00,22:50:30,S,Howth,Bray
+E262,31 Mar 2025,PERSE,Dublin Pearse,22:49:00,22:51:12,22:50:00,22:52:30,S,Howth,Bray
+E262,31 Mar 2025,PERSE,Dublin Pearse,22:50:30,22:51:12,22:50:30,22:52:30,T,Howth,Bray
+E262,31 Mar 2025,GCDK,Grand Canal Dock,22:51:30,22:53:42,22:52:30,22:55:24,S,Howth,Bray
+E262,31 Mar 2025,LDWNE,Lansdowne Road,22:55:00,22:56:48,22:55:30,,S,Howth,Bray
+E262,31 Mar 2025,SMONT,Sandymount,22:57:00,,22:57:30,,S,Howth,Bray
+E262,31 Mar 2025,SIDNY,Sydney Parade,22:59:30,,23:00:00,,S,Howth,Bray
+E262,31 Mar 2025,BTSTN,Booterstown,23:02:00,,23:02:30,,S,Howth,Bray
+E262,31 Mar 2025,BROCK,Blackrock,23:04:30,,23:05:00,,S,Howth,Bray
+E262,31 Mar 2025,SEAPT,Seapoint,23:06:30,,23:07:00,,S,Howth,Bray
+E262,31 Mar 2025,SHILL,Salthill and Monkstown,23:08:30,,23:09:00,,S,Howth,Bray
+E262,31 Mar 2025,DLERY,Dun Laoghaire,23:11:00,,23:11:30,,S,Howth,Bray
+E262,31 Mar 2025,SCOVE,Sandycove,23:14:30,,23:15:00,,S,Howth,Bray
+E262,31 Mar 2025,GLGRY,Glenageary,23:17:00,,23:17:30,,S,Howth,Bray
+E262,31 Mar 2025,DLKEY,Dalkey,23:19:30,,23:20:00,,S,Howth,Bray
+E262,31 Mar 2025,KILNY,Killiney,23:24:00,,23:24:30,,S,Howth,Bray
+E262,31 Mar 2025,SKILL,Shankill,23:27:00,,23:27:30,,S,Howth,Bray
+E262,31 Mar 2025,BRAY,Bray,23:32:00,,00:00:00,,D,Howth,Bray
+E847,31 Mar 2025,BRAY,Bray,00:00:00,22:07:36,22:12:00,22:14:48,O,Bray,Malahide
+E847,31 Mar 2025,SKILL,Shankill,22:16:00,22:17:30,22:16:30,22:18:54,S,Bray,Malahide
+E847,31 Mar 2025,KILNY,Killiney,22:19:00,22:20:24,22:19:30,22:21:36,S,Bray,Malahide
+E847,31 Mar 2025,DLKEY,Dalkey,22:23:30,22:24:24,22:24:00,22:25:36,S,Bray,Malahide
+E847,31 Mar 2025,GLGRY,Glenageary,22:26:00,22:27:42,22:26:30,22:28:42,S,Bray,Malahide
+E847,31 Mar 2025,SCOVE,Sandycove,22:28:00,22:29:30,22:28:30,22:30:36,S,Bray,Malahide
+E847,31 Mar 2025,DLERY,Dun Laoghaire,22:31:30,22:32:30,22:32:00,22:33:24,S,Bray,Malahide
+E847,31 Mar 2025,SHILL,Salthill and Monkstown,22:34:00,22:34:30,22:34:30,22:36:00,S,Bray,Malahide
+E847,31 Mar 2025,SEAPT,Seapoint,22:35:30,22:36:18,22:36:00,22:37:42,S,Bray,Malahide
+E847,31 Mar 2025,BROCK,Blackrock,22:38:00,22:38:06,22:38:30,22:39:42,S,Bray,Malahide
+E847,31 Mar 2025,BTSTN,Booterstown,22:40:00,22:40:42,22:40:30,22:42:36,S,Bray,Malahide
+E847,31 Mar 2025,SIDNY,Sydney Parade,22:42:30,22:43:36,22:43:00,22:44:30,S,Bray,Malahide
+E847,31 Mar 2025,SMONT,Sandymount,22:45:00,22:45:54,22:45:30,22:47:00,S,Bray,Malahide
+E847,31 Mar 2025,LDWNE,Lansdowne Road,22:47:00,22:47:42,22:47:30,22:48:48,S,Bray,Malahide
+E847,31 Mar 2025,GCDK,Grand Canal Dock,22:50:00,22:50:36,22:51:00,22:52:12,S,Bray,Malahide
+E847,31 Mar 2025,DC427,,22:52:00,,22:52:00,,T,Bray,Malahide
+E847,31 Mar 2025,PERSE,Dublin Pearse,22:53:00,22:52:54,22:54:00,22:54:36,S,Bray,Malahide
+E847,31 Mar 2025,TARA,Tara Street,22:55:30,22:55:18,22:56:30,22:56:48,S,Bray,Malahide
+E847,31 Mar 2025,CNLLY,Dublin Connolly,22:59:30,,23:00:30,,S,Bray,Malahide
+E847,31 Mar 2025,OSSRY,,23:01:00,,23:01:00,,T,Bray,Malahide
+E847,31 Mar 2025,SUBJN,,23:01:30,,23:01:30,,T,Bray,Malahide
+E847,31 Mar 2025,EWALL,,23:02:00,,23:02:00,,T,Bray,Malahide
+E847,31 Mar 2025,CTARF,Clontarf Road,23:03:30,,23:04:00,,S,Bray,Malahide
+E847,31 Mar 2025,KLSTR,Killester,23:06:00,,23:06:30,,S,Bray,Malahide
+E847,31 Mar 2025,HTOWN,Harmonstown,23:08:00,,23:08:30,,S,Bray,Malahide
+E847,31 Mar 2025,RAHNY,Raheny,23:10:00,,23:10:30,,S,Bray,Malahide
+E847,31 Mar 2025,KBRCK,Kilbarrack,23:12:00,,23:12:30,,S,Bray,Malahide
+E847,31 Mar 2025,HWTHJ,Howth Junction,23:14:00,,23:14:30,,S,Bray,Malahide
+E847,31 Mar 2025,GRGRD,Clongriffin,23:16:30,,23:17:00,,S,Bray,Malahide
+E847,31 Mar 2025,PMNCK,Portmarnock,23:19:00,,23:19:30,,S,Bray,Malahide
+E847,31 Mar 2025,MHIDE,Malahide,23:26:00,,00:00:00,,D,Bray,Malahide
+D839,31 Mar 2025,GCDK,Grand Canal Dock,00:00:00,22:32:12,22:47:00,22:47:42,O,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,DC427,,22:47:30,,22:47:30,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,PERSE,Dublin Pearse,22:48:30,22:48:48,22:49:30,22:50:48,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,TARA,Tara Street,22:50:30,22:51:36,22:51:30,22:53:30,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,CNLLY,Dublin Connolly,22:54:00,22:55:12,22:55:00,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,OSSRY,,22:56:00,,22:56:00,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,SUBJN,,22:56:30,,22:56:30,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,EWALL,,22:57:00,,22:57:00,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,CTARF,Clontarf Road,22:59:30,,22:59:30,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,KLSTR,Killester,23:01:30,,23:01:30,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,HTOWN,Harmonstown,23:03:00,,23:03:00,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,RAHNY,Raheny,23:04:30,,23:04:30,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,KBRCK,Kilbarrack,23:06:00,,23:06:00,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,HWTHJ,Howth Junction,23:08:00,,23:08:30,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,GRGRD,Clongriffin,23:11:00,,23:11:30,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,PMNCK,Portmarnock,23:15:00,,23:15:30,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,MHIDE,Malahide,23:19:30,,23:20:30,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,DBATE,Donabate,23:24:00,,23:25:00,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,RLUSK,Rush and Lusk,23:29:00,,23:30:00,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,SKRES,Skerries,23:35:30,,23:36:30,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,BBRGN,Balbriggan,23:41:30,,23:42:30,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,GSTON,Gormanston,23:46:30,,23:47:00,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,MSNEY,Mosney,23:49:30,,23:49:30,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,LTOWN,Laytown,23:52:30,,23:53:00,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,DGHDA,Drogheda,00:01:00,,00:03:00,,S,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,DA287,,00:04:30,,00:04:30,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,DA284,,00:11:00,,00:11:00,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,DD282,,00:17:00,,00:17:00,,T,Grand Canal Dock,Dundalk
+D839,31 Mar 2025,DDALK,Dundalk,00:26:00,,00:00:00,,D,Grand Canal Dock,Dundalk
+E133,31 Mar 2025,MHIDE,Malahide,00:00:00,22:26:48,22:33:00,22:34:48,O,Malahide,Greystones
+E133,31 Mar 2025,PMNCK,Portmarnock,22:37:00,22:37:24,22:37:30,22:38:30,S,Malahide,Greystones
+E133,31 Mar 2025,GRGRD,Clongriffin,22:39:30,22:39:42,22:40:00,22:41:06,S,Malahide,Greystones
+E133,31 Mar 2025,HWTHJ,Howth Junction,22:42:00,22:44:12,22:42:30,22:45:12,S,Malahide,Greystones
+E133,31 Mar 2025,KBRCK,Kilbarrack,22:44:00,22:45:42,22:44:30,22:46:42,S,Malahide,Greystones
+E133,31 Mar 2025,RAHNY,Raheny,22:46:30,22:47:48,22:47:00,22:48:48,S,Malahide,Greystones
+E133,31 Mar 2025,HTOWN,Harmonstown,22:48:30,22:49:48,22:49:00,22:50:42,S,Malahide,Greystones
+E133,31 Mar 2025,KLSTR,Killester,22:50:30,22:51:36,22:51:00,22:52:48,S,Malahide,Greystones
+E133,31 Mar 2025,CTARF,Clontarf Road,22:54:00,22:54:18,22:54:30,,S,Malahide,Greystones
+E133,31 Mar 2025,EWALL,,22:56:00,,22:56:00,,T,Malahide,Greystones
+E133,31 Mar 2025,SUBJN,,22:56:30,,22:56:30,,T,Malahide,Greystones
+E133,31 Mar 2025,DC336,,22:56:30,,22:56:30,,T,Malahide,Greystones
+E133,31 Mar 2025,CNLLY,Dublin Connolly,22:59:00,,23:00:00,,S,Malahide,Greystones
+E133,31 Mar 2025,TARA,Tara Street,23:02:00,,23:03:00,,S,Malahide,Greystones
+E133,31 Mar 2025,PERSE,Dublin Pearse,23:04:00,,23:05:00,,S,Malahide,Greystones
+E133,31 Mar 2025,GCDK,Grand Canal Dock,23:06:30,,23:07:30,,S,Malahide,Greystones
+E133,31 Mar 2025,LDWNE,Lansdowne Road,23:10:00,,23:10:30,,S,Malahide,Greystones
+E133,31 Mar 2025,SMONT,Sandymount,23:12:00,,23:12:30,,S,Malahide,Greystones
+E133,31 Mar 2025,SIDNY,Sydney Parade,23:14:30,,23:15:00,,S,Malahide,Greystones
+E133,31 Mar 2025,BTSTN,Booterstown,23:17:00,,23:17:30,,S,Malahide,Greystones
+E133,31 Mar 2025,BROCK,Blackrock,23:19:30,,23:20:00,,S,Malahide,Greystones
+E133,31 Mar 2025,SEAPT,Seapoint,23:21:30,,23:22:00,,S,Malahide,Greystones
+E133,31 Mar 2025,SHILL,Salthill and Monkstown,23:23:30,,23:24:00,,S,Malahide,Greystones
+E133,31 Mar 2025,DLERY,Dun Laoghaire,23:26:00,,23:26:30,,S,Malahide,Greystones
+E133,31 Mar 2025,SCOVE,Sandycove,23:29:30,,23:30:00,,S,Malahide,Greystones
+E133,31 Mar 2025,GLGRY,Glenageary,23:32:00,,23:32:30,,S,Malahide,Greystones
+E133,31 Mar 2025,DLKEY,Dalkey,23:34:30,,23:35:00,,S,Malahide,Greystones
+E133,31 Mar 2025,KILNY,Killiney,23:39:00,,23:39:30,,S,Malahide,Greystones
+E133,31 Mar 2025,SKILL,Shankill,23:42:00,,23:42:30,,S,Malahide,Greystones
+E133,31 Mar 2025,BRAY,Bray,23:48:00,,23:50:00,,S,Malahide,Greystones
+E133,31 Mar 2025,BYARD,Bray Yard,23:50:30,,23:50:30,,T,Malahide,Greystones
+E133,31 Mar 2025,BR49,,23:55:30,,23:55:30,,T,Malahide,Greystones
+E133,31 Mar 2025,GSTNS,Greystones,23:59:00,,00:00:00,,D,Malahide,Greystones
+D938,31 Mar 2025,GCDK,Grand Canal Dock,00:00:00,22:01:36,22:12:00,22:12:42,O,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,DC427,,22:12:30,,22:12:30,,T,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,PERSE,Dublin Pearse,22:13:30,22:13:42,22:14:30,22:15:06,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,TARA,Tara Street,22:15:30,22:15:48,22:16:30,22:17:00,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,CNLLY,Dublin Connolly,22:19:00,22:18:30,22:20:00,22:20:48,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,OSSRY,,22:20:30,22:21:06,22:20:30,22:21:24,T,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,NSJCT,North Strand Junction,22:21:30,22:22:00,22:21:30,22:22:12,T,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,DCDRA,Drumcondra,22:24:00,22:24:00,22:24:30,22:25:18,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,GLASJ,Glasnevin Junction,22:26:00,,22:26:00,,T,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,CW53,,22:28:30,,22:28:30,,T,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,BBRDG,Broombridge,22:29:30,22:28:00,22:30:00,22:30:30,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,PELTN,Pelletstown,22:31:30,22:31:24,22:32:00,22:34:00,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,ASHTN,Ashtown,22:34:00,22:34:30,22:34:30,22:36:12,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,PHNPK,Navan Road Parkway,22:37:00,22:36:12,22:37:30,22:38:36,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,CNOCK,Castleknock,22:40:00,22:40:18,22:40:30,22:42:18,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,CMINE,Coolmine,22:43:00,22:43:12,22:43:30,22:44:54,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,CLSLA,Clonsilla,22:47:00,22:47:30,22:47:30,22:49:18,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,CLSLJ,Clonsilla Junction,22:48:30,,22:48:30,,T,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,LXCON,Leixlip (Confey),22:52:30,22:52:36,22:53:00,22:55:42,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,LXLSA,Leixlip (Louisa Bridge),22:55:00,22:56:24,22:55:30,,S,Grand Canal Dock,Maynooth
+D938,31 Mar 2025,MYNTH,Maynooth,23:05:00,,00:00:00,,D,Grand Canal Dock,Maynooth
+E949,31 Mar 2025,GSTNS,Greystones,00:00:00,21:42:06,21:50:00,21:50:30,O,Greystones,Howth
+E949,31 Mar 2025,BR49,,21:54:30,21:55:00,21:54:30,21:55:18,T,Greystones,Howth
+E949,31 Mar 2025,BYARD,Bray Yard,21:59:00,,21:59:00,,T,Greystones,Howth
+E949,31 Mar 2025,BRAY,Bray,22:00:00,21:59:42,22:02:00,22:02:36,S,Greystones,Howth
+E949,31 Mar 2025,SKILL,Shankill,22:06:00,22:06:00,22:06:30,22:07:30,S,Greystones,Howth
+E949,31 Mar 2025,KILNY,Killiney,22:09:00,22:09:06,22:09:30,22:10:36,S,Greystones,Howth
+E949,31 Mar 2025,DLKEY,Dalkey,22:13:30,22:13:36,22:14:00,22:14:54,S,Greystones,Howth
+E949,31 Mar 2025,GLGRY,Glenageary,22:16:00,22:17:06,22:16:30,22:18:12,S,Greystones,Howth
+E949,31 Mar 2025,SCOVE,Sandycove,22:18:00,22:19:06,22:18:30,22:20:18,S,Greystones,Howth
+E949,31 Mar 2025,DLERY,Dun Laoghaire,22:21:30,22:22:12,22:22:00,22:23:42,S,Greystones,Howth
+E949,31 Mar 2025,SHILL,Salthill and Monkstown,22:24:00,22:24:42,22:24:30,22:26:00,S,Greystones,Howth
+E949,31 Mar 2025,SEAPT,Seapoint,22:25:30,22:26:18,22:26:00,22:27:36,S,Greystones,Howth
+E949,31 Mar 2025,BROCK,Blackrock,22:28:00,22:28:00,22:28:30,22:29:30,S,Greystones,Howth
+E949,31 Mar 2025,BTSTN,Booterstown,22:30:00,22:30:30,22:30:30,22:32:18,S,Greystones,Howth
+E949,31 Mar 2025,SIDNY,Sydney Parade,22:32:30,22:33:18,22:33:00,22:34:18,S,Greystones,Howth
+E949,31 Mar 2025,SMONT,Sandymount,22:35:00,22:35:42,22:35:30,22:37:12,S,Greystones,Howth
+E949,31 Mar 2025,LDWNE,Lansdowne Road,22:37:00,22:37:48,22:37:30,22:38:48,S,Greystones,Howth
+E949,31 Mar 2025,GCDK,Grand Canal Dock,22:40:00,22:40:00,22:41:00,22:41:18,S,Greystones,Howth
+E949,31 Mar 2025,DC427,,22:41:30,,22:41:30,,T,Greystones,Howth
+E949,31 Mar 2025,PERSE,Dublin Pearse,22:43:00,22:42:42,22:44:00,22:44:06,S,Greystones,Howth
+E949,31 Mar 2025,TARA,Tara Street,22:45:30,22:45:00,22:46:30,22:46:42,S,Greystones,Howth
+E949,31 Mar 2025,CNLLY,Dublin Connolly,22:49:30,22:48:48,22:50:30,22:50:24,S,Greystones,Howth
+E949,31 Mar 2025,OSSRY,,22:51:00,22:50:54,22:51:00,22:51:24,T,Greystones,Howth
+E949,31 Mar 2025,SUBJN,,22:51:30,,22:51:30,,T,Greystones,Howth
+E949,31 Mar 2025,EWALL,,22:52:00,,22:52:00,,T,Greystones,Howth
+E949,31 Mar 2025,CTARF,Clontarf Road,22:54:30,22:54:18,22:55:00,22:55:06,S,Greystones,Howth
+E949,31 Mar 2025,KLSTR,Killester,22:57:00,22:56:36,22:57:30,,S,Greystones,Howth
+E949,31 Mar 2025,HTOWN,Harmonstown,22:59:00,,22:59:30,,S,Greystones,Howth
+E949,31 Mar 2025,RAHNY,Raheny,23:01:00,,23:01:30,,S,Greystones,Howth
+E949,31 Mar 2025,KBRCK,Kilbarrack,23:03:00,,23:03:30,,S,Greystones,Howth
+E949,31 Mar 2025,HWTHJ,Howth Junction,23:05:00,,23:05:30,,S,Greystones,Howth
+E949,31 Mar 2025,BYSDE,Bayside,23:07:30,,23:08:00,,S,Greystones,Howth
+E949,31 Mar 2025,SUTTN,Sutton,23:10:00,,23:10:30,,S,Greystones,Howth
+E949,31 Mar 2025,HOWTH,Howth,23:15:00,,00:00:00,,D,Greystones,Howth
+P714,31 Mar 2025,DGHDA,Drogheda,00:00:00,20:58:18,22:05:00,22:05:42,O,Drogheda,Dublin Connolly
+P714,31 Mar 2025,LTOWN,Laytown,22:11:30,22:10:48,22:12:00,22:13:36,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,MSNEY,Mosney,22:14:00,22:14:06,22:14:00,22:14:18,T,Drogheda,Dublin Connolly
+P714,31 Mar 2025,GSTON,Gormanston,22:16:30,22:16:06,22:17:00,22:18:42,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,BBRGN,Balbriggan,22:21:30,22:20:12,22:22:00,22:21:48,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,SKRES,Skerries,22:26:30,22:26:54,22:27:00,22:28:24,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,RLUSK,Rush and Lusk,22:32:30,22:32:06,22:33:00,22:33:36,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,DBATE,Donabate,22:36:30,22:37:42,22:37:00,22:40:06,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,MHIDE,Malahide,22:41:30,22:42:36,22:42:30,22:43:54,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,PMNCK,Portmarnock,22:46:30,22:46:48,22:47:00,22:48:00,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,GRGRD,Clongriffin,22:50:00,22:49:12,22:50:30,22:50:30,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,HWTHJ,Howth Junction,22:52:30,22:51:48,22:53:00,22:53:18,S,Drogheda,Dublin Connolly
+P714,31 Mar 2025,KBRCK,Kilbarrack,22:54:30,22:54:00,22:54:30,22:54:12,T,Drogheda,Dublin Connolly
+P714,31 Mar 2025,RAHNY,Raheny,22:55:30,22:55:00,22:55:30,22:55:12,T,Drogheda,Dublin Connolly
+P714,31 Mar 2025,HTOWN,Harmonstown,22:56:30,22:55:48,22:56:30,22:56:00,T,Drogheda,Dublin Connolly
+P714,31 Mar 2025,KLSTR,Killester,22:57:30,22:56:36,22:57:30,22:56:48,T,Drogheda,Dublin Connolly
+P714,31 Mar 2025,CTARF,Clontarf Road,22:59:30,,22:59:30,,T,Drogheda,Dublin Connolly
+P714,31 Mar 2025,EWALL,,23:01:00,,23:01:00,,T,Drogheda,Dublin Connolly
+P714,31 Mar 2025,SUBJN,,23:01:30,,23:01:30,,T,Drogheda,Dublin Connolly
+P714,31 Mar 2025,OSSRY,,23:02:00,,23:02:00,,T,Drogheda,Dublin Connolly
+P714,31 Mar 2025,CNLLY,Dublin Connolly,23:03:00,,00:00:00,,D,Drogheda,Dublin Connolly
+D332,31 Mar 2025,CLSLA,Clonsilla,00:00:00,22:24:12,22:49:00,22:51:48,O,Clonsilla,M3 Parkway
+D332,31 Mar 2025,CLSLJ,Clonsilla Junction,22:50:00,,22:50:00,,T,Clonsilla,M3 Parkway
+D332,31 Mar 2025,HAFLD,Hansfield,22:52:00,22:53:36,22:52:30,22:55:42,S,Clonsilla,M3 Parkway
+D332,31 Mar 2025,DBYNE,Dunboyne,22:56:30,,22:57:00,,S,Clonsilla,M3 Parkway
+D332,31 Mar 2025,M3WAY,M3 Parkway,23:01:00,,00:00:00,,D,Clonsilla,M3 Parkway
+E263,31 Mar 2025,HOWTH,Howth,00:00:00,22:22:18,22:46:00,22:46:36,O,Howth,Bray
+E263,31 Mar 2025,SUTTN,Sutton,22:48:30,22:49:12,22:49:00,22:50:30,S,Howth,Bray
+E263,31 Mar 2025,BYSDE,Bayside,22:51:00,22:51:48,22:51:30,22:53:00,S,Howth,Bray
+E263,31 Mar 2025,HWTHJ,Howth Junction,22:54:00,22:54:36,22:54:30,22:55:42,S,Howth,Bray
+E263,31 Mar 2025,KBRCK,Kilbarrack,22:56:00,22:56:36,22:56:30,,S,Howth,Bray
+E263,31 Mar 2025,RAHNY,Raheny,22:58:30,,22:59:00,,S,Howth,Bray
+E263,31 Mar 2025,HTOWN,Harmonstown,23:00:30,,23:01:00,,S,Howth,Bray
+E263,31 Mar 2025,KLSTR,Killester,23:02:30,,23:03:00,,S,Howth,Bray
+E263,31 Mar 2025,CTARF,Clontarf Road,23:06:00,,23:06:30,,S,Howth,Bray
+E263,31 Mar 2025,EWALL,,23:07:30,,23:07:30,,T,Howth,Bray
+E263,31 Mar 2025,SUBJN,,23:08:00,,23:08:00,,T,Howth,Bray
+E263,31 Mar 2025,DC336,,23:08:00,,23:08:00,,T,Howth,Bray
+E263,31 Mar 2025,CNLLY,Dublin Connolly,23:11:00,,23:12:00,,S,Howth,Bray
+E263,31 Mar 2025,TARA,Tara Street,23:14:00,,23:15:00,,S,Howth,Bray
+E263,31 Mar 2025,PERSE,Dublin Pearse,23:16:00,,23:17:00,,S,Howth,Bray
+E263,31 Mar 2025,PERSE,Dublin Pearse,23:17:30,,23:17:30,,T,Howth,Bray
+E263,31 Mar 2025,GCDK,Grand Canal Dock,23:18:30,,23:19:30,,S,Howth,Bray
+E263,31 Mar 2025,LDWNE,Lansdowne Road,23:22:00,,23:22:30,,S,Howth,Bray
+E263,31 Mar 2025,SMONT,Sandymount,23:24:00,,23:24:30,,S,Howth,Bray
+E263,31 Mar 2025,SIDNY,Sydney Parade,23:26:30,,23:27:00,,S,Howth,Bray
+E263,31 Mar 2025,BTSTN,Booterstown,23:29:00,,23:29:30,,S,Howth,Bray
+E263,31 Mar 2025,BROCK,Blackrock,23:31:30,,23:32:00,,S,Howth,Bray
+E263,31 Mar 2025,SEAPT,Seapoint,23:33:30,,23:34:00,,S,Howth,Bray
+E263,31 Mar 2025,SHILL,Salthill and Monkstown,23:35:30,,23:36:00,,S,Howth,Bray
+E263,31 Mar 2025,DLERY,Dun Laoghaire,23:38:00,,23:38:30,,S,Howth,Bray
+E263,31 Mar 2025,SCOVE,Sandycove,23:41:30,,23:42:00,,S,Howth,Bray
+E263,31 Mar 2025,GLGRY,Glenageary,23:44:00,,23:44:30,,S,Howth,Bray
+E263,31 Mar 2025,DLKEY,Dalkey,23:46:30,,23:47:00,,S,Howth,Bray
+E263,31 Mar 2025,KILNY,Killiney,23:51:00,,23:51:30,,S,Howth,Bray
+E263,31 Mar 2025,SKILL,Shankill,23:54:00,,23:54:30,,S,Howth,Bray
+E263,31 Mar 2025,BRAY,Bray,23:59:00,,00:00:00,,D,Howth,Bray
+A131,31 Mar 2025,BFSTC,Belfast,00:00:00,,21:00:00,,O,Belfast,Dublin Connolly
+A131,31 Mar 2025,LBURN,Lisburn,21:10:00,,21:10:00,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,MOIRA,MOIRA,21:18:00,,21:18:00,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,LURGN,Lurgan,21:23:30,,21:23:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,PDOWN,Portadown,21:29:30,,21:33:30,,S,Belfast,Dublin Connolly
+A131,31 Mar 2025,PPASS,Poyntzpass,21:43:30,,21:43:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,NEWRY,Newry,21:52:30,,21:56:30,,S,Belfast,Dublin Connolly
+A131,31 Mar 2025,DDALK,Dundalk,22:12:00,22:10:00,22:16:00,22:16:48,S,Belfast,Dublin Connolly
+A131,31 Mar 2025,DD281,,22:23:30,,22:23:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,DA283,,22:28:30,,22:28:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,DA285,,22:33:30,,22:33:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,DGHDA,Drogheda,22:36:00,22:36:00,22:39:00,22:39:30,S,Belfast,Dublin Connolly
+A131,31 Mar 2025,LTOWN,Laytown,22:44:00,22:44:18,22:44:00,22:45:06,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,MSNEY,Mosney,22:45:00,22:45:30,22:45:00,22:45:42,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,GSTON,Gormanston,22:46:00,22:47:12,22:46:00,22:48:18,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,BBRGN,Balbriggan,22:48:30,22:49:54,22:48:30,22:50:06,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,SKRES,Skerries,22:51:30,22:53:54,22:51:30,22:54:06,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,RLUSK,Rush and Lusk,22:54:30,22:57:12,22:54:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,DBATE,Donabate,22:56:00,,22:56:00,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,MHIDE,Malahide,22:58:00,,22:58:00,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,PMNCK,Portmarnock,23:00:00,,23:00:00,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,GRGRD,Clongriffin,23:01:00,,23:01:00,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,HWTHJ,Howth Junction,23:01:30,,23:01:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,KBRCK,Kilbarrack,23:02:30,,23:02:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,RAHNY,Raheny,23:03:30,,23:03:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,HTOWN,Harmonstown,23:05:00,,23:05:00,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,KLSTR,Killester,23:06:30,,23:06:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,CTARF,Clontarf Road,23:08:30,,23:08:30,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,EWALL,,23:10:00,,23:10:00,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,SUBJN,,23:11:00,,23:11:00,,T,Belfast,Dublin Connolly
+A131,31 Mar 2025,CNLLY,Dublin Connolly,23:13:00,,00:00:00,,D,Belfast,Dublin Connolly
+D837,31 Mar 2025,GCDK,Grand Canal Dock,00:00:00,21:33:00,21:40:00,21:43:48,O,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,DC427,,21:40:30,,21:40:30,,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,PERSE,Dublin Pearse,21:41:30,21:45:00,21:42:30,21:46:24,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,TARA,Tara Street,21:43:30,21:47:24,21:44:30,21:49:24,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,CNLLY,Dublin Connolly,21:47:00,21:51:18,21:48:00,21:53:12,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,OSSRY,,21:49:00,21:53:30,21:49:00,21:54:00,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,SUBJN,,21:49:30,,21:49:30,,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,EWALL,,21:50:00,,21:50:00,,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,CTARF,Clontarf Road,21:52:30,21:55:42,21:52:30,21:56:00,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,KLSTR,Killester,21:55:00,21:57:36,21:55:00,21:58:06,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,HTOWN,Harmonstown,21:57:00,21:59:42,21:57:00,22:00:00,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,RAHNY,Raheny,21:59:00,22:01:30,21:59:00,22:01:48,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,KBRCK,Kilbarrack,22:01:00,22:03:42,22:01:00,22:04:00,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,HWTHJ,Howth Junction,22:03:00,22:04:30,22:03:30,22:06:00,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,GRGRD,Clongriffin,22:06:00,22:07:18,22:06:30,22:08:54,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,PMNCK,Portmarnock,22:10:00,22:10:18,22:10:30,22:12:12,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,MHIDE,Malahide,22:14:30,22:14:48,22:15:30,22:16:42,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,DBATE,Donabate,22:19:00,22:18:42,22:20:00,22:21:24,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,RLUSK,Rush and Lusk,22:24:00,22:23:12,22:25:00,22:26:36,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,SKRES,Skerries,22:30:30,22:29:48,22:31:30,22:33:48,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,BBRGN,Balbriggan,22:36:30,22:37:00,22:37:30,22:38:54,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,GSTON,Gormanston,22:41:30,22:41:18,22:42:00,22:43:06,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,MSNEY,Mosney,22:44:30,22:44:48,22:44:30,22:45:00,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,LTOWN,Laytown,22:48:00,22:46:18,22:48:30,22:48:18,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,DGHDA,Drogheda,22:56:30,22:57:00,22:58:30,,S,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,DA287,,23:00:00,,23:00:00,,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,DA284,,23:06:30,,23:06:30,,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,DD282,,23:12:30,,23:12:30,,T,Grand Canal Dock,Dundalk
+D837,31 Mar 2025,DDALK,Dundalk,23:20:00,,00:00:00,,D,Grand Canal Dock,Dundalk
+A130,31 Mar 2025,CNLLY,Dublin Connolly,00:00:00,20:11:54,20:50:00,20:50:42,O,Dublin Connolly,Belfast
+A130,31 Mar 2025,SUBJN,,20:51:30,,20:51:30,,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,EWALL,,20:52:00,,20:52:00,,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,CTARF,Clontarf Road,20:52:30,20:53:30,20:52:30,20:53:42,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,KLSTR,Killester,20:54:00,20:54:54,20:54:00,20:55:12,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,HTOWN,Harmonstown,20:54:30,20:56:18,20:54:30,20:56:36,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,RAHNY,Raheny,20:57:00,20:58:12,20:57:00,20:58:30,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,KBRCK,Kilbarrack,20:59:00,21:00:36,20:59:00,21:00:54,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,HWTHJ,Howth Junction,21:00:30,21:01:24,21:00:30,21:01:30,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,GRGRD,Clongriffin,21:02:00,21:02:18,21:02:00,21:02:30,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,PMNCK,Portmarnock,21:04:00,21:03:12,21:04:00,21:03:30,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,MHIDE,Malahide,21:06:30,21:06:12,21:06:30,21:06:24,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,DBATE,Donabate,21:10:30,21:07:48,21:10:30,21:08:30,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,RLUSK,Rush and Lusk,21:12:00,21:09:42,21:12:00,21:10:18,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,SKRES,Skerries,21:15:00,21:12:24,21:15:00,21:13:06,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,BBRGN,Balbriggan,21:18:00,21:15:12,21:18:00,21:15:30,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,GSTON,Gormanston,21:19:30,21:16:54,21:19:30,21:17:06,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,MSNEY,Mosney,21:21:00,21:18:06,21:21:00,21:18:18,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,LTOWN,Laytown,21:22:00,21:19:06,21:22:00,21:19:18,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,DGHDA,Drogheda,21:27:00,21:24:42,21:29:00,21:28:06,S,Dublin Connolly,Belfast
+A130,31 Mar 2025,DA287,,21:31:00,,21:31:00,,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,DA284,,21:37:00,,21:37:00,,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,DD282,,21:42:00,,21:42:00,,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,DDALK,Dundalk,21:49:00,21:46:54,21:51:00,21:51:12,S,Dublin Connolly,Belfast
+A130,31 Mar 2025,NEWRY,Newry,22:07:00,,22:09:00,,S,Dublin Connolly,Belfast
+A130,31 Mar 2025,PPASS,Poyntzpass,22:17:30,,22:17:30,,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,PDOWN,Portadown,22:28:00,,22:30:00,,S,Dublin Connolly,Belfast
+A130,31 Mar 2025,LURGN,Lurgan,22:36:00,,22:36:00,,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,MOIRA,MOIRA,22:41:30,,22:41:30,,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,LBURN,Lisburn,22:48:00,,22:48:00,,T,Dublin Connolly,Belfast
+A130,31 Mar 2025,BFSTC,Belfast,22:58:00,,00:00:00,,D,Dublin Connolly,Belfast
+E846,31 Mar 2025,BRAY,Bray,00:00:00,21:35:00,21:42:00,21:42:24,O,Bray,Malahide
+E846,31 Mar 2025,SKILL,Shankill,21:46:00,21:45:06,21:46:30,21:46:36,S,Bray,Malahide
+E846,31 Mar 2025,KILNY,Killiney,21:49:00,21:48:00,21:49:30,21:49:30,S,Bray,Malahide
+E846,31 Mar 2025,DLKEY,Dalkey,21:53:30,21:52:18,21:54:00,21:54:18,S,Bray,Malahide
+E846,31 Mar 2025,GLGRY,Glenageary,21:56:00,21:56:18,21:56:30,21:57:30,S,Bray,Malahide
+E846,31 Mar 2025,SCOVE,Sandycove,21:58:00,21:58:24,21:58:30,21:59:36,S,Bray,Malahide
+E846,31 Mar 2025,DLERY,Dun Laoghaire,22:01:30,22:01:30,22:02:00,22:02:42,S,Bray,Malahide
+E846,31 Mar 2025,SHILL,Salthill and Monkstown,22:04:00,22:03:54,22:04:30,22:05:30,S,Bray,Malahide
+E846,31 Mar 2025,SEAPT,Seapoint,22:05:30,22:05:42,22:06:00,22:07:12,S,Bray,Malahide
+E846,31 Mar 2025,BROCK,Blackrock,22:08:00,22:07:42,22:08:30,22:09:18,S,Bray,Malahide
+E846,31 Mar 2025,BTSTN,Booterstown,22:10:00,22:10:24,22:10:30,22:12:18,S,Bray,Malahide
+E846,31 Mar 2025,SIDNY,Sydney Parade,22:12:30,22:13:30,22:13:00,22:14:36,S,Bray,Malahide
+E846,31 Mar 2025,SMONT,Sandymount,22:15:00,22:16:00,22:15:30,22:17:12,S,Bray,Malahide
+E846,31 Mar 2025,LDWNE,Lansdowne Road,22:17:00,22:18:06,22:17:30,22:19:12,S,Bray,Malahide
+E846,31 Mar 2025,GCDK,Grand Canal Dock,22:20:00,22:20:42,22:21:00,22:22:12,S,Bray,Malahide
+E846,31 Mar 2025,DC427,,22:22:00,,22:22:00,,T,Bray,Malahide
+E846,31 Mar 2025,PERSE,Dublin Pearse,22:23:30,22:23:06,22:24:30,22:24:30,S,Bray,Malahide
+E846,31 Mar 2025,TARA,Tara Street,22:25:30,22:25:18,22:26:30,22:26:48,S,Bray,Malahide
+E846,31 Mar 2025,CNLLY,Dublin Connolly,22:29:30,22:28:42,22:30:30,22:30:36,S,Bray,Malahide
+E846,31 Mar 2025,OSSRY,,22:31:00,22:31:00,22:31:00,22:31:18,T,Bray,Malahide
+E846,31 Mar 2025,SUBJN,,22:31:30,,22:31:30,,T,Bray,Malahide
+E846,31 Mar 2025,EWALL,,22:32:00,,22:32:00,,T,Bray,Malahide
+E846,31 Mar 2025,CTARF,Clontarf Road,22:33:30,22:33:18,22:34:00,22:34:24,S,Bray,Malahide
+E846,31 Mar 2025,KLSTR,Killester,22:36:00,22:36:00,22:36:30,22:37:06,S,Bray,Malahide
+E846,31 Mar 2025,HTOWN,Harmonstown,22:38:00,22:38:06,22:38:30,22:39:06,S,Bray,Malahide
+E846,31 Mar 2025,RAHNY,Raheny,22:40:00,22:40:06,22:40:30,22:41:24,S,Bray,Malahide
+E846,31 Mar 2025,KBRCK,Kilbarrack,22:42:00,22:42:36,22:42:30,22:43:36,S,Bray,Malahide
+E846,31 Mar 2025,HWTHJ,Howth Junction,22:44:00,22:44:18,22:44:30,22:45:36,S,Bray,Malahide
+E846,31 Mar 2025,GRGRD,Clongriffin,22:46:30,22:46:48,22:47:00,22:48:12,S,Bray,Malahide
+E846,31 Mar 2025,PMNCK,Portmarnock,22:49:00,22:49:30,22:49:30,22:51:12,S,Bray,Malahide
+E846,31 Mar 2025,MHIDE,Malahide,22:56:00,22:54:24,00:00:00,,D,Bray,Malahide
+P540,30 Mar 2025,CORK,Cork,00:00:00,,10:10:00,10:11:00,O,Cork,Mallow
+P540,30 Mar 2025,CK789,,10:12:30,,10:12:30,,T,Cork,Mallow
+P540,30 Mar 2025,RP805,RP805,10:19:30,,10:19:30,,T,Cork,Mallow
+P540,30 Mar 2025,MW807,MW807,10:24:30,,10:24:30,,T,Cork,Mallow
+P540,30 Mar 2025,KRLYJ,Killarney Junction,10:28:30,,10:28:30,,T,Cork,Mallow
+P540,30 Mar 2025,MLLOW,Mallow,10:31:00,10:30:12,00:00:00,,D,Cork,Mallow
+D540,30 Mar 2025,MLLOW,Mallow,00:00:00,10:30:12,10:48:00,10:48:24,O,Mallow,Cork
+D540,30 Mar 2025,KRLYJ,Killarney Junction,10:49:30,10:49:00,10:49:30,10:49:42,T,Mallow,Cork
+D540,30 Mar 2025,MW808,MW808,10:54:30,,10:54:30,,T,Mallow,Cork
+D540,30 Mar 2025,RP806,RP806,10:59:30,,10:59:30,,T,Mallow,Cork
+D540,30 Mar 2025,CK790,,11:06:30,,11:06:30,,T,Mallow,Cork
+D540,30 Mar 2025,CORK,Cork,11:10:00,11:08:00,00:00:00,,D,Mallow,Cork
+A230,30 Mar 2025,HSTON,Dublin Heuston,00:00:00,,21:00:00,21:00:00,O,Dublin Heuston,Cork
+A230,30 Mar 2025,IBJCT,Islandbridge Junction,21:02:00,,21:02:00,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,ICADV,Inchicore Advance Starter,21:04:30,21:02:18,21:04:30,21:06:00,T,Dublin Heuston,Cork
+A230,30 Mar 2025,HK101,HK101,21:05:00,,21:05:00,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,PWESF,Park West and Cherry Orchard,21:06:00,21:08:00,21:06:00,21:08:30,T,Dublin Heuston,Cork
+A230,30 Mar 2025,CLONF,Clondalkin,21:07:00,21:08:48,21:07:00,21:09:30,T,Dublin Heuston,Cork
+A230,30 Mar 2025,KISHF,Kishoge,21:07:30,21:10:00,21:07:30,21:10:12,T,Dublin Heuston,Cork
+A230,30 Mar 2025,ADAMF,Adamstown,21:09:00,21:11:12,21:09:00,21:11:24,T,Dublin Heuston,Cork
+A230,30 Mar 2025,HAZEF,Hazelhatch,21:10:30,21:13:06,21:10:30,21:13:12,T,Dublin Heuston,Cork
+A230,30 Mar 2025,HK151,HK151,21:11:00,,21:11:00,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,HK157,HK157,21:13:30,,21:13:30,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,SALNS,Sallins,21:15:30,21:17:42,21:15:30,21:18:00,T,Dublin Heuston,Cork
+A230,30 Mar 2025,HK177,HK177,21:18:00,,21:18:00,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,NBRGE,Newbridge,21:20:30,21:22:30,21:20:30,21:22:36,T,Dublin Heuston,Cork
+A230,30 Mar 2025,CURAH,Curragh,21:22:00,,21:22:00,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,KDARE,Kildare,21:23:30,21:25:42,21:23:30,21:25:54,T,Dublin Heuston,Cork
+A230,30 Mar 2025,CHVLJ,Cherryville Junction,21:25:00,21:27:12,21:25:00,21:27:18,T,Dublin Heuston,Cork
+A230,30 Mar 2025,MONVN,Monasterevin,21:28:00,21:28:00,21:28:00,21:30:30,T,Dublin Heuston,Cork
+A230,30 Mar 2025,PTRTN,Portarlington,21:31:30,21:33:48,21:31:30,21:34:30,T,Dublin Heuston,Cork
+A230,30 Mar 2025,CY112,CY112,21:35:30,,21:35:30,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,PTLSE,Portlaoise,21:40:30,21:43:30,21:42:30,21:45:48,S,Dublin Heuston,Cork
+A230,30 Mar 2025,PL277,,21:44:00,,21:44:00,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,PL104,PL104,21:47:30,21:46:00,21:47:30,21:46:24,T,Dublin Heuston,Cork
+A230,30 Mar 2025,PL102,PL102,21:51:00,21:48:48,21:51:00,21:48:54,T,Dublin Heuston,Cork
+A230,30 Mar 2025,BBRHY,Ballybrophy,21:54:00,21:57:24,21:54:00,21:57:30,T,Dublin Heuston,Cork
+A230,30 Mar 2025,LDUFF,Lisduff,21:58:00,,21:58:00,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,TPMOR,Templemore,22:02:00,22:05:12,22:02:00,22:07:06,T,Dublin Heuston,Cork
+A230,30 Mar 2025,THRLS,Thurles,22:12:00,22:10:48,22:14:00,22:12:54,S,Dublin Heuston,Cork
+A230,30 Mar 2025,TS462,TS462,22:18:30,,22:18:30,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,TS460,TS460,22:21:30,,22:21:30,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,LJ458,LJ458,22:25:00,22:20:30,22:25:00,22:24:00,T,Dublin Heuston,Cork
+A230,30 Mar 2025,LJ340,,22:28:00,22:26:54,22:28:00,22:27:18,T,Dublin Heuston,Cork
+A230,30 Mar 2025,LMRKJ,Limerick Junction,22:30:30,22:29:12,22:32:30,22:31:54,S,Dublin Heuston,Cork
+A230,30 Mar 2025,LJ352,,22:35:30,,22:35:30,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,LJ896,LJ896,22:41:30,22:35:18,22:41:30,22:41:12,T,Dublin Heuston,Cork
+A230,30 Mar 2025,RC894,RC894,22:45:30,,22:45:30,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,CVILL,Charleville,22:50:00,22:48:54,22:50:00,22:49:06,T,Dublin Heuston,Cork
+A230,30 Mar 2025,MW858,MW858,22:55:30,22:59:18,22:55:30,22:59:30,T,Dublin Heuston,Cork
+A230,30 Mar 2025,MLLOW,Mallow,23:06:30,23:00:30,23:08:30,23:06:36,S,Dublin Heuston,Cork
+A230,30 Mar 2025,KRLYJ,Killarney Junction,23:09:30,23:06:54,23:09:30,23:07:30,T,Dublin Heuston,Cork
+A230,30 Mar 2025,MW808,MW808,23:14:00,,23:14:00,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,RP806,RP806,23:19:30,,23:19:30,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,CK790,,23:26:30,,23:26:30,,T,Dublin Heuston,Cork
+A230,30 Mar 2025,CORK,Cork,23:31:00,23:31:00,00:00:00,,D,Dublin Heuston,Cork
+E133,30 Mar 2025,HOWTH,Howth,00:00:00,19:44:48,20:02:00,20:02:24,O,Howth,Greystones
+E133,30 Mar 2025,SUTTN,Sutton,20:04:30,20:04:48,20:05:00,20:06:12,S,Howth,Greystones
+E133,30 Mar 2025,BYSDE,Bayside,20:07:30,20:07:30,20:08:00,20:09:00,S,Howth,Greystones
+E133,30 Mar 2025,HWTHJ,Howth Junction,20:11:00,20:10:24,20:11:30,20:11:42,S,Howth,Greystones
+E133,30 Mar 2025,KBRCK,Kilbarrack,20:13:00,20:12:30,20:13:30,20:13:42,S,Howth,Greystones
+E133,30 Mar 2025,RAHNY,Raheny,20:15:30,20:14:54,20:16:00,20:16:00,S,Howth,Greystones
+E133,30 Mar 2025,HTOWN,Harmonstown,20:17:30,20:17:24,20:18:00,20:18:30,S,Howth,Greystones
+E133,30 Mar 2025,KLSTR,Killester,20:19:30,20:19:30,20:20:00,20:20:54,S,Howth,Greystones
+E133,30 Mar 2025,CTARF,Clontarf Road,20:23:00,20:23:18,20:23:30,20:24:30,S,Howth,Greystones
+E133,30 Mar 2025,EWALL,,20:24:30,,20:24:30,,T,Howth,Greystones
+E133,30 Mar 2025,SUBJN,,20:25:30,,20:25:30,,T,Howth,Greystones
+E133,30 Mar 2025,DC336,,20:25:30,,20:25:30,,T,Howth,Greystones
+E133,30 Mar 2025,CNLLY,Dublin Connolly,20:28:00,20:28:06,20:29:00,20:29:48,S,Howth,Greystones
+E133,30 Mar 2025,TARA,Tara Street,20:30:30,20:31:36,20:31:30,20:33:06,S,Howth,Greystones
+E133,30 Mar 2025,PERSE,Dublin Pearse,20:33:00,20:33:48,20:34:00,20:35:24,S,Howth,Greystones
+E133,30 Mar 2025,PERSE,Dublin Pearse,20:34:30,20:33:48,20:34:30,20:35:24,T,Howth,Greystones
+E133,30 Mar 2025,GCDK,Grand Canal Dock,20:35:30,20:36:30,20:36:30,20:37:48,S,Howth,Greystones
+E133,30 Mar 2025,LDWNE,Lansdowne Road,20:38:30,20:39:18,20:39:00,20:40:36,S,Howth,Greystones
+E133,30 Mar 2025,SMONT,Sandymount,20:41:00,20:41:24,20:41:30,20:42:30,S,Howth,Greystones
+E133,30 Mar 2025,SIDNY,Sydney Parade,20:43:30,20:44:06,20:44:00,20:45:36,S,Howth,Greystones
+E133,30 Mar 2025,BTSTN,Booterstown,20:46:00,20:46:54,20:46:30,20:48:18,S,Howth,Greystones
+E133,30 Mar 2025,BROCK,Blackrock,20:48:30,20:49:18,20:49:00,20:51:06,S,Howth,Greystones
+E133,30 Mar 2025,SEAPT,Seapoint,20:50:30,20:51:36,20:51:00,20:53:30,S,Howth,Greystones
+E133,30 Mar 2025,SHILL,Salthill and Monkstown,20:52:00,20:53:54,20:52:30,20:55:24,S,Howth,Greystones
+E133,30 Mar 2025,DLERY,Dun Laoghaire,20:54:30,20:56:24,20:55:00,20:57:48,S,Howth,Greystones
+E133,30 Mar 2025,SCOVE,Sandycove,20:58:30,20:59:42,20:59:00,21:01:42,S,Howth,Greystones
+E133,30 Mar 2025,GLGRY,Glenageary,21:01:00,21:02:06,21:01:30,21:03:30,S,Howth,Greystones
+E133,30 Mar 2025,DLKEY,Dalkey,21:03:30,21:04:54,21:04:00,21:06:30,S,Howth,Greystones
+E133,30 Mar 2025,KILNY,Killiney,21:07:30,21:09:06,21:08:00,21:10:36,S,Howth,Greystones
+E133,30 Mar 2025,SKILL,Shankill,21:11:00,21:12:00,21:11:30,21:17:18,S,Howth,Greystones
+E133,30 Mar 2025,BRAY,Bray,21:17:00,21:20:36,21:18:00,21:21:48,S,Howth,Greystones
+E133,30 Mar 2025,BYARD,Bray Yard,21:19:00,,21:19:00,,T,Howth,Greystones
+E133,30 Mar 2025,BR49,,21:23:30,21:26:00,21:23:30,21:26:18,T,Howth,Greystones
+E133,30 Mar 2025,GSTNS,Greystones,21:27:00,21:31:00,00:00:00,,D,Howth,Greystones
+P714,30 Mar 2025,DGHDA,Drogheda,00:00:00,14:13:18,14:45:00,14:46:18,O,Drogheda,Dublin Connolly
+P714,30 Mar 2025,LTOWN,Laytown,14:51:00,14:52:00,14:51:30,14:54:54,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,MSNEY,Mosney,14:54:00,14:55:18,14:54:00,14:55:36,T,Drogheda,Dublin Connolly
+P714,30 Mar 2025,GSTON,Gormanston,14:56:00,14:57:12,14:56:30,14:59:54,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,BBRGN,Balbriggan,15:00:30,15:01:36,15:01:00,15:03:00,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,SKRES,Skerries,15:06:30,15:07:30,15:07:00,15:09:06,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,RLUSK,Rush and Lusk,15:12:30,15:12:24,15:13:00,15:14:00,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,DBATE,Donabate,15:16:30,15:17:12,15:17:00,15:20:06,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,MHIDE,Malahide,15:22:00,15:22:48,15:23:00,15:24:54,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,PMNCK,Portmarnock,15:26:30,15:27:54,15:27:00,15:29:24,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,GRGRD,Clongriffin,15:29:30,15:30:42,15:30:00,15:32:30,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,HWTHJ,Howth Junction,15:32:30,15:34:00,15:33:00,15:35:24,S,Drogheda,Dublin Connolly
+P714,30 Mar 2025,KBRCK,Kilbarrack,15:34:30,15:36:06,15:34:30,15:36:18,T,Drogheda,Dublin Connolly
+P714,30 Mar 2025,RAHNY,Raheny,15:35:30,15:37:12,15:35:30,15:37:18,T,Drogheda,Dublin Connolly
+P714,30 Mar 2025,HTOWN,Harmonstown,15:37:00,15:38:00,15:37:00,15:38:12,T,Drogheda,Dublin Connolly
+P714,30 Mar 2025,KLSTR,Killester,15:38:30,15:38:48,15:38:30,15:39:00,T,Drogheda,Dublin Connolly
+P714,30 Mar 2025,CTARF,Clontarf Road,15:41:00,15:40:36,15:41:00,15:40:48,T,Drogheda,Dublin Connolly
+P714,30 Mar 2025,EWALL,,15:42:00,,15:42:00,,T,Drogheda,Dublin Connolly
+P714,30 Mar 2025,SUBJN,,15:43:00,,15:43:00,,T,Drogheda,Dublin Connolly
+P714,30 Mar 2025,CNLLY,Dublin Connolly,15:45:00,15:43:36,00:00:00,,D,Drogheda,Dublin Connolly
+A730,29 Mar 2025,HSTON,Dublin Heuston,00:00:00,,20:30:00,20:30:00,O,Dublin Heuston,Galway
+A730,29 Mar 2025,IBJCT,Islandbridge Junction,20:32:00,,20:32:00,,T,Dublin Heuston,Galway
+A730,29 Mar 2025,ICADV,Inchicore Advance Starter,20:34:30,20:26:00,20:34:30,20:34:54,T,Dublin Heuston,Galway
+A730,29 Mar 2025,HK101,HK101,20:35:00,,20:35:00,,T,Dublin Heuston,Galway
+A730,29 Mar 2025,PWESF,Park West and Cherry Orchard,20:36:00,20:36:42,20:36:00,20:37:06,T,Dublin Heuston,Galway
+A730,29 Mar 2025,CLONF,Clondalkin,20:37:00,20:37:24,20:37:00,20:38:00,T,Dublin Heuston,Galway
+A730,29 Mar 2025,KISHF,Kishoge,20:37:30,20:38:30,20:37:30,20:38:42,T,Dublin Heuston,Galway
+A730,29 Mar 2025,ADAMF,Adamstown,20:39:00,20:39:42,20:39:00,20:39:54,T,Dublin Heuston,Galway
+A730,29 Mar 2025,HAZEF,Hazelhatch,20:40:30,20:41:24,20:40:30,20:41:30,T,Dublin Heuston,Galway
+A730,29 Mar 2025,HK151,HK151,20:41:00,,20:41:00,,T,Dublin Heuston,Galway
+A730,29 Mar 2025,HK157,HK157,20:43:30,,20:43:30,,T,Dublin Heuston,Galway
+A730,29 Mar 2025,SALNS,Sallins,20:45:30,20:46:06,20:45:30,20:46:24,T,Dublin Heuston,Galway
+A730,29 Mar 2025,HK177,HK177,20:48:00,,20:48:00,,T,Dublin Heuston,Galway
+A730,29 Mar 2025,NBRGE,Newbridge,20:50:30,20:51:12,20:50:30,20:51:24,T,Dublin Heuston,Galway
+A730,29 Mar 2025,CURAH,Curragh,20:52:30,,20:52:30,,T,Dublin Heuston,Galway
+A730,29 Mar 2025,KDARE,Kildare,20:54:00,20:55:00,20:54:00,20:55:12,T,Dublin Heuston,Galway
+A730,29 Mar 2025,CHVLJ,Cherryville Junction,20:55:30,20:56:48,20:55:30,20:56:54,T,Dublin Heuston,Galway
+A730,29 Mar 2025,MONVN,Monasterevin,20:58:30,20:57:48,20:58:30,21:00:48,T,Dublin Heuston,Galway
+A730,29 Mar 2025,PTRTN,Portarlington,21:04:00,21:05:48,21:12:00,21:18:12,S,Dublin Heuston,Galway
+A730,29 Mar 2025,GSHIL,Geashill,21:26:30,21:28:30,21:26:30,21:32:24,T,Dublin Heuston,Galway
+A730,29 Mar 2025,TMORE,Tullamore,21:34:00,21:40:54,21:36:00,21:43:18,S,Dublin Heuston,Galway
+A730,29 Mar 2025,CLARA,Clara,21:43:30,21:50:12,21:45:30,21:52:18,S,Dublin Heuston,Galway
+A730,29 Mar 2025,CYDNN,Clonydonnin,21:54:00,21:59:30,21:54:00,21:59:36,T,Dublin Heuston,Galway
+A730,29 Mar 2025,ATLNE,Athlone,22:02:00,22:06:18,22:07:00,22:09:30,S,Dublin Heuston,Galway
+A730,29 Mar 2025,ATHMD,Athlone Midland Yard,22:09:00,22:11:00,22:09:00,22:11:12,T,Dublin Heuston,Galway
+A730,29 Mar 2025,BSLOE,Ballinasloe,22:21:30,22:22:42,22:23:30,22:24:48,S,Dublin Heuston,Galway
+A730,29 Mar 2025,WLAWN,Woodlawn,22:32:00,22:32:30,22:33:00,22:34:06,S,Dublin Heuston,Galway
+A730,29 Mar 2025,ATMON,Attymon,22:39:00,22:35:00,22:39:00,22:42:48,T,Dublin Heuston,Galway
+A730,29 Mar 2025,ATHRY,Athenry,22:45:00,22:44:12,22:47:00,22:46:36,S,Dublin Heuston,Galway
+A730,29 Mar 2025,ENNJC,Ennis Junction,22:47:30,,22:47:30,,T,Dublin Heuston,Galway
+A730,29 Mar 2025,GL368,GL368,22:53:30,22:52:30,22:53:30,22:52:42,T,Dublin Heuston,Galway
+A730,29 Mar 2025,ORNMR,Oranmore,22:56:00,22:53:18,22:57:00,22:59:48,S,Dublin Heuston,Galway
+A730,29 Mar 2025,GL374,GL374,23:04:00,,23:04:00,,T,Dublin Heuston,Galway
+A730,29 Mar 2025,GALWY,Galway,23:07:00,23:02:06,00:00:00,,D,Dublin Heuston,Galway
+A810,29 Mar 2025,ATLNE,Athlone,00:00:00,21:24:36,21:08:00,21:25:48,O,Athlone,Westport
+A810,29 Mar 2025,ATHMD,Athlone Midland Yard,21:09:30,21:27:30,21:09:30,21:27:54,T,Athlone,Westport
+A810,29 Mar 2025,KGHRY,Knockcroghery,21:22:30,,21:22:30,,T,Athlone,Westport
+A810,29 Mar 2025,RSCMN,Roscommon,21:29:30,,21:30:30,,S,Athlone,Westport
+A810,29 Mar 2025,CSREA,Castlerea,21:47:30,,21:48:30,,S,Athlone,Westport
+A810,29 Mar 2025,BYHNS,Ballyhaunis,22:01:00,,22:02:00,,S,Athlone,Westport
+A810,29 Mar 2025,CLMRS,Claremorris,22:15:30,,22:17:00,,S,Athlone,Westport
+A810,29 Mar 2025,MNLAJ,Manulla Junction,22:29:30,,22:31:00,,S,Athlone,Westport
+A810,29 Mar 2025,CLBAR,Castlebar,22:36:00,,22:37:30,,S,Athlone,Westport
+A810,29 Mar 2025,WPORT,Westport,22:53:00,23:06:00,00:00:00,,D,Athlone,Westport
+A314,29 Mar 2025,CORK,Cork,00:00:00,,20:55:00,20:55:00,O,Cork,Tralee
+A314,29 Mar 2025,CK789,,20:57:30,,20:57:30,,T,Cork,Tralee
+A314,29 Mar 2025,RP805,RP805,21:04:30,,21:04:30,,T,Cork,Tralee
+A314,29 Mar 2025,MW807,MW807,21:09:30,,21:09:30,,T,Cork,Tralee
+A314,29 Mar 2025,KRLYJ,Killarney Junction,21:13:30,,21:13:30,,T,Cork,Tralee
+A314,29 Mar 2025,MLLOW,Mallow,21:15:30,21:21:06,21:50:30,21:52:48,S,Cork,Tralee
+A314,29 Mar 2025,KRLYJ,Killarney Junction,21:52:30,,21:52:30,,T,Cork,Tralee
+A314,29 Mar 2025,BTEER,Banteer,22:03:30,,22:05:30,,S,Cork,Tralee
+A314,29 Mar 2025,MLSRT,Millstreet,22:14:30,,22:16:30,,S,Cork,Tralee
+A314,29 Mar 2025,RMORE,Rathmore,22:24:30,,22:25:30,,S,Cork,Tralee
+A314,29 Mar 2025,KLRNY,Killarney,22:43:30,,22:46:30,,S,Cork,Tralee
+A314,29 Mar 2025,KILCK,Killarney Check,22:51:30,,22:51:30,,T,Cork,Tralee
+A314,29 Mar 2025,FFORE,Farranfore,23:05:00,,23:06:00,,S,Cork,Tralee
+A314,29 Mar 2025,TRLEE,Tralee,23:25:00,23:17:00,00:00:00,,D,Cork,Tralee
+A230,29 Mar 2025,HSTON,Dublin Heuston,00:00:00,,21:00:00,21:00:00,O,Dublin Heuston,Mallow
+A230,29 Mar 2025,IBJCT,Islandbridge Junction,21:02:30,,21:02:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,ICADV,Inchicore Advance Starter,21:05:00,20:56:18,21:05:00,21:05:06,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,HK101,HK101,21:05:30,,21:05:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,PWESF,Park West and Cherry Orchard,21:07:00,21:06:54,21:07:00,21:07:24,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,CLONF,Clondalkin,21:08:00,21:07:42,21:08:00,21:08:18,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,KISHF,Kishoge,21:09:00,21:08:48,21:09:00,21:09:00,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,ADAMF,Adamstown,21:10:00,21:10:00,21:10:00,21:10:06,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,HAZEF,Hazelhatch,21:12:00,21:11:42,21:12:00,21:11:48,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,HK151,HK151,21:12:30,,21:12:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,HK157,HK157,21:15:00,,21:15:00,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,SALNS,Sallins,21:17:00,21:16:42,21:17:00,21:17:00,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,HK177,HK177,21:19:30,,21:19:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,NBRGE,Newbridge,21:22:00,21:21:36,21:22:00,21:21:42,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,CURAH,Curragh,21:23:30,,21:23:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,KDARE,Kildare,21:25:00,21:24:54,21:25:00,21:25:06,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,CHVLJ,Cherryville Junction,21:26:30,21:26:30,21:26:30,21:26:36,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,MONVN,Monasterevin,21:29:00,21:27:18,21:29:00,21:29:54,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,PTRTN,Portarlington,21:32:30,21:32:36,21:32:30,21:32:42,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,CY112,CY112,21:36:30,,21:36:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,PTLSE,Portlaoise,21:40:00,21:39:48,21:42:00,21:50:30,S,Dublin Heuston,Mallow
+A230,29 Mar 2025,PL277,,21:44:30,,21:44:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,PL104,PL104,21:48:00,21:50:48,21:48:00,21:51:30,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,PL102,PL102,21:51:30,21:57:00,21:51:30,21:57:18,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,BBRHY,Ballybrophy,21:56:30,22:06:12,21:56:30,22:06:18,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,LDUFF,Lisduff,22:02:00,,22:02:00,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,TPMOR,Templemore,22:06:00,22:14:06,22:06:00,22:16:06,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,THRLS,Thurles,22:16:00,22:20:06,22:18:00,22:23:36,S,Dublin Heuston,Mallow
+A230,29 Mar 2025,TS462,TS462,22:23:00,,22:23:00,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,TS460,TS460,22:26:30,,22:26:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,LJ458,LJ458,22:30:00,22:31:24,22:30:00,22:35:06,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,LJ340,,22:33:00,22:38:06,22:33:00,22:38:24,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,LMRKJ,Limerick Junction,22:35:30,22:40:18,22:39:30,22:43:36,S,Dublin Heuston,Mallow
+A230,29 Mar 2025,LJSH,,22:40:30,,22:40:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,LJ352,,22:42:30,,22:42:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,LJ896,LJ896,22:55:00,22:47:00,22:55:00,22:56:24,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,RC894,RC894,23:04:30,,23:04:30,,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,CVILL,Charleville,23:12:30,23:04:24,23:12:30,23:04:30,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,MW858,MW858,23:20:00,23:15:18,23:20:00,23:15:48,T,Dublin Heuston,Mallow
+A230,29 Mar 2025,MLLOW,Mallow,23:30:00,23:17:00,00:00:00,23:31:48,D,Dublin Heuston,Mallow
+A528,29 Mar 2025,HSTON,Dublin Heuston,00:00:00,,20:20:00,20:20:00,O,Dublin Heuston,Waterford
+A528,29 Mar 2025,IBJCT,Islandbridge Junction,20:22:00,,20:22:00,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,ICADV,Inchicore Advance Starter,20:24:30,20:22:12,20:24:30,20:24:24,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,HK101,HK101,20:25:00,,20:25:00,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,CHORC,Park West and Cherry Orchard,20:27:00,20:28:42,20:28:00,20:30:42,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,CLDKN,Clondalkin,20:30:30,20:31:12,20:31:30,20:33:12,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,KISHO,Kishoge,20:34:00,20:34:42,20:35:00,20:36:12,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,ADMTN,Adamstown,20:38:00,20:38:06,20:39:00,20:39:36,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,HZLCH,Hazelhatch,20:43:00,20:42:36,20:44:00,20:44:18,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,HK151,HK151,20:45:30,,20:45:30,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,HK157,HK157,20:49:00,,20:49:00,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,SALNS,Sallins,20:52:00,20:50:36,20:53:00,20:53:18,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,HK177,HK177,20:57:00,,20:57:00,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,NBRGE,Newbridge,21:00:00,20:59:36,21:01:00,21:01:12,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,CURAH,Curragh,21:04:30,,21:04:30,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,KDARE,Kildare,21:07:30,21:06:12,21:08:30,21:08:54,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,CHVLJ,Cherryville Junction,21:12:30,21:12:36,21:12:30,21:13:00,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,ATHY,Athy,21:23:30,21:23:18,21:24:30,21:23:36,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,CRLOW,Carlow,21:37:00,,21:41:00,,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,MNEBG,Muine Bheag,21:52:00,,21:53:00,,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,LVTNN,Lavistown North,22:03:30,,22:03:30,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,KKNNY,Kilkenny,22:09:30,,22:14:30,,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,LVTNS,Lavistown South,22:18:00,,22:18:00,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,THTWN,Thomastown,22:25:00,,22:26:00,,S,Dublin Heuston,Waterford
+A528,29 Mar 2025,BAHLE,Ballyhale,22:32:00,,22:32:00,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,WFRDW,,22:44:30,,22:44:30,,T,Dublin Heuston,Waterford
+A528,29 Mar 2025,WFORD,Waterford,22:50:00,22:52:00,00:00:00,,D,Dublin Heuston,Waterford
+A731,29 Mar 2025,GALWY,Galway,00:00:00,,20:50:00,20:50:00,O,Galway,Dublin Heuston
+A731,29 Mar 2025,GL374,GL374,20:57:00,,20:57:00,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,ORNMR,Oranmore,21:01:30,,21:02:30,,S,Galway,Dublin Heuston
+A731,29 Mar 2025,GL369,GL369,21:06:00,,21:06:00,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,ENNJC,Ennis Junction,21:12:30,,21:12:30,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,ATHRY,Athenry,21:13:30,,21:15:30,,S,Galway,Dublin Heuston
+A731,29 Mar 2025,ATMON,Attymon,21:22:30,,21:23:30,,S,Galway,Dublin Heuston
+A731,29 Mar 2025,WLAWN,Woodlawn,21:30:00,,21:30:00,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,BSLOE,Ballinasloe,21:40:00,21:35:12,21:42:30,21:40:30,S,Galway,Dublin Heuston
+A731,29 Mar 2025,ATHMD,Athlone Midland Yard,22:00:30,21:52:18,22:00:30,21:52:30,T,Galway,Dublin Heuston
+A731,29 Mar 2025,ATLNE,Athlone,22:03:30,21:54:06,22:08:30,22:12:12,S,Galway,Dublin Heuston
+A731,29 Mar 2025,CYDNN,Clonydonnin,22:17:00,22:18:24,22:17:00,22:18:30,T,Galway,Dublin Heuston
+A731,29 Mar 2025,CLARA,Clara,22:25:00,22:25:12,22:26:00,22:27:48,S,Galway,Dublin Heuston
+A731,29 Mar 2025,TMORE,Tullamore,22:33:30,22:35:06,22:35:00,22:37:12,S,Galway,Dublin Heuston
+A731,29 Mar 2025,GSHIL,Geashill,22:42:00,22:44:06,22:42:00,22:44:12,T,Galway,Dublin Heuston
+A731,29 Mar 2025,PN252,,22:50:00,,22:50:00,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,PTRTN,Portarlington,22:52:00,22:51:36,22:53:00,22:53:30,S,Galway,Dublin Heuston
+A731,29 Mar 2025,MONVN,Monasterevin,22:57:30,22:54:24,22:57:30,23:00:36,T,Galway,Dublin Heuston
+A731,29 Mar 2025,CHVLJ,Cherryville Junction,23:00:00,23:03:12,23:00:00,23:03:18,T,Galway,Dublin Heuston
+A731,29 Mar 2025,KDARE,Kildare,23:04:00,23:06:18,23:05:00,23:08:18,S,Galway,Dublin Heuston
+A731,29 Mar 2025,CURAH,Curragh,23:09:00,,23:09:00,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,NBRGE,Newbridge,23:11:00,23:13:06,23:12:00,23:15:12,S,Galway,Dublin Heuston
+A731,29 Mar 2025,HK176,HK176,23:15:30,,23:15:30,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,SALNS,Sallins,23:17:30,23:20:36,23:17:30,23:20:48,T,Galway,Dublin Heuston
+A731,29 Mar 2025,HK156,HK156,23:20:00,,23:20:00,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,HK152,HK152,23:21:30,,23:21:30,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,HAZEF,Hazelhatch,23:22:30,23:25:36,23:22:30,23:25:42,T,Galway,Dublin Heuston
+A731,29 Mar 2025,ADAMF,Adamstown,23:24:00,23:27:00,23:24:00,23:27:12,T,Galway,Dublin Heuston
+A731,29 Mar 2025,KISHF,Kishoge,23:25:00,23:28:06,23:25:00,23:28:12,T,Galway,Dublin Heuston
+A731,29 Mar 2025,CLONF,Clondalkin,23:25:30,23:28:42,23:25:30,23:28:54,T,Galway,Dublin Heuston
+A731,29 Mar 2025,PWESF,Park West and Cherry Orchard,23:26:30,23:29:12,23:26:30,23:29:30,T,Galway,Dublin Heuston
+A731,29 Mar 2025,HK108,HK108,23:26:30,,23:26:30,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,ICORE,Inchicore,23:28:00,,23:28:00,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,IBJCT,Islandbridge Junction,23:31:00,,23:31:00,,T,Galway,Dublin Heuston
+A731,29 Mar 2025,HSTON,Dublin Heuston,23:36:00,23:35:00,00:00:00,,D,Galway,Dublin Heuston
+P229,29 Mar 2025,PTLSE,Portlaoise,00:00:00,22:18:12,23:10:00,23:21:12,O,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,CY111,CY111,23:15:00,,23:15:00,,T,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,PTRTN,Portarlington,23:18:30,23:29:48,23:19:30,23:31:48,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,MONVN,Monasterevin,23:24:30,23:32:36,23:25:30,23:41:00,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,CHVLJ,Cherryville Junction,23:29:30,23:44:06,23:29:30,23:44:12,T,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,KDARE,Kildare,23:33:30,23:47:42,23:34:30,23:49:48,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,CURAH,Curragh,23:37:30,,23:37:30,,T,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,NBRGE,Newbridge,23:40:00,23:54:54,23:41:00,23:56:36,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,HK176,HK176,23:45:00,,23:45:00,,T,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,SALNS,Sallins,23:47:30,00:02:42,23:48:30,00:04:36,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,HK156,HK156,23:52:30,,23:52:30,,T,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,HK152,HK152,23:54:30,,23:54:30,,T,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,HZLCH,Hazelhatch,23:56:00,00:11:06,23:57:00,00:13:06,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,ADMTN,Adamstown,00:00:30,00:15:48,00:01:30,00:17:36,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,KISHO,Kishoge,00:04:00,00:19:30,00:05:00,00:21:12,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,CLDKN,Clondalkin,00:07:00,00:22:48,00:08:00,00:24:48,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,CHORC,Park West and Cherry Orchard,00:10:00,00:25:12,00:11:00,00:27:18,S,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,HK106,HK106,00:11:30,,00:11:30,,T,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,ICORE,Inchicore,00:13:00,,00:13:00,,T,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,IBJCT,Islandbridge Junction,00:15:30,,00:15:30,,T,Portlaoise,Dublin Heuston
+P229,29 Mar 2025,HSTON,Dublin Heuston,00:20:00,00:33:00,00:00:00,,D,Portlaoise,Dublin Heuston
+D225,29 Mar 2025,HSTON,Dublin Heuston,00:00:00,,22:10:00,22:10:00,O,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,IBJCT,Islandbridge Junction,22:12:00,,22:12:00,,T,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,ICADV,Inchicore Advance Starter,22:14:30,22:07:00,22:14:30,22:16:36,T,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,HK101,HK101,22:15:00,,22:15:00,,T,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,CHORC,Park West and Cherry Orchard,22:17:00,22:19:06,22:18:00,22:21:30,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,CLDKN,Clondalkin,22:20:30,22:22:00,22:21:30,22:24:18,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,KISHO,Kishoge,22:24:00,22:25:48,22:25:00,22:27:54,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,ADMTN,Adamstown,22:28:00,22:29:54,22:29:00,22:31:24,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,HZLCH,Hazelhatch,22:33:00,22:34:36,22:34:00,22:36:00,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,HK151,HK151,22:35:30,,22:35:30,,T,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,HK157,HK157,22:39:00,,22:39:00,,T,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,SALNS,Sallins,22:42:00,22:42:42,22:43:00,22:44:48,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,HK177,HK177,22:47:00,,22:47:00,,T,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,NBRGE,Newbridge,22:50:00,22:51:42,22:51:00,22:53:24,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,CURAH,Curragh,22:54:30,,22:54:30,,T,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,KDARE,Kildare,22:56:30,22:58:36,22:57:30,23:01:12,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,CHVLJ,Cherryville Junction,23:00:00,23:03:18,23:00:00,23:03:30,T,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,MONVN,Monasterevin,23:03:30,23:04:18,23:04:30,23:09:36,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,PTRTN,Portarlington,23:09:30,23:13:12,23:10:30,23:14:54,S,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,CY112,CY112,23:15:30,,23:15:30,,T,Dublin Heuston,Portlaoise
+D225,29 Mar 2025,PTLSE,Portlaoise,23:21:00,23:24:12,00:00:00,,D,Dublin Heuston,Portlaoise
+A231,29 Mar 2025,CORK,Cork,00:00:00,,20:45:00,20:45:00,O,Cork,Dublin Heuston
+A231,29 Mar 2025,CK789,,20:47:30,,20:47:30,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,RP805,RP805,20:56:00,,20:56:00,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,MW807,MW807,21:01:30,,21:01:30,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,KRLYJ,Killarney Junction,21:05:00,,21:05:00,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,MLLOW,Mallow,21:07:00,21:09:12,21:09:00,21:12:54,S,Cork,Dublin Heuston
+A231,29 Mar 2025,MW859,MW859,21:17:00,,21:17:00,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,CVILL,Charleville,21:24:30,21:32:36,21:28:30,21:39:12,S,Cork,Dublin Heuston
+A231,29 Mar 2025,RC894,RC894,21:39:30,,21:39:30,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,LMRKJ,Limerick Junction,22:05:30,22:22:12,22:07:30,22:25:06,S,Cork,Dublin Heuston
+A231,29 Mar 2025,LJ339,,22:11:30,,22:11:30,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,LJ461,LJ461,22:13:30,22:29:30,22:13:30,22:31:18,T,Cork,Dublin Heuston
+A231,29 Mar 2025,TS463,TS463,22:17:00,,22:17:00,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,TS465,TS465,22:20:30,22:40:36,22:20:30,22:40:54,T,Cork,Dublin Heuston
+A231,29 Mar 2025,THRLS,Thurles,22:25:00,22:42:54,22:27:00,22:45:42,S,Cork,Dublin Heuston
+A231,29 Mar 2025,TPMOR,Templemore,22:34:00,22:51:12,22:34:00,22:53:06,T,Cork,Dublin Heuston
+A231,29 Mar 2025,LDUFF,Lisduff,22:38:00,22:56:30,22:38:00,22:56:48,T,Cork,Dublin Heuston
+A231,29 Mar 2025,BBRHY,Ballybrophy,22:42:00,23:00:24,22:42:00,23:00:36,T,Cork,Dublin Heuston
+A231,29 Mar 2025,PL101,PL101,22:45:30,23:00:42,22:45:30,23:00:48,T,Cork,Dublin Heuston
+A231,29 Mar 2025,PL103,PL103,22:48:30,23:09:36,22:48:30,23:09:54,T,Cork,Dublin Heuston
+A231,29 Mar 2025,PL280,,22:50:30,,22:50:30,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,PTLSE,Portlaoise,22:57:00,23:11:42,22:59:00,23:14:36,S,Cork,Dublin Heuston
+A231,29 Mar 2025,CY111,CY111,23:04:00,,23:04:00,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,PTRTN,Portarlington,23:07:00,23:22:18,23:07:00,23:22:24,T,Cork,Dublin Heuston
+A231,29 Mar 2025,MONVN,Monasterevin,23:10:00,23:22:48,23:10:00,23:29:06,T,Cork,Dublin Heuston
+A231,29 Mar 2025,CHVLJ,Cherryville Junction,23:13:00,23:32:12,23:13:00,23:32:18,T,Cork,Dublin Heuston
+A231,29 Mar 2025,KDARE,Kildare,23:14:00,23:33:54,23:14:00,23:34:00,T,Cork,Dublin Heuston
+A231,29 Mar 2025,CURAH,Curragh,23:16:00,,23:16:00,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,NBRGE,Newbridge,23:17:30,23:37:12,23:17:30,23:37:18,T,Cork,Dublin Heuston
+A231,29 Mar 2025,HK176,HK176,23:20:00,,23:20:00,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,SALNS,Sallins,23:22:00,23:41:36,23:22:00,23:41:42,T,Cork,Dublin Heuston
+A231,29 Mar 2025,HK156,HK156,23:24:30,,23:24:30,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,HK152,HK152,23:26:30,,23:26:30,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,HAZEF,Hazelhatch,23:27:00,23:46:18,23:27:00,23:46:24,T,Cork,Dublin Heuston
+A231,29 Mar 2025,ADAMF,Adamstown,23:28:30,23:47:54,23:28:30,23:48:00,T,Cork,Dublin Heuston
+A231,29 Mar 2025,KISHF,Kishoge,23:29:30,23:48:54,23:29:30,23:49:00,T,Cork,Dublin Heuston
+A231,29 Mar 2025,CLONF,Clondalkin,23:30:30,23:49:48,23:30:30,23:50:06,T,Cork,Dublin Heuston
+A231,29 Mar 2025,PWESF,Park West and Cherry Orchard,23:32:00,23:50:24,23:32:00,23:50:48,T,Cork,Dublin Heuston
+A231,29 Mar 2025,HK108,HK108,23:32:30,,23:32:30,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,ICORE,Inchicore,23:33:30,,23:33:30,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,IBJCT,Islandbridge Junction,23:35:00,,23:35:00,,T,Cork,Dublin Heuston
+A231,29 Mar 2025,HSTON,Dublin Heuston,23:38:00,23:38:00,00:00:00,,D,Cork,Dublin Heuston
+A531,29 Mar 2025,WFORD,Waterford,00:00:00,,20:20:00,20:20:00,O,Waterford,Dublin Heuston
+A531,29 Mar 2025,WFRDW,,20:22:30,,20:22:30,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,BAHLE,Ballyhale,20:42:30,,20:42:30,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,THTWN,Thomastown,20:48:00,,20:49:00,,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,LVTNS,Lavistown South,20:57:00,,20:57:00,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,KKNNY,Kilkenny,21:03:30,,21:08:30,,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,LVTNN,Lavistown North,21:12:30,,21:12:30,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,MNEBG,Muine Bheag,21:23:30,,21:24:30,,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,CRLOW,Carlow,21:34:30,,21:41:30,,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,ATHY,Athy,21:52:30,21:56:30,21:53:30,21:56:48,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,CHVLJ,Cherryville Junction,22:06:30,22:07:54,22:06:30,22:08:00,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,KDARE,Kildare,22:11:30,22:11:18,22:12:30,22:13:18,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,CURAH,Curragh,22:15:30,,22:15:30,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,NBRGE,Newbridge,22:18:00,22:18:06,22:19:00,22:19:42,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,HK176,HK176,22:23:00,,22:23:00,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,SALNS,Sallins,22:25:30,22:26:06,22:26:30,22:27:54,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,HK156,HK156,22:30:30,,22:30:30,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,HK152,HK152,22:32:30,,22:32:30,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,HZLCH,Hazelhatch,22:34:00,22:34:30,22:35:00,22:36:12,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,ADMTN,Adamstown,22:38:30,22:39:12,22:39:30,22:40:48,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,KISHO,Kishoge,22:42:00,22:42:48,22:43:00,22:44:24,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,CLDKN,Clondalkin,22:45:00,22:45:54,22:46:00,22:47:48,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,CHORC,Park West and Cherry Orchard,22:48:00,22:48:18,22:49:00,22:50:18,S,Waterford,Dublin Heuston
+A531,29 Mar 2025,HK106,HK106,22:49:30,,22:49:30,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,ICORE,Inchicore,22:51:00,,22:51:00,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,IBJCT,Islandbridge Junction,22:53:30,,22:53:30,,T,Waterford,Dublin Heuston
+A531,29 Mar 2025,HSTON,Dublin Heuston,22:57:00,22:57:00,00:00:00,,D,Waterford,Dublin Heuston
+P227,29 Mar 2025,PTLSE,Portlaoise,00:00:00,22:08:42,21:30:00,22:11:54,O,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,CY111,CY111,21:34:30,,21:34:30,,T,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,PTRTN,Portarlington,21:38:00,22:19:42,21:39:00,22:21:18,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,MONVN,Monasterevin,21:44:00,22:22:06,21:45:00,22:29:00,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,CHVLJ,Cherryville Junction,21:49:00,22:32:06,21:49:00,22:32:12,T,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,KDARE,Kildare,21:53:00,22:35:24,21:54:00,22:37:12,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,CURAH,Curragh,21:57:00,,21:57:00,,T,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,NBRGE,Newbridge,21:59:30,22:42:00,22:00:30,22:43:18,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,HK176,HK176,22:04:30,,22:04:30,,T,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,SALNS,Sallins,22:07:00,22:49:06,22:08:00,22:50:30,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,HK156,HK156,22:12:00,,22:12:00,,T,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,HK152,HK152,22:14:00,,22:14:00,,T,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,HZLCH,Hazelhatch,22:15:30,22:57:00,22:16:30,22:58:24,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,ADMTN,Adamstown,22:20:00,23:01:06,22:21:00,23:02:18,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,KISHO,Kishoge,22:23:30,23:04:06,22:24:30,23:05:30,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,CLDKN,Clondalkin,22:26:30,23:06:54,22:27:30,23:08:24,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,CHORC,Park West and Cherry Orchard,22:29:30,23:08:48,22:30:30,23:10:30,S,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,HK106,HK106,22:31:00,,22:31:00,,T,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,ICORE,Inchicore,22:32:30,,22:32:30,,T,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,IBJCT,Islandbridge Junction,22:35:00,,22:35:00,,T,Portlaoise,Dublin Heuston
+P227,29 Mar 2025,HSTON,Dublin Heuston,22:39:00,23:15:00,00:00:00,,D,Portlaoise,Dublin Heuston
+P714,29 Mar 2025,DGHDA,Drogheda,00:00:00,12:20:36,12:48:00,12:48:42,O,Drogheda,Dublin Connolly
+P714,29 Mar 2025,LTOWN,Laytown,12:54:00,12:54:00,12:54:30,12:57:18,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,MSNEY,Mosney,12:57:00,12:57:42,12:57:00,12:58:00,T,Drogheda,Dublin Connolly
+P714,29 Mar 2025,GSTON,Gormanston,12:59:00,12:59:42,12:59:30,13:02:06,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,BBRGN,Balbriggan,13:03:30,13:03:48,13:04:00,13:05:00,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,SKRES,Skerries,13:09:30,13:09:30,13:10:00,13:11:12,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,RLUSK,Rush and Lusk,13:16:00,13:14:30,13:16:30,13:16:12,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,DBATE,Donabate,13:19:30,13:19:12,13:20:00,13:22:00,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,MHIDE,Malahide,13:24:30,13:24:24,13:25:30,13:26:12,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,PMNCK,Portmarnock,13:29:00,13:29:24,13:29:30,13:30:42,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,GRGRD,Clongriffin,13:32:00,13:31:54,13:32:30,13:33:18,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,HWTHJ,Howth Junction,13:35:00,13:34:42,13:36:00,13:36:24,S,Drogheda,Dublin Connolly
+P714,29 Mar 2025,KBRCK,Kilbarrack,13:38:00,13:37:06,13:38:00,13:37:18,T,Drogheda,Dublin Connolly
+P714,29 Mar 2025,RAHNY,Raheny,13:39:00,13:38:06,13:39:00,13:38:18,T,Drogheda,Dublin Connolly
+P714,29 Mar 2025,HTOWN,Harmonstown,13:40:00,13:39:06,13:40:00,13:39:18,T,Drogheda,Dublin Connolly
+P714,29 Mar 2025,KLSTR,Killester,13:42:00,13:40:00,13:42:00,13:40:18,T,Drogheda,Dublin Connolly
+P714,29 Mar 2025,CTARF,Clontarf Road,13:44:30,13:43:30,13:44:30,13:43:54,T,Drogheda,Dublin Connolly
+P714,29 Mar 2025,EWALL,,13:46:00,,13:46:00,,T,Drogheda,Dublin Connolly
+P714,29 Mar 2025,SUBJN,,13:46:30,,13:46:30,,T,Drogheda,Dublin Connolly
+P714,29 Mar 2025,CNLLY,Dublin Connolly,13:49:00,13:47:00,00:00:00,,D,Drogheda,Dublin Connolly
+D332,29 Mar 2025,CLSLA,Clonsilla,00:00:00,08:58:30,09:16:00,09:17:36,O,Clonsilla,M3 Parkway
+D332,29 Mar 2025,CLSLJ,Clonsilla Junction,09:17:00,,09:17:00,,T,Clonsilla,M3 Parkway
+D332,29 Mar 2025,HAFLD,Hansfield,09:19:00,09:19:12,09:19:30,09:21:12,S,Clonsilla,M3 Parkway
+D332,29 Mar 2025,DBYNE,Dunboyne,09:23:00,09:23:06,09:23:30,09:25:00,S,Clonsilla,M3 Parkway
+D332,29 Mar 2025,M3WAY,M3 Parkway,09:28:00,09:26:54,00:00:00,,D,Clonsilla,M3 Parkway
+A131,29 Mar 2025,BFSTC,Belfast,00:00:00,,21:00:00,21:00:00,O,Belfast,Dublin Connolly
+A131,29 Mar 2025,LBURN,Lisburn,21:10:00,,21:10:00,,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,MOIRA,MOIRA,21:18:00,,21:18:00,,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,LURGN,Lurgan,21:23:30,,21:23:30,,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,PDOWN,Portadown,21:29:30,,21:33:30,,S,Belfast,Dublin Connolly
+A131,29 Mar 2025,PPASS,Poyntzpass,21:43:30,,21:43:30,,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,NEWRY,Newry,21:52:30,,21:56:30,,S,Belfast,Dublin Connolly
+A131,29 Mar 2025,DDALK,Dundalk,22:12:30,22:09:06,22:16:30,22:14:18,S,Belfast,Dublin Connolly
+A131,29 Mar 2025,DD281,,22:24:00,,22:24:00,,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,DA283,,22:29:00,,22:29:00,,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,DA285,,22:34:00,,22:34:00,,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,DGHDA,Drogheda,22:36:00,22:33:36,22:39:00,22:37:48,S,Belfast,Dublin Connolly
+A131,29 Mar 2025,LTOWN,Laytown,22:44:00,22:42:18,22:44:00,22:43:00,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,MSNEY,Mosney,22:45:00,22:43:18,22:45:00,22:43:24,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,GSTON,Gormanston,22:46:00,22:44:30,22:46:00,22:45:12,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,BBRGN,Balbriggan,22:48:30,22:46:06,22:48:30,22:46:12,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,SKRES,Skerries,22:51:30,22:48:48,22:51:30,22:48:54,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,RLUSK,Rush and Lusk,22:54:30,22:51:00,22:54:30,22:51:42,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,DBATE,Donabate,22:56:00,22:52:48,22:56:00,22:53:30,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,MHIDE,Malahide,22:58:00,22:55:06,22:58:00,22:55:18,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,PMNCK,Portmarnock,23:01:00,22:57:36,23:01:00,22:57:54,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,GRGRD,Clongriffin,23:02:30,22:59:12,23:02:30,22:59:42,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,HWTHJ,Howth Junction,23:03:30,23:02:36,23:03:30,23:03:00,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,KBRCK,Kilbarrack,23:04:30,23:03:48,23:04:30,23:04:18,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,RAHNY,Raheny,23:05:00,23:06:00,23:05:00,23:06:24,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,HTOWN,Harmonstown,23:06:30,23:07:48,23:06:30,23:08:00,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,KLSTR,Killester,23:08:00,23:09:36,23:08:00,23:10:00,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,CTARF,Clontarf Road,23:10:00,23:13:00,23:10:00,23:13:18,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,EWALL,,23:11:00,,23:11:00,,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,SUBJN,,23:12:00,,23:12:00,,T,Belfast,Dublin Connolly
+A131,29 Mar 2025,CNLLY,Dublin Connolly,23:15:00,23:16:30,00:00:00,,D,Belfast,Dublin Connolly
+A130,29 Mar 2025,CNLLY,Dublin Connolly,00:00:00,20:30:12,20:50:00,20:50:12,O,Dublin Connolly,Belfast
+A130,29 Mar 2025,SUBJN,,20:51:30,,20:51:30,,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,EWALL,,20:52:00,,20:52:00,,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,CTARF,Clontarf Road,20:53:30,20:55:00,20:53:30,20:55:24,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,KLSTR,Killester,20:56:30,20:58:00,20:56:30,20:58:36,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,HTOWN,Harmonstown,20:58:00,21:00:18,20:58:00,21:00:42,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,RAHNY,Raheny,21:00:00,21:02:30,21:00:00,21:02:54,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,KBRCK,Kilbarrack,21:02:30,21:05:12,21:02:30,21:05:30,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,HWTHJ,Howth Junction,21:03:30,21:06:00,21:03:30,21:06:12,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,GRGRD,Clongriffin,21:04:30,21:06:54,21:04:30,21:07:06,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,PMNCK,Portmarnock,21:05:30,21:07:48,21:05:30,21:08:06,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,MHIDE,Malahide,21:07:30,21:10:00,21:07:30,21:10:12,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,DBATE,Donabate,21:09:30,21:11:36,21:09:30,21:12:12,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,RLUSK,Rush and Lusk,21:11:30,21:13:24,21:11:30,21:14:00,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,SKRES,Skerries,21:14:30,21:16:06,21:14:30,21:16:42,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,BBRGN,Balbriggan,21:17:30,21:18:54,21:17:30,21:19:06,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,GSTON,Gormanston,21:19:30,21:20:36,21:19:30,21:20:48,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,MSNEY,Mosney,21:20:30,21:21:48,21:20:30,21:22:00,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,LTOWN,Laytown,21:21:30,21:22:48,21:21:30,21:23:00,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,DGHDA,Drogheda,21:26:30,21:26:48,21:28:30,21:29:36,S,Dublin Connolly,Belfast
+A130,29 Mar 2025,DA287,,21:30:30,,21:30:30,,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,DA284,,21:36:30,,21:36:30,,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,DD282,,21:42:00,,21:42:00,,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,DDALK,Dundalk,21:48:30,21:48:00,21:50:30,21:51:48,S,Dublin Connolly,Belfast
+A130,29 Mar 2025,NEWRY,Newry,22:07:00,,22:09:00,,S,Dublin Connolly,Belfast
+A130,29 Mar 2025,PPASS,Poyntzpass,22:17:30,,22:17:30,,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,PDOWN,Portadown,22:28:00,,22:30:00,,S,Dublin Connolly,Belfast
+A130,29 Mar 2025,LURGN,Lurgan,22:36:00,,22:36:00,,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,MOIRA,MOIRA,22:41:30,,22:41:30,,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,LBURN,Lisburn,22:48:00,,22:48:00,,T,Dublin Connolly,Belfast
+A130,29 Mar 2025,BFSTC,Belfast,22:58:00,22:58:00,00:00:00,,D,Dublin Connolly,Belfast
