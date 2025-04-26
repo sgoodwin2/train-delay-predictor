@@ -1,0 +1,752 @@
+TrainCode,TrainDate,TrainOrigin,TrainDestination,scheduled_hour,scheduled_minute,day_of_week,arrival_delay_minutes
+E157,21 Apr 2025,Dublin Connolly,Greystones,0,0,0,957.9
+A606,21 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,0,815.8
+E156,21 Apr 2025,Dublin Connolly,Greystones,0,0,0,899.7
+E259,21 Apr 2025,Dublin Connolly,Bray,0,0,0,918.8
+E260,21 Apr 2025,Dublin Connolly,Bray,0,0,0,938.3
+A910,21 Apr 2025,Dublin Connolly,Sligo,0,0,0,938.4
+D914,21 Apr 2025,Dublin Connolly,Maynooth,0,0,0,923.4
+A908,21 Apr 2025,Dublin Connolly,Sligo,0,0,0,827.1
+A906,21 Apr 2025,Dublin Connolly,Sligo,0,0,0,742.7
+E746,21 Apr 2025,Bray,Dublin Connolly,16,0,0,-2.1
+P744,21 Apr 2025,Maynooth,Dublin Connolly,15,54,0,3.2
+D913,21 Apr 2025,Dublin Connolly,Maynooth,0,0,0,894.1
+E751,20 Apr 2025,Bray,Dublin Connolly,17,0,6,-0.8
+E157,20 Apr 2025,Dublin Connolly,Greystones,0,0,6,958.5
+P746,20 Apr 2025,Maynooth,Dublin Connolly,16,54,6,1.1
+A606,20 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,6,812.2
+E156,20 Apr 2025,Dublin Connolly,Greystones,0,0,6,900.2
+E750,20 Apr 2025,Bray,Dublin Connolly,16,40,6,1.5
+E259,20 Apr 2025,Dublin Connolly,Bray,0,0,6,918.1
+E747,20 Apr 2025,Greystones,Dublin Connolly,16,21,6,-2.6
+E260,20 Apr 2025,Dublin Connolly,Bray,0,0,6,937.9
+P745,20 Apr 2025,Maynooth,Dublin Connolly,16,27,6,4.5
+A909,20 Apr 2025,Sligo,Dublin Connolly,16,13,6,-1.3
+D914,20 Apr 2025,Dublin Connolly,Maynooth,0,0,6,925.3
+A908,20 Apr 2025,Dublin Connolly,Sligo,0,0,6,864.6
+A911,20 Apr 2025,Sligo,Dublin Connolly,18,20,6,-3.1
+A906,20 Apr 2025,Dublin Connolly,Sligo,0,0,6,765.0
+E746,20 Apr 2025,Bray,Dublin Connolly,16,0,6,-1.5
+P744,20 Apr 2025,Maynooth,Dublin Connolly,15,54,6,1.0
+D913,20 Apr 2025,Dublin Connolly,Maynooth,0,0,6,910.5
+E751,19 Apr 2025,Bray,Dublin Connolly,14,52,5,-1.9
+P746,19 Apr 2025,Maynooth,Dublin Connolly,10,22,5,-0.4
+A606,19 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,5,828.7
+E750,19 Apr 2025,Greystones,Dublin Connolly,14,36,5,-2.1
+E259,19 Apr 2025,Dublin Connolly,Bray,0,0,5,589.8
+E747,19 Apr 2025,Bray,Dublin Connolly,13,52,5,-5.6
+E260,19 Apr 2025,Dublin Connolly,Bray,0,0,5,619.7
+A910,19 Apr 2025,Dublin Connolly,Sligo,0,0,5,692.2
+P745,19 Apr 2025,Maynooth,Dublin Connolly,9,55,5,-0.5
+A909,19 Apr 2025,Sligo,Dublin Connolly,16,11,5,1.3
+D914,19 Apr 2025,Dublin Connolly,Maynooth,0,0,5,753.4
+A908,19 Apr 2025,Dublin Connolly,Sligo,0,0,5,872.0
+A911,19 Apr 2025,Sligo,Dublin Connolly,18,18,5,0.0
+A906,19 Apr 2025,Dublin Connolly,Sligo,0,0,5,732.2
+E746,19 Apr 2025,Greystones,Dublin Connolly,13,36,5,-0.2
+P744,19 Apr 2025,Maynooth,Dublin Connolly,9,32,5,0.8
+D913,19 Apr 2025,Dublin Connolly,Maynooth,0,0,5,711.5
+P746,18 Apr 2025,Maynooth,Dublin Connolly,10,22,4,4.7
+A606,18 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,4,834.1
+A910,18 Apr 2025,Dublin Connolly,Sligo,0,0,4,946.5
+P745,18 Apr 2025,Maynooth,Dublin Connolly,9,55,4,6.1
+A909,18 Apr 2025,Sligo,Dublin Connolly,16,11,4,11.4
+D914,18 Apr 2025,Dublin Connolly,Maynooth,0,0,4,747.8
+A908,18 Apr 2025,Dublin Connolly,Sligo,0,0,4,903.5
+A911,18 Apr 2025,Sligo,Dublin Connolly,18,18,4,25.7
+A906,18 Apr 2025,Dublin Connolly,Sligo,0,0,4,757.7
+P744,18 Apr 2025,Maynooth,Dublin Connolly,9,32,4,-1.6
+D913,18 Apr 2025,Dublin Connolly,Maynooth,0,0,4,713.0
+P746,17 Apr 2025,Maynooth,Dublin Connolly,10,53,3,5.0
+A606,17 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,3,810.0
+E259,17 Apr 2025,Malahide,Bray,21,29,3,3.5
+E260,17 Apr 2025,Malahide,Bray,21,59,3,2.1
+A910,17 Apr 2025,Dublin Connolly,Sligo,0,0,3,944.4
+P745,17 Apr 2025,Maynooth,Dublin Connolly,9,24,3,-0.5
+A909,17 Apr 2025,Sligo,Dublin Connolly,16,27,3,0.8
+D914,17 Apr 2025,Dublin Connolly,Maynooth,0,0,3,716.5
+A908,17 Apr 2025,Dublin Connolly,Sligo,0,0,3,851.4
+A911,17 Apr 2025,Sligo,Dublin Connolly,18,18,3,9.8
+A906,17 Apr 2025,Dublin Connolly,Sligo,0,0,3,691.6
+P744,17 Apr 2025,Maynooth,Dublin Connolly,8,33,3,-1.3
+D913,17 Apr 2025,Dublin Connolly,Maynooth,0,0,3,690.8
+P746,16 Apr 2025,Maynooth,Dublin Connolly,10,53,2,2.5
+A606,16 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,2,811.1
+E259,16 Apr 2025,Malahide,Bray,21,29,2,0.2
+E260,16 Apr 2025,Malahide,Bray,21,59,2,1.1
+A910,16 Apr 2025,Dublin Connolly,Sligo,0,0,2,954.0
+P745,16 Apr 2025,Maynooth,Dublin Connolly,9,24,2,5.7
+A909,16 Apr 2025,Sligo,Dublin Connolly,16,27,2,-0.3
+D914,16 Apr 2025,Dublin Connolly,Maynooth,0,0,2,713.9
+A908,16 Apr 2025,Dublin Connolly,Sligo,0,0,2,853.9
+A911,16 Apr 2025,Sligo,Dublin Connolly,18,18,2,6.9
+A906,16 Apr 2025,Dublin Connolly,Sligo,0,0,2,733.5
+P744,16 Apr 2025,Maynooth,Dublin Connolly,8,33,2,0.3
+D913,16 Apr 2025,Dublin Connolly,Maynooth,0,0,2,686.6
+P746,15 Apr 2025,Maynooth,Dublin Connolly,10,53,1,3.2
+A606,15 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,1,804.6
+E259,15 Apr 2025,Malahide,Bray,21,29,1,2.0
+E260,15 Apr 2025,Malahide,Bray,21,59,1,-1.3
+A910,15 Apr 2025,Dublin Connolly,Sligo,0,0,1,884.2
+P745,15 Apr 2025,Maynooth,Dublin Connolly,9,24,1,1.0
+A909,15 Apr 2025,Sligo,Dublin Connolly,16,27,1,0.2
+D914,15 Apr 2025,Dublin Connolly,Maynooth,0,0,1,713.9
+A908,15 Apr 2025,Dublin Connolly,Sligo,0,0,1,896.6
+A911,15 Apr 2025,Sligo,Dublin Connolly,18,18,1,3.4
+A906,15 Apr 2025,Dublin Connolly,Sligo,0,0,1,759.4
+P744,15 Apr 2025,Maynooth,Dublin Connolly,8,33,1,-2.5
+D913,15 Apr 2025,Dublin Connolly,Maynooth,0,0,1,687.1
+P746,14 Apr 2025,Maynooth,Dublin Connolly,10,53,0,4.9
+A606,14 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,0,810.4
+E259,14 Apr 2025,Malahide,Bray,21,29,0,3.0
+E260,14 Apr 2025,Malahide,Bray,21,59,0,-0.4
+A910,14 Apr 2025,Dublin Connolly,Sligo,0,0,0,952.8
+P745,14 Apr 2025,Maynooth,Dublin Connolly,9,24,0,7.1
+A909,14 Apr 2025,Sligo,Dublin Connolly,16,27,0,1.2
+D914,14 Apr 2025,Dublin Connolly,Maynooth,0,0,0,713.8
+A908,14 Apr 2025,Dublin Connolly,Sligo,0,0,0,858.1
+A911,14 Apr 2025,Sligo,Dublin Connolly,18,18,0,21.8
+A906,14 Apr 2025,Dublin Connolly,Sligo,0,0,0,740.9
+P744,14 Apr 2025,Maynooth,Dublin Connolly,8,33,0,1.1
+D913,14 Apr 2025,Dublin Connolly,Maynooth,0,0,0,686.9
+P746,13 Apr 2025,Maynooth,Dublin Connolly,16,54,6,-2.4
+A606,13 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,6,812.1
+A910,13 Apr 2025,Dublin Connolly,Sligo,0,0,6,951.6
+P745,13 Apr 2025,Maynooth,Dublin Connolly,16,27,6,2.7
+A909,13 Apr 2025,Sligo,Dublin Connolly,16,13,6,2.0
+D914,13 Apr 2025,Dublin Connolly,Maynooth,0,0,6,922.7
+A908,13 Apr 2025,Dublin Connolly,Sligo,0,0,6,842.9
+A911,13 Apr 2025,Sligo,Dublin Connolly,18,20,6,-2.0
+A906,13 Apr 2025,Dublin Connolly,Sligo,0,0,6,733.8
+P744,13 Apr 2025,Maynooth,Dublin Connolly,15,54,6,-0.6
+D913,13 Apr 2025,Dublin Connolly,Maynooth,0,0,6,891.6
+P746,12 Apr 2025,Maynooth,Dublin Connolly,10,22,5,-0.8
+A606,12 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,5,833.9
+A910,12 Apr 2025,Dublin Connolly,Sligo,0,0,5,958.6
+P745,12 Apr 2025,Maynooth,Dublin Connolly,9,55,5,-1.5
+A909,12 Apr 2025,Sligo,Dublin Connolly,16,11,5,4.4
+D914,12 Apr 2025,Dublin Connolly,Maynooth,0,0,5,751.4
+A908,12 Apr 2025,Dublin Connolly,Sligo,0,0,5,851.7
+A911,12 Apr 2025,Sligo,Dublin Connolly,18,18,5,1.1
+A906,12 Apr 2025,Dublin Connolly,Sligo,0,0,5,729.4
+P744,12 Apr 2025,Maynooth,Dublin Connolly,9,32,5,-0.9
+D913,12 Apr 2025,Dublin Connolly,Maynooth,0,0,5,710.8
+P746,11 Apr 2025,Maynooth,Dublin Connolly,10,53,4,3.8
+A606,11 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,4,805.8
+E259,11 Apr 2025,Malahide,Bray,21,29,4,-0.3
+E260,11 Apr 2025,Malahide,Bray,21,59,4,0.9
+A910,11 Apr 2025,Dublin Connolly,Sligo,0,0,4,952.1
+P745,11 Apr 2025,Maynooth,Dublin Connolly,9,24,4,0.2
+A909,11 Apr 2025,Sligo,Dublin Connolly,16,27,4,2.0
+D914,11 Apr 2025,Dublin Connolly,Maynooth,0,0,4,712.1
+A908,11 Apr 2025,Dublin Connolly,Sligo,0,0,4,863.7
+A911,11 Apr 2025,Sligo,Dublin Connolly,18,18,4,21.1
+A906,11 Apr 2025,Dublin Connolly,Sligo,0,0,4,703.7
+P744,11 Apr 2025,Maynooth,Dublin Connolly,8,33,4,-2.1
+D913,11 Apr 2025,Dublin Connolly,Maynooth,0,0,4,685.6
+P746,10 Apr 2025,Maynooth,Dublin Connolly,10,53,3,1.5
+A606,10 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,3,804.1
+E259,10 Apr 2025,Malahide,Bray,21,29,3,-1.0
+E260,10 Apr 2025,Malahide,Bray,21,59,3,-2.3
+A910,10 Apr 2025,Dublin Connolly,Sligo,0,0,3,936.7
+P745,10 Apr 2025,Maynooth,Dublin Connolly,9,24,3,5.4
+A909,10 Apr 2025,Sligo,Dublin Connolly,16,27,3,2.2
+D914,10 Apr 2025,Dublin Connolly,Maynooth,0,0,3,713.0
+A908,10 Apr 2025,Dublin Connolly,Sligo,0,0,3,878.3
+A911,10 Apr 2025,Sligo,Dublin Connolly,18,18,3,23.6
+A906,10 Apr 2025,Dublin Connolly,Sligo,0,0,3,689.6
+P744,10 Apr 2025,Maynooth,Dublin Connolly,8,33,3,-2.3
+D913,10 Apr 2025,Dublin Connolly,Maynooth,0,0,3,687.4
+P746,09 Apr 2025,Maynooth,Dublin Connolly,10,53,2,4.4
+A606,09 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,2,805.5
+E259,09 Apr 2025,Malahide,Bray,21,29,2,3.9
+E260,09 Apr 2025,Malahide,Bray,21,59,2,-1.4
+A910,09 Apr 2025,Dublin Connolly,Sligo,0,0,2,952.4
+P745,09 Apr 2025,Maynooth,Dublin Connolly,9,24,2,3.8
+A909,09 Apr 2025,Sligo,Dublin Connolly,16,27,2,0.7
+D914,09 Apr 2025,Dublin Connolly,Maynooth,0,0,2,714.7
+A908,09 Apr 2025,Dublin Connolly,Sligo,0,0,2,882.2
+A911,09 Apr 2025,Sligo,Dublin Connolly,18,18,2,14.7
+A906,09 Apr 2025,Dublin Connolly,Sligo,0,0,2,757.3
+P744,09 Apr 2025,Maynooth,Dublin Connolly,8,33,2,-1.7
+D913,09 Apr 2025,Dublin Connolly,Maynooth,0,0,2,691.5
+P746,08 Apr 2025,Maynooth,Dublin Connolly,10,53,1,1.4
+A606,08 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,1,806.3
+E259,08 Apr 2025,Malahide,Bray,21,29,1,-1.6
+E260,08 Apr 2025,Malahide,Bray,21,59,1,1.9
+A910,08 Apr 2025,Dublin Connolly,Sligo,0,0,1,895.3
+P745,08 Apr 2025,Maynooth,Dublin Connolly,9,24,1,5.4
+A909,08 Apr 2025,Sligo,Dublin Connolly,16,27,1,1.7
+D914,08 Apr 2025,Dublin Connolly,Maynooth,0,0,1,728.0
+A908,08 Apr 2025,Dublin Connolly,Sligo,0,0,1,897.1
+A911,08 Apr 2025,Sligo,Dublin Connolly,18,18,1,6.3
+A906,08 Apr 2025,Dublin Connolly,Sligo,0,0,1,754.5
+P744,08 Apr 2025,Maynooth,Dublin Connolly,8,33,1,-1.9
+D913,08 Apr 2025,Dublin Connolly,Maynooth,0,0,1,690.8
+P746,07 Apr 2025,Maynooth,Dublin Connolly,10,53,0,2.2
+A606,07 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,0,805.9
+E259,07 Apr 2025,Malahide,Bray,21,29,0,-1.5
+E260,07 Apr 2025,Malahide,Bray,21,59,0,0.2
+A910,07 Apr 2025,Dublin Connolly,Sligo,0,0,0,934.0
+P745,07 Apr 2025,Maynooth,Dublin Connolly,9,24,0,1.2
+A909,07 Apr 2025,Sligo,Dublin Connolly,16,27,0,-0.4
+D914,07 Apr 2025,Dublin Connolly,Maynooth,0,0,0,714.7
+A908,07 Apr 2025,Dublin Connolly,Sligo,0,0,0,857.4
+A911,07 Apr 2025,Sligo,Dublin Connolly,18,18,0,-1.3
+A906,07 Apr 2025,Dublin Connolly,Sligo,0,0,0,730.0
+P744,07 Apr 2025,Maynooth,Dublin Connolly,8,33,0,-0.9
+D913,07 Apr 2025,Dublin Connolly,Maynooth,0,0,0,685.8
+P746,06 Apr 2025,Maynooth,Dublin Connolly,16,54,6,-1.9
+A606,06 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,6,819.1
+A910,06 Apr 2025,Dublin Connolly,Sligo,0,0,6,944.0
+P745,06 Apr 2025,Maynooth,Dublin Connolly,16,27,6,0.9
+A909,06 Apr 2025,Sligo,Dublin Connolly,16,13,6,0.8
+D914,06 Apr 2025,Dublin Connolly,Maynooth,0,0,6,922.6
+A908,06 Apr 2025,Dublin Connolly,Sligo,0,0,6,845.5
+A911,06 Apr 2025,Sligo,Dublin Connolly,18,20,6,-0.8
+A906,06 Apr 2025,Dublin Connolly,Sligo,0,0,6,733.9
+P744,06 Apr 2025,Maynooth,Dublin Connolly,15,54,6,-1.4
+D913,06 Apr 2025,Dublin Connolly,Maynooth,0,0,6,892.6
+P746,05 Apr 2025,Maynooth,Dublin Connolly,10,22,5,-1.3
+A606,05 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,5,834.2
+A910,05 Apr 2025,Dublin Connolly,Sligo,0,0,5,900.4
+P745,05 Apr 2025,Maynooth,Dublin Connolly,9,55,5,-0.3
+A909,05 Apr 2025,Sligo,Dublin Connolly,16,11,5,4.5
+D914,05 Apr 2025,Dublin Connolly,Maynooth,0,0,5,755.1
+A908,05 Apr 2025,Dublin Connolly,Sligo,0,0,5,865.8
+A911,05 Apr 2025,Sligo,Dublin Connolly,18,18,5,6.6
+A906,05 Apr 2025,Dublin Connolly,Sligo,0,0,5,735.6
+P744,05 Apr 2025,Maynooth,Dublin Connolly,9,32,5,-2.3
+D913,05 Apr 2025,Dublin Connolly,Maynooth,0,0,5,713.1
+P746,04 Apr 2025,Maynooth,Dublin Connolly,10,53,4,3.4
+A606,04 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,4,807.9
+E259,04 Apr 2025,Malahide,Bray,21,29,4,-0.4
+E260,04 Apr 2025,Malahide,Bray,21,59,4,-1.0
+A910,04 Apr 2025,Dublin Connolly,Sligo,0,0,4,959.4
+P745,04 Apr 2025,Maynooth,Dublin Connolly,9,24,4,-1.7
+A909,04 Apr 2025,Sligo,Dublin Connolly,16,27,4,0.6
+D914,04 Apr 2025,Dublin Connolly,Maynooth,0,0,4,713.4
+A908,04 Apr 2025,Dublin Connolly,Sligo,0,0,4,861.1
+A911,04 Apr 2025,Sligo,Dublin Connolly,18,18,4,3.8
+A906,04 Apr 2025,Dublin Connolly,Sligo,0,0,4,775.8
+P744,04 Apr 2025,Maynooth,Dublin Connolly,8,33,4,-2.3
+D913,04 Apr 2025,Dublin Connolly,Maynooth,0,0,4,683.6
+P746,03 Apr 2025,Maynooth,Dublin Connolly,10,53,3,1.7
+A606,03 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,3,810.1
+E259,03 Apr 2025,Malahide,Bray,21,29,3,-2.5
+E260,03 Apr 2025,Malahide,Bray,21,59,3,-1.1
+A910,03 Apr 2025,Dublin Connolly,Sligo,0,0,3,940.4
+P745,03 Apr 2025,Maynooth,Dublin Connolly,9,24,3,-1.6
+A909,03 Apr 2025,Sligo,Dublin Connolly,16,27,3,4.1
+D914,03 Apr 2025,Dublin Connolly,Maynooth,0,0,3,713.9
+A908,03 Apr 2025,Dublin Connolly,Sligo,0,0,3,851.9
+A911,03 Apr 2025,Sligo,Dublin Connolly,18,18,3,5.9
+A906,03 Apr 2025,Dublin Connolly,Sligo,0,0,3,763.6
+P744,03 Apr 2025,Maynooth,Dublin Connolly,8,33,3,-3.1
+D913,03 Apr 2025,Dublin Connolly,Maynooth,0,0,3,686.0
+P746,02 Apr 2025,Maynooth,Dublin Connolly,10,53,2,1.5
+A606,02 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,2,808.1
+E259,02 Apr 2025,Malahide,Bray,21,29,2,-0.9
+E260,02 Apr 2025,Malahide,Bray,21,59,2,1.9
+A910,02 Apr 2025,Dublin Connolly,Sligo,0,0,2,958.0
+P745,02 Apr 2025,Maynooth,Dublin Connolly,9,24,2,-1.3
+A909,02 Apr 2025,Sligo,Dublin Connolly,16,27,2,-1.3
+D914,02 Apr 2025,Dublin Connolly,Maynooth,0,0,2,713.5
+A908,02 Apr 2025,Dublin Connolly,Sligo,0,0,2,851.3
+A911,02 Apr 2025,Sligo,Dublin Connolly,18,18,2,5.8
+A906,02 Apr 2025,Dublin Connolly,Sligo,0,0,2,743.0
+P744,02 Apr 2025,Maynooth,Dublin Connolly,8,33,2,-2.7
+D913,02 Apr 2025,Dublin Connolly,Maynooth,0,0,2,684.2
+P746,01 Apr 2025,Maynooth,Dublin Connolly,10,53,1,1.4
+A606,01 Apr 2025,Dublin Connolly,Rosslare Europort,0,0,1,805.8
+E259,01 Apr 2025,Malahide,Bray,21,29,1,-2.0
+E260,01 Apr 2025,Malahide,Bray,21,59,1,0.6
+A910,01 Apr 2025,Dublin Connolly,Sligo,0,0,1,956.2
+P745,01 Apr 2025,Maynooth,Dublin Connolly,9,24,1,4.6
+A909,01 Apr 2025,Sligo,Dublin Connolly,16,27,1,1.0
+D914,01 Apr 2025,Dublin Connolly,Maynooth,0,0,1,717.2
+A908,01 Apr 2025,Dublin Connolly,Sligo,0,0,1,851.0
+A911,01 Apr 2025,Sligo,Dublin Connolly,18,18,1,3.2
+A906,01 Apr 2025,Dublin Connolly,Sligo,0,0,1,777.6
+P744,01 Apr 2025,Maynooth,Dublin Connolly,8,33,1,5.9
+D913,01 Apr 2025,Dublin Connolly,Maynooth,0,0,1,684.0
+P746,31 Mar 2025,Maynooth,Dublin Connolly,10,53,0,1.0
+A606,31 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,0,807.8
+E259,31 Mar 2025,Malahide,Bray,21,29,0,1.0
+E260,31 Mar 2025,Malahide,Bray,21,59,0,-1.4
+A910,31 Mar 2025,Dublin Connolly,Sligo,0,0,0,913.3
+P745,31 Mar 2025,Maynooth,Dublin Connolly,9,24,0,-1.7
+A909,31 Mar 2025,Sligo,Dublin Connolly,16,27,0,1.3
+D914,31 Mar 2025,Dublin Connolly,Maynooth,0,0,0,714.3
+A908,31 Mar 2025,Dublin Connolly,Sligo,0,0,0,848.7
+A911,31 Mar 2025,Sligo,Dublin Connolly,18,18,0,4.8
+A906,31 Mar 2025,Dublin Connolly,Sligo,0,0,0,769.8
+P744,31 Mar 2025,Maynooth,Dublin Connolly,8,33,0,-0.7
+D913,31 Mar 2025,Dublin Connolly,Maynooth,0,0,0,682.6
+P746,30 Mar 2025,Maynooth,Dublin Connolly,16,54,6,-0.3
+A606,30 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,6,824.5
+A910,30 Mar 2025,Dublin Connolly,Sligo,0,0,6,936.2
+P745,30 Mar 2025,Maynooth,Dublin Connolly,16,27,6,3.5
+A909,30 Mar 2025,Sligo,Dublin Connolly,16,13,6,0.1
+D914,30 Mar 2025,Dublin Connolly,Maynooth,0,0,6,922.9
+A908,30 Mar 2025,Dublin Connolly,Sligo,0,0,6,849.8
+A911,30 Mar 2025,Sligo,Dublin Connolly,18,20,6,4.0
+A906,30 Mar 2025,Dublin Connolly,Sligo,0,0,6,738.5
+P744,30 Mar 2025,Maynooth,Dublin Connolly,15,54,6,-1.6
+D913,30 Mar 2025,Dublin Connolly,Maynooth,0,0,6,898.0
+P746,29 Mar 2025,Maynooth,Dublin Connolly,10,22,5,0.3
+A606,29 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,5,828.8
+A910,29 Mar 2025,Dublin Connolly,Sligo,0,0,5,908.2
+P745,29 Mar 2025,Maynooth,Dublin Connolly,9,55,5,-2.2
+A909,29 Mar 2025,Sligo,Dublin Connolly,16,11,5,8.8
+D914,29 Mar 2025,Dublin Connolly,Maynooth,0,0,5,747.2
+A908,29 Mar 2025,Dublin Connolly,Sligo,0,0,5,853.9
+A911,29 Mar 2025,Sligo,Dublin Connolly,18,18,5,8.6
+A906,29 Mar 2025,Dublin Connolly,Sligo,0,0,5,729.2
+P744,29 Mar 2025,Maynooth,Dublin Connolly,9,32,5,-1.6
+D913,29 Mar 2025,Dublin Connolly,Maynooth,0,0,5,713.1
+P746,28 Mar 2025,Maynooth,Dublin Connolly,10,53,4,5.3
+A606,28 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,4,807.4
+E259,28 Mar 2025,Malahide,Bray,21,29,4,6.0
+E260,28 Mar 2025,Malahide,Bray,21,59,4,-1.3
+A910,28 Mar 2025,Dublin Connolly,Sligo,0,0,4,860.4
+P745,28 Mar 2025,Maynooth,Dublin Connolly,9,24,4,-1.6
+A909,28 Mar 2025,Sligo,Dublin Connolly,16,27,4,0.6
+D914,28 Mar 2025,Dublin Connolly,Maynooth,0,0,4,713.4
+A908,28 Mar 2025,Dublin Connolly,Sligo,0,0,4,862.4
+A911,28 Mar 2025,Sligo,Dublin Connolly,18,18,4,21.1
+A906,28 Mar 2025,Dublin Connolly,Sligo,0,0,4,702.2
+P744,28 Mar 2025,Maynooth,Dublin Connolly,8,33,4,-0.7
+D913,28 Mar 2025,Dublin Connolly,Maynooth,0,0,4,688.5
+P746,27 Mar 2025,Maynooth,Dublin Connolly,10,53,3,3.0
+A606,27 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,3,806.9
+E259,27 Mar 2025,Malahide,Bray,21,29,3,-0.7
+E260,27 Mar 2025,Malahide,Bray,21,59,3,-0.3
+A910,27 Mar 2025,Dublin Connolly,Sligo,0,0,3,927.3
+P745,27 Mar 2025,Maynooth,Dublin Connolly,9,24,3,-0.3
+A909,27 Mar 2025,Sligo,Dublin Connolly,16,27,3,3.4
+D914,27 Mar 2025,Dublin Connolly,Maynooth,0,0,3,713.5
+A908,27 Mar 2025,Dublin Connolly,Sligo,0,0,3,855.1
+A911,27 Mar 2025,Sligo,Dublin Connolly,18,18,3,5.5
+A906,27 Mar 2025,Dublin Connolly,Sligo,0,0,3,680.0
+P744,27 Mar 2025,Maynooth,Dublin Connolly,8,33,3,-2.7
+D913,27 Mar 2025,Dublin Connolly,Maynooth,0,0,3,686.9
+P746,26 Mar 2025,Maynooth,Dublin Connolly,10,53,2,2.0
+A606,26 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,2,804.6
+E259,26 Mar 2025,Malahide,Bray,21,29,2,-0.1
+E260,26 Mar 2025,Malahide,Bray,21,59,2,-2.2
+A910,26 Mar 2025,Dublin Connolly,Sligo,0,0,2,950.7
+P745,26 Mar 2025,Maynooth,Dublin Connolly,9,24,2,3.6
+A909,26 Mar 2025,Sligo,Dublin Connolly,16,27,2,3.1
+D914,26 Mar 2025,Dublin Connolly,Maynooth,0,0,2,714.6
+A908,26 Mar 2025,Dublin Connolly,Sligo,0,0,2,852.3
+A911,26 Mar 2025,Sligo,Dublin Connolly,18,18,2,4.6
+A906,26 Mar 2025,Dublin Connolly,Sligo,0,0,2,773.5
+P744,26 Mar 2025,Maynooth,Dublin Connolly,8,33,2,1.8
+D913,26 Mar 2025,Dublin Connolly,Maynooth,0,0,2,690.6
+P746,25 Mar 2025,Maynooth,Dublin Connolly,10,53,1,1.3
+A606,25 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,1,805.9
+E259,25 Mar 2025,Malahide,Bray,21,29,1,-1.8
+E260,25 Mar 2025,Malahide,Bray,21,59,1,-1.4
+A910,25 Mar 2025,Dublin Connolly,Sligo,0,0,1,955.2
+P745,25 Mar 2025,Maynooth,Dublin Connolly,9,24,1,-1.1
+A909,25 Mar 2025,Sligo,Dublin Connolly,16,27,1,6.3
+D914,25 Mar 2025,Dublin Connolly,Maynooth,0,0,1,718.2
+A908,25 Mar 2025,Dublin Connolly,Sligo,0,0,1,849.1
+A911,25 Mar 2025,Sligo,Dublin Connolly,18,18,1,3.8
+A906,25 Mar 2025,Dublin Connolly,Sligo,0,0,1,720.6
+P744,25 Mar 2025,Maynooth,Dublin Connolly,8,33,1,0.2
+D913,25 Mar 2025,Dublin Connolly,Maynooth,0,0,1,686.2
+P746,24 Mar 2025,Maynooth,Dublin Connolly,10,53,0,8.6
+A606,24 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,0,811.7
+E259,24 Mar 2025,Malahide,Bray,21,29,0,-0.9
+E260,24 Mar 2025,Malahide,Bray,21,59,0,1.2
+A910,24 Mar 2025,Dublin Connolly,Sligo,0,0,0,944.4
+P745,24 Mar 2025,Maynooth,Dublin Connolly,9,24,0,2.2
+A909,24 Mar 2025,Sligo,Dublin Connolly,16,27,0,1.2
+D914,24 Mar 2025,Dublin Connolly,Maynooth,0,0,0,717.0
+A908,24 Mar 2025,Dublin Connolly,Sligo,0,0,0,853.6
+A911,24 Mar 2025,Sligo,Dublin Connolly,18,18,0,3.2
+A906,24 Mar 2025,Dublin Connolly,Sligo,0,0,0,737.9
+P744,24 Mar 2025,Maynooth,Dublin Connolly,8,33,0,-2.9
+D913,24 Mar 2025,Dublin Connolly,Maynooth,0,0,0,686.8
+P746,23 Mar 2025,Maynooth,Dublin Connolly,16,54,6,-1.6
+A606,23 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,6,816.9
+A910,23 Mar 2025,Dublin Connolly,Sligo,0,0,6,963.3
+P745,23 Mar 2025,Maynooth,Dublin Connolly,16,27,6,1.3
+A909,23 Mar 2025,Sligo,Dublin Connolly,16,13,6,-2.1
+D914,23 Mar 2025,Dublin Connolly,Maynooth,0,0,6,924.1
+A908,23 Mar 2025,Dublin Connolly,Sligo,0,0,6,846.2
+A911,23 Mar 2025,Sligo,Dublin Connolly,18,20,6,-1.5
+A906,23 Mar 2025,Dublin Connolly,Sligo,0,0,6,729.7
+P744,23 Mar 2025,Maynooth,Dublin Connolly,15,54,6,-2.1
+D913,23 Mar 2025,Dublin Connolly,Maynooth,0,0,6,893.1
+P746,22 Mar 2025,Maynooth,Dublin Connolly,10,22,5,0.0
+A606,22 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,5,864.5
+A910,22 Mar 2025,Dublin Connolly,Sligo,0,0,5,920.1
+P745,22 Mar 2025,Maynooth,Dublin Connolly,9,55,5,2.4
+A909,22 Mar 2025,Sligo,Dublin Connolly,16,11,5,3.5
+D914,22 Mar 2025,Dublin Connolly,Maynooth,0,0,5,748.3
+A908,22 Mar 2025,Dublin Connolly,Sligo,0,0,5,849.5
+A911,22 Mar 2025,Sligo,Dublin Connolly,18,18,5,8.9
+A906,22 Mar 2025,Dublin Connolly,Sligo,0,0,5,733.9
+P744,22 Mar 2025,Maynooth,Dublin Connolly,9,32,5,-1.8
+D913,22 Mar 2025,Dublin Connolly,Maynooth,0,0,5,711.5
+P746,21 Mar 2025,Maynooth,Dublin Connolly,10,53,4,3.1
+A606,21 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,4,808.6
+E259,21 Mar 2025,Malahide,Bray,21,29,4,-1.1
+E260,21 Mar 2025,Malahide,Bray,21,59,4,2.3
+A910,21 Mar 2025,Dublin Connolly,Sligo,0,0,4,904.5
+P745,21 Mar 2025,Maynooth,Dublin Connolly,9,24,4,-1.7
+A909,21 Mar 2025,Sligo,Dublin Connolly,16,27,4,0.9
+D914,21 Mar 2025,Dublin Connolly,Maynooth,0,0,4,713.2
+A908,21 Mar 2025,Dublin Connolly,Sligo,0,0,4,853.5
+A911,21 Mar 2025,Sligo,Dublin Connolly,18,18,4,4.1
+A906,21 Mar 2025,Dublin Connolly,Sligo,0,0,4,758.9
+P744,21 Mar 2025,Maynooth,Dublin Connolly,8,33,4,-2.6
+D913,21 Mar 2025,Dublin Connolly,Maynooth,0,0,4,684.0
+P746,20 Mar 2025,Maynooth,Dublin Connolly,10,53,3,4.3
+A606,20 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,3,805.8
+E259,20 Mar 2025,Malahide,Bray,21,29,3,-1.0
+E260,20 Mar 2025,Malahide,Bray,21,59,3,1.3
+A910,20 Mar 2025,Dublin Connolly,Sligo,0,0,3,942.5
+P745,20 Mar 2025,Maynooth,Dublin Connolly,9,24,3,0.3
+A909,20 Mar 2025,Sligo,Dublin Connolly,16,27,3,-1.2
+D914,20 Mar 2025,Dublin Connolly,Maynooth,0,0,3,713.6
+A908,20 Mar 2025,Dublin Connolly,Sligo,0,0,3,857.4
+A911,20 Mar 2025,Sligo,Dublin Connolly,18,18,3,3.1
+A906,20 Mar 2025,Dublin Connolly,Sligo,0,0,3,761.1
+P744,20 Mar 2025,Maynooth,Dublin Connolly,8,33,3,-1.6
+D913,20 Mar 2025,Dublin Connolly,Maynooth,0,0,3,685.3
+P746,19 Mar 2025,Maynooth,Dublin Connolly,10,53,2,2.2
+A606,19 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,2,805.7
+E259,19 Mar 2025,Malahide,Bray,21,29,2,-0.7
+E260,19 Mar 2025,Malahide,Bray,21,59,2,-0.7
+A910,19 Mar 2025,Dublin Connolly,Sligo,0,0,2,935.6
+P745,19 Mar 2025,Maynooth,Dublin Connolly,9,24,2,0.4
+A909,19 Mar 2025,Sligo,Dublin Connolly,16,27,2,-0.2
+D914,19 Mar 2025,Dublin Connolly,Maynooth,0,0,2,713.0
+A908,19 Mar 2025,Dublin Connolly,Sligo,0,0,2,851.3
+A911,19 Mar 2025,Sligo,Dublin Connolly,18,18,2,5.5
+A906,19 Mar 2025,Dublin Connolly,Sligo,0,0,2,785.1
+P744,19 Mar 2025,Maynooth,Dublin Connolly,8,33,2,0.6
+D913,19 Mar 2025,Dublin Connolly,Maynooth,0,0,2,685.5
+P746,18 Mar 2025,Maynooth,Dublin Connolly,10,53,1,2.9
+A606,18 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,1,808.7
+E259,18 Mar 2025,Malahide,Bray,21,29,1,-1.5
+E260,18 Mar 2025,Malahide,Bray,21,59,1,2.5
+A910,18 Mar 2025,Dublin Connolly,Sligo,0,0,1,949.3
+P745,18 Mar 2025,Maynooth,Dublin Connolly,9,24,1,4.2
+A909,18 Mar 2025,Sligo,Dublin Connolly,16,27,1,13.1
+D914,18 Mar 2025,Dublin Connolly,Maynooth,0,0,1,713.9
+A908,18 Mar 2025,Dublin Connolly,Sligo,0,0,1,853.9
+A911,18 Mar 2025,Sligo,Dublin Connolly,18,18,1,8.7
+A906,18 Mar 2025,Dublin Connolly,Sligo,0,0,1,747.7
+P744,18 Mar 2025,Maynooth,Dublin Connolly,8,33,1,0.4
+D913,18 Mar 2025,Dublin Connolly,Maynooth,0,0,1,687.2
+P746,17 Mar 2025,Maynooth,Dublin Connolly,16,54,0,0.9
+A606,17 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,0,814.7
+A910,17 Mar 2025,Dublin Connolly,Sligo,0,0,0,921.0
+P745,17 Mar 2025,Maynooth,Dublin Connolly,16,27,0,-2.2
+A909,17 Mar 2025,Sligo,Dublin Connolly,16,13,0,3.8
+D914,17 Mar 2025,Dublin Connolly,Maynooth,0,0,0,922.4
+A908,17 Mar 2025,Dublin Connolly,Sligo,0,0,0,871.2
+A911,17 Mar 2025,Sligo,Dublin Connolly,18,20,0,2.9
+A906,17 Mar 2025,Dublin Connolly,Sligo,0,0,0,728.5
+P744,17 Mar 2025,Maynooth,Dublin Connolly,15,54,0,0.3
+D913,17 Mar 2025,Dublin Connolly,Maynooth,0,0,0,903.2
+P746,16 Mar 2025,Maynooth,Dublin Connolly,16,54,6,-2.4
+A606,16 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,6,829.4
+P745,16 Mar 2025,Maynooth,Dublin Connolly,16,27,6,-1.4
+A909,16 Mar 2025,Sligo,Dublin Connolly,16,13,6,0.0
+D914,16 Mar 2025,Dublin Connolly,Maynooth,0,0,6,922.4
+A908,16 Mar 2025,Dublin Connolly,Sligo,0,0,6,897.7
+A911,16 Mar 2025,Sligo,Dublin Connolly,18,20,6,-1.3
+A906,16 Mar 2025,Dublin Connolly,Sligo,0,0,6,737.6
+P744,16 Mar 2025,Maynooth,Dublin Connolly,15,54,6,-1.6
+D913,16 Mar 2025,Dublin Connolly,Maynooth,0,0,6,892.0
+P746,15 Mar 2025,Maynooth,Dublin Connolly,10,22,5,-0.6
+A606,15 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,5,833.0
+A910,15 Mar 2025,Dublin Connolly,Sligo,0,0,5,936.7
+P745,15 Mar 2025,Maynooth,Dublin Connolly,9,55,5,-2.4
+A909,15 Mar 2025,Sligo,Dublin Connolly,16,11,5,11.7
+D914,15 Mar 2025,Dublin Connolly,Maynooth,0,0,5,754.9
+A908,15 Mar 2025,Dublin Connolly,Sligo,0,0,5,871.2
+A911,15 Mar 2025,Sligo,Dublin Connolly,18,18,5,6.5
+A906,15 Mar 2025,Dublin Connolly,Sligo,0,0,5,730.3
+P744,15 Mar 2025,Maynooth,Dublin Connolly,9,32,5,-1.2
+D913,15 Mar 2025,Dublin Connolly,Maynooth,0,0,5,710.8
+P746,14 Mar 2025,Maynooth,Dublin Connolly,10,53,4,7.9
+A606,14 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,4,808.3
+E259,14 Mar 2025,Malahide,Bray,21,29,4,0.4
+E260,14 Mar 2025,Malahide,Bray,21,59,4,-0.4
+A910,14 Mar 2025,Dublin Connolly,Sligo,0,0,4,911.7
+P745,14 Mar 2025,Maynooth,Dublin Connolly,9,24,4,-0.3
+A909,14 Mar 2025,Sligo,Dublin Connolly,16,27,4,0.5
+D914,14 Mar 2025,Dublin Connolly,Maynooth,0,0,4,713.1
+A908,14 Mar 2025,Dublin Connolly,Sligo,0,0,4,848.2
+A911,14 Mar 2025,Sligo,Dublin Connolly,18,18,4,4.1
+A906,14 Mar 2025,Dublin Connolly,Sligo,0,0,4,682.7
+P744,14 Mar 2025,Maynooth,Dublin Connolly,8,33,4,-1.6
+D913,14 Mar 2025,Dublin Connolly,Maynooth,0,0,4,692.7
+P746,13 Mar 2025,Maynooth,Dublin Connolly,10,53,3,7.9
+A606,13 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,3,804.5
+E259,13 Mar 2025,Malahide,Bray,21,29,3,-3.3
+E260,13 Mar 2025,Malahide,Bray,21,59,3,1.4
+A910,13 Mar 2025,Dublin Connolly,Sligo,0,0,3,959.3
+P745,13 Mar 2025,Maynooth,Dublin Connolly,9,24,3,-1.2
+A909,13 Mar 2025,Sligo,Dublin Connolly,16,27,3,0.4
+D914,13 Mar 2025,Dublin Connolly,Maynooth,0,0,3,715.5
+A908,13 Mar 2025,Dublin Connolly,Sligo,0,0,3,851.1
+A911,13 Mar 2025,Sligo,Dublin Connolly,18,18,3,6.9
+A906,13 Mar 2025,Dublin Connolly,Sligo,0,0,3,777.4
+P744,13 Mar 2025,Maynooth,Dublin Connolly,8,33,3,-2.5
+D913,13 Mar 2025,Dublin Connolly,Maynooth,0,0,3,686.9
+P746,12 Mar 2025,Maynooth,Dublin Connolly,10,53,2,1.0
+A606,12 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,2,807.8
+E259,12 Mar 2025,Malahide,Bray,21,29,2,3.0
+E260,12 Mar 2025,Malahide,Bray,21,59,2,0.2
+A910,12 Mar 2025,Dublin Connolly,Sligo,0,0,2,946.0
+P745,12 Mar 2025,Maynooth,Dublin Connolly,9,24,2,0.5
+A909,12 Mar 2025,Sligo,Dublin Connolly,16,27,2,-1.0
+D914,12 Mar 2025,Dublin Connolly,Maynooth,0,0,2,713.2
+A908,12 Mar 2025,Dublin Connolly,Sligo,0,0,2,855.8
+A911,12 Mar 2025,Sligo,Dublin Connolly,18,18,2,10.4
+A906,12 Mar 2025,Dublin Connolly,Sligo,0,0,2,688.0
+P744,12 Mar 2025,Maynooth,Dublin Connolly,8,33,2,10.5
+D913,12 Mar 2025,Dublin Connolly,Maynooth,0,0,2,686.5
+P746,11 Mar 2025,Maynooth,Dublin Connolly,10,53,1,0.5
+A606,11 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,1,812.9
+E259,11 Mar 2025,Malahide,Bray,21,29,1,-2.1
+E260,11 Mar 2025,Malahide,Bray,21,59,1,10.7
+A910,11 Mar 2025,Dublin Connolly,Sligo,0,0,1,968.1
+P745,11 Mar 2025,Maynooth,Dublin Connolly,9,24,1,3.0
+A909,11 Mar 2025,Sligo,Dublin Connolly,16,27,1,18.3
+D914,11 Mar 2025,Dublin Connolly,Maynooth,0,0,1,713.3
+A908,11 Mar 2025,Dublin Connolly,Sligo,0,0,1,851.2
+A911,11 Mar 2025,Sligo,Dublin Connolly,18,18,1,7.2
+A906,11 Mar 2025,Dublin Connolly,Sligo,0,0,1,691.3
+P744,11 Mar 2025,Maynooth,Dublin Connolly,8,33,1,2.3
+D913,11 Mar 2025,Dublin Connolly,Maynooth,0,0,1,687.6
+P746,10 Mar 2025,Maynooth,Dublin Connolly,10,53,0,4.0
+A606,10 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,0,802.3
+E259,10 Mar 2025,Malahide,Bray,21,29,0,0.8
+E260,10 Mar 2025,Malahide,Bray,21,59,0,-1.0
+A910,10 Mar 2025,Dublin Connolly,Sligo,0,0,0,955.5
+P745,10 Mar 2025,Maynooth,Dublin Connolly,9,24,0,-0.5
+A909,10 Mar 2025,Sligo,Dublin Connolly,16,27,0,0.6
+D914,10 Mar 2025,Dublin Connolly,Maynooth,0,0,0,712.5
+A908,10 Mar 2025,Dublin Connolly,Sligo,0,0,0,855.0
+A911,10 Mar 2025,Sligo,Dublin Connolly,18,18,0,3.1
+A906,10 Mar 2025,Dublin Connolly,Sligo,0,0,0,684.6
+P744,10 Mar 2025,Maynooth,Dublin Connolly,8,33,0,-0.5
+D913,10 Mar 2025,Dublin Connolly,Maynooth,0,0,0,687.2
+P746,09 Mar 2025,Maynooth,Dublin Connolly,16,54,6,-2.1
+A606,09 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,6,818.5
+A910,09 Mar 2025,Dublin Connolly,Sligo,0,0,6,945.5
+P745,09 Mar 2025,Maynooth,Dublin Connolly,16,27,6,3.7
+A909,09 Mar 2025,Sligo,Dublin Connolly,16,13,6,4.8
+D914,09 Mar 2025,Dublin Connolly,Maynooth,0,0,6,923.0
+A908,09 Mar 2025,Dublin Connolly,Sligo,0,0,6,845.8
+A911,09 Mar 2025,Sligo,Dublin Connolly,18,20,6,-1.8
+A906,09 Mar 2025,Dublin Connolly,Sligo,0,0,6,733.5
+P744,09 Mar 2025,Maynooth,Dublin Connolly,15,54,6,-0.2
+D913,09 Mar 2025,Dublin Connolly,Maynooth,0,0,6,894.9
+P746,08 Mar 2025,Maynooth,Dublin Connolly,10,22,5,-0.4
+A606,08 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,5,832.2
+A910,08 Mar 2025,Dublin Connolly,Sligo,0,0,5,933.8
+P745,08 Mar 2025,Maynooth,Dublin Connolly,9,55,5,-1.6
+A909,08 Mar 2025,Sligo,Dublin Connolly,16,11,5,2.0
+D914,08 Mar 2025,Dublin Connolly,Maynooth,0,0,5,755.5
+A908,08 Mar 2025,Dublin Connolly,Sligo,0,0,5,895.0
+A911,08 Mar 2025,Sligo,Dublin Connolly,18,18,5,9.6
+A906,08 Mar 2025,Dublin Connolly,Sligo,0,0,5,742.9
+P744,08 Mar 2025,Maynooth,Dublin Connolly,9,32,5,-1.3
+D913,08 Mar 2025,Dublin Connolly,Maynooth,0,0,5,710.9
+P746,07 Mar 2025,Maynooth,Dublin Connolly,10,53,4,27.3
+A606,07 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,4,805.4
+E259,07 Mar 2025,Malahide,Bray,21,29,4,1.4
+E260,07 Mar 2025,Malahide,Bray,21,59,4,-0.6
+A910,07 Mar 2025,Dublin Connolly,Sligo,0,0,4,902.3
+P745,07 Mar 2025,Maynooth,Dublin Connolly,9,24,4,18.0
+A909,07 Mar 2025,Sligo,Dublin Connolly,16,27,4,4.3
+D914,07 Mar 2025,Dublin Connolly,Maynooth,0,0,4,718.3
+A908,07 Mar 2025,Dublin Connolly,Sligo,0,0,4,875.6
+A911,07 Mar 2025,Sligo,Dublin Connolly,18,18,4,5.3
+A906,07 Mar 2025,Dublin Connolly,Sligo,0,0,4,690.5
+P744,07 Mar 2025,Maynooth,Dublin Connolly,8,33,4,-3.1
+D913,07 Mar 2025,Dublin Connolly,Maynooth,0,0,4,691.1
+P746,06 Mar 2025,Maynooth,Dublin Connolly,10,53,3,4.6
+A606,06 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,3,805.9
+E259,06 Mar 2025,Malahide,Bray,21,29,3,-0.7
+E260,06 Mar 2025,Malahide,Bray,21,59,3,0.4
+A910,06 Mar 2025,Dublin Connolly,Sligo,0,0,3,903.4
+P745,06 Mar 2025,Maynooth,Dublin Connolly,9,24,3,-0.3
+A909,06 Mar 2025,Sligo,Dublin Connolly,16,27,3,-0.5
+D914,06 Mar 2025,Dublin Connolly,Maynooth,0,0,3,713.5
+A908,06 Mar 2025,Dublin Connolly,Sligo,0,0,3,855.5
+A911,06 Mar 2025,Sligo,Dublin Connolly,18,18,3,4.2
+A906,06 Mar 2025,Dublin Connolly,Sligo,0,0,3,686.1
+P744,06 Mar 2025,Maynooth,Dublin Connolly,8,33,3,-1.2
+D913,06 Mar 2025,Dublin Connolly,Maynooth,0,0,3,688.9
+P746,05 Mar 2025,Maynooth,Dublin Connolly,10,53,2,1.0
+A606,05 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,2,804.6
+E259,05 Mar 2025,Malahide,Bray,21,29,2,-0.2
+E260,05 Mar 2025,Malahide,Bray,21,59,2,-1.1
+A910,05 Mar 2025,Dublin Connolly,Sligo,0,0,2,932.7
+P745,05 Mar 2025,Maynooth,Dublin Connolly,9,24,2,1.0
+A909,05 Mar 2025,Sligo,Dublin Connolly,16,27,2,0.1
+D914,05 Mar 2025,Dublin Connolly,Maynooth,0,0,2,713.9
+A908,05 Mar 2025,Dublin Connolly,Sligo,0,0,2,859.0
+A911,05 Mar 2025,Sligo,Dublin Connolly,18,18,2,9.7
+A906,05 Mar 2025,Dublin Connolly,Sligo,0,0,2,677.0
+P744,05 Mar 2025,Maynooth,Dublin Connolly,8,33,2,-2.7
+D913,05 Mar 2025,Dublin Connolly,Maynooth,0,0,2,682.8
+P746,04 Mar 2025,Maynooth,Dublin Connolly,10,53,1,5.3
+A606,04 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,1,802.7
+E259,04 Mar 2025,Malahide,Bray,21,29,1,-0.2
+E260,04 Mar 2025,Malahide,Bray,21,59,1,-1.2
+A910,04 Mar 2025,Dublin Connolly,Sligo,0,0,1,960.5
+P745,04 Mar 2025,Maynooth,Dublin Connolly,9,24,1,1.4
+A909,04 Mar 2025,Sligo,Dublin Connolly,16,27,1,0.7
+D914,04 Mar 2025,Dublin Connolly,Maynooth,0,0,1,714.3
+A908,04 Mar 2025,Dublin Connolly,Sligo,0,0,1,859.0
+A911,04 Mar 2025,Sligo,Dublin Connolly,18,18,1,0.1
+A906,04 Mar 2025,Dublin Connolly,Sligo,0,0,1,708.6
+P744,04 Mar 2025,Maynooth,Dublin Connolly,8,33,1,-2.3
+D913,04 Mar 2025,Dublin Connolly,Maynooth,0,0,1,689.0
+P746,03 Mar 2025,Maynooth,Dublin Connolly,10,53,0,2.4
+A606,03 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,0,803.5
+E259,03 Mar 2025,Malahide,Bray,21,29,0,-0.1
+E260,03 Mar 2025,Malahide,Bray,21,59,0,0.3
+A910,03 Mar 2025,Dublin Connolly,Sligo,0,0,0,954.4
+P745,03 Mar 2025,Maynooth,Dublin Connolly,9,24,0,1.8
+A909,03 Mar 2025,Sligo,Dublin Connolly,16,27,0,-1.3
+D914,03 Mar 2025,Dublin Connolly,Maynooth,0,0,0,713.0
+A908,03 Mar 2025,Dublin Connolly,Sligo,0,0,0,858.1
+A911,03 Mar 2025,Sligo,Dublin Connolly,18,18,0,6.8
+A906,03 Mar 2025,Dublin Connolly,Sligo,0,0,0,684.1
+P744,03 Mar 2025,Maynooth,Dublin Connolly,8,33,0,-1.6
+D913,03 Mar 2025,Dublin Connolly,Maynooth,0,0,0,683.6
+P746,02 Mar 2025,Maynooth,Dublin Connolly,16,54,6,-0.4
+A606,02 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,6,811.9
+A910,02 Mar 2025,Dublin Connolly,Sligo,0,0,6,958.2
+P745,02 Mar 2025,Maynooth,Dublin Connolly,16,27,6,3.0
+A909,02 Mar 2025,Sligo,Dublin Connolly,16,13,6,-0.1
+D914,02 Mar 2025,Dublin Connolly,Maynooth,0,0,6,922.3
+A908,02 Mar 2025,Dublin Connolly,Sligo,0,0,6,846.0
+A911,02 Mar 2025,Sligo,Dublin Connolly,18,20,6,-0.8
+A906,02 Mar 2025,Dublin Connolly,Sligo,0,0,6,733.7
+P744,02 Mar 2025,Maynooth,Dublin Connolly,15,54,6,-2.1
+D913,02 Mar 2025,Dublin Connolly,Maynooth,0,0,6,893.3
+P746,01 Mar 2025,Maynooth,Dublin Connolly,10,22,5,0.1
+A606,01 Mar 2025,Dublin Connolly,Rosslare Europort,0,0,5,829.0
+A910,01 Mar 2025,Dublin Connolly,Sligo,0,0,5,926.1
+P745,01 Mar 2025,Maynooth,Dublin Connolly,9,55,5,2.3
+A909,01 Mar 2025,Sligo,Dublin Connolly,16,11,5,4.2
+D914,01 Mar 2025,Dublin Connolly,Maynooth,0,0,5,748.2
+A908,01 Mar 2025,Dublin Connolly,Sligo,0,0,5,863.0
+A911,01 Mar 2025,Sligo,Dublin Connolly,18,18,5,0.1
+A906,01 Mar 2025,Dublin Connolly,Sligo,0,0,5,735.4
+P744,01 Mar 2025,Maynooth,Dublin Connolly,9,32,5,-1.8
+D913,01 Mar 2025,Dublin Connolly,Maynooth,0,0,5,712.3
+P746,28 Feb 2025,Maynooth,Dublin Connolly,10,53,4,9.3
+A606,28 Feb 2025,Dublin Connolly,Rosslare Europort,0,0,4,809.3
+E259,28 Feb 2025,Malahide,Bray,21,29,4,1.6
+E260,28 Feb 2025,Malahide,Bray,21,59,4,2.0
+A910,28 Feb 2025,Dublin Connolly,Sligo,0,0,4,945.4
+P745,28 Feb 2025,Maynooth,Dublin Connolly,9,24,4,-0.7
+A909,28 Feb 2025,Sligo,Dublin Connolly,16,27,4,-1.9
+D914,28 Feb 2025,Dublin Connolly,Maynooth,0,0,4,713.9
+A908,28 Feb 2025,Dublin Connolly,Sligo,0,0,4,853.9
+A911,28 Feb 2025,Sligo,Dublin Connolly,18,18,4,4.4
+A906,28 Feb 2025,Dublin Connolly,Sligo,0,0,4,682.6
+P744,28 Feb 2025,Maynooth,Dublin Connolly,8,33,4,-1.8
+D913,28 Feb 2025,Dublin Connolly,Maynooth,0,0,4,686.5
+P746,27 Feb 2025,Maynooth,Dublin Connolly,10,53,3,3.7
+A606,27 Feb 2025,Dublin Connolly,Rosslare Europort,0,0,3,804.8
+E259,27 Feb 2025,Malahide,Bray,21,29,3,-1.7
+E260,27 Feb 2025,Malahide,Bray,21,59,3,-0.9
+A910,27 Feb 2025,Dublin Connolly,Sligo,0,0,3,946.0
+P745,27 Feb 2025,Maynooth,Dublin Connolly,9,24,3,0.0
+A909,27 Feb 2025,Sligo,Dublin Connolly,16,27,3,1.1
+D914,27 Feb 2025,Dublin Connolly,Maynooth,0,0,3,713.4
+A908,27 Feb 2025,Dublin Connolly,Sligo,0,0,3,875.7
+A911,27 Feb 2025,Sligo,Dublin Connolly,18,18,3,12.2
+A906,27 Feb 2025,Dublin Connolly,Sligo,0,0,3,769.8
+P744,27 Feb 2025,Maynooth,Dublin Connolly,8,33,3,0.7
+D913,27 Feb 2025,Dublin Connolly,Maynooth,0,0,3,686.3
+P746,26 Feb 2025,Maynooth,Dublin Connolly,10,53,2,7.4
+A606,26 Feb 2025,Dublin Connolly,Rosslare Europort,0,0,2,803.4
+E259,26 Feb 2025,Malahide,Bray,21,29,2,-1.2
+E260,26 Feb 2025,Malahide,Bray,21,59,2,2.4
+A910,26 Feb 2025,Dublin Connolly,Sligo,0,0,2,929.8
+P745,26 Feb 2025,Maynooth,Dublin Connolly,9,24,2,-0.6
+A909,26 Feb 2025,Sligo,Dublin Connolly,16,27,2,10.8
+D914,26 Feb 2025,Dublin Connolly,Maynooth,0,0,2,713.8
+A908,26 Feb 2025,Dublin Connolly,Sligo,0,0,2,862.7
+A911,26 Feb 2025,Sligo,Dublin Connolly,18,18,2,4.8
+A906,26 Feb 2025,Dublin Connolly,Sligo,0,0,2,677.9
+P744,26 Feb 2025,Maynooth,Dublin Connolly,8,33,2,-2.1
+D913,26 Feb 2025,Dublin Connolly,Maynooth,0,0,2,685.9
+P746,25 Feb 2025,Maynooth,Dublin Connolly,10,53,1,2.3
+A606,25 Feb 2025,Dublin Connolly,Rosslare Europort,0,0,1,807.7
+E259,25 Feb 2025,Malahide,Bray,21,29,1,-1.7
+E260,25 Feb 2025,Malahide,Bray,21,59,1,-1.2
+A910,25 Feb 2025,Dublin Connolly,Sligo,0,0,1,921.3
+P745,25 Feb 2025,Maynooth,Dublin Connolly,9,24,1,2.1
+A909,25 Feb 2025,Sligo,Dublin Connolly,16,27,1,2.3
+D914,25 Feb 2025,Dublin Connolly,Maynooth,0,0,1,713.7
+A908,25 Feb 2025,Dublin Connolly,Sligo,0,0,1,853.7
+A911,25 Feb 2025,Sligo,Dublin Connolly,18,18,1,4.0
+A906,25 Feb 2025,Dublin Connolly,Sligo,0,0,1,779.9
+P744,25 Feb 2025,Maynooth,Dublin Connolly,8,33,1,-0.1
+D913,25 Feb 2025,Dublin Connolly,Maynooth,0,0,1,683.5
+P746,24 Feb 2025,Maynooth,Dublin Connolly,10,53,0,5.3
+A606,24 Feb 2025,Dublin Connolly,Rosslare Europort,0,0,0,804.5
+E259,24 Feb 2025,Malahide,Bray,21,29,0,-1.3
+E260,24 Feb 2025,Malahide,Bray,21,59,0,3.1
+A910,24 Feb 2025,Dublin Connolly,Sligo,0,0,0,909.7
+P745,24 Feb 2025,Maynooth,Dublin Connolly,9,24,0,0.5
+A909,24 Feb 2025,Sligo,Dublin Connolly,16,27,0,0.3
+D914,24 Feb 2025,Dublin Connolly,Maynooth,0,0,0,713.2
+A908,24 Feb 2025,Dublin Connolly,Sligo,0,0,0,852.2
+A911,24 Feb 2025,Sligo,Dublin Connolly,18,18,0,6.0
+A906,24 Feb 2025,Dublin Connolly,Sligo,0,0,0,757.0
+P744,24 Feb 2025,Maynooth,Dublin Connolly,8,33,0,-0.7
+D913,24 Feb 2025,Dublin Connolly,Maynooth,0,0,0,685.8
+P746,23 Feb 2025,Maynooth,Dublin Connolly,16,54,6,0.5
+A606,23 Feb 2025,Dublin Connolly,Rosslare Europort,0,0,6,813.3
+A910,23 Feb 2025,Dublin Connolly,Sligo,0,0,6,951.9
+P745,23 Feb 2025,Maynooth,Dublin Connolly,16,27,6,4.0
+A909,23 Feb 2025,Sligo,Dublin Connolly,16,13,6,1.1
+D914,23 Feb 2025,Dublin Connolly,Maynooth,0,0,6,924.9
+A908,23 Feb 2025,Dublin Connolly,Sligo,0,0,6,842.8
+A911,23 Feb 2025,Sligo,Dublin Connolly,18,20,6,-1.9
+A906,23 Feb 2025,Dublin Connolly,Sligo,0,0,6,730.1
+P744,23 Feb 2025,Maynooth,Dublin Connolly,15,54,6,-2.1
+D913,23 Feb 2025,Dublin Connolly,Maynooth,0,0,6,892.5
+P746,22 Feb 2025,Maynooth,Dublin Connolly,10,22,5,-1.0
+A606,22 Feb 2025,Dublin Connolly,Rosslare Europort,0,0,5,828.4
+A910,22 Feb 2025,Dublin Connolly,Sligo,0,0,5,942.7
+P745,22 Feb 2025,Maynooth,Dublin Connolly,9,55,5,-1.1
+A909,22 Feb 2025,Sligo,Dublin Connolly,16,11,5,16.1
+D914,22 Feb 2025,Dublin Connolly,Maynooth,0,0,5,748.5
+A908,22 Feb 2025,Dublin Connolly,Sligo,0,0,5,849.0
+A911,22 Feb 2025,Sligo,Dublin Connolly,18,18,5,3.7
+A906,22 Feb 2025,Dublin Connolly,Sligo,0,0,5,730.2
+P744,22 Feb 2025,Maynooth,Dublin Connolly,9,32,5,-2.0
+D913,22 Feb 2025,Dublin Connolly,Maynooth,0,0,5,711.2
+P746,21 Feb 2025,Maynooth,Dublin Connolly,10,53,4,7.7
+A606,21 Feb 2025,Dublin Connolly,Rosslare Europort,0,0,4,808.1
+E259,21 Feb 2025,Malahide,Bray,21,29,4,-1.6
+E260,21 Feb 2025,Malahide,Bray,21,59,4,0.7
+A910,21 Feb 2025,Dublin Connolly,Sligo,0,0,4,918.3
+P745,21 Feb 2025,Maynooth,Dublin Connolly,9,24,4,-1.0
+A909,21 Feb 2025,Sligo,Dublin Connolly,16,27,4,7.8
+D914,21 Feb 2025,Dublin Connolly,Maynooth,0,0,4,713.5
+A908,21 Feb 2025,Dublin Connolly,Sligo,0,0,4,851.8
+A911,21 Feb 2025,Sligo,Dublin Connolly,18,18,4,5.8
+A906,21 Feb 2025,Dublin Connolly,Sligo,0,0,4,680.2
+P744,21 Feb 2025,Maynooth,Dublin Connolly,8,33,4,-1.8
+D913,21 Feb 2025,Dublin Connolly,Maynooth,0,0,4,687.8
